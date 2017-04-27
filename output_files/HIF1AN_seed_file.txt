@@ -1,0 +1,52 @@
+geneID	symbol	descr	num_hek	num_sy5y	num_cell_lines	cell_lines	hcip_cutoff_sy5y	bait
+81027	TUBB1	tubulin beta 1 class VI	0	1	1	s	95	HIF1AN
+55173	MRPS10	mitochondrial ribosomal protein S10	0	1	1	s	90	HIF1AN
+51087	YBX2	Y-box binding protein 2	0	1	1	s	90	HIF1AN
+200081	TXLNA	taxilin alpha	1	0	1	h	NA	HIF1AN
+84498	FAM120B	family with sequence similarity 120B	0	1	1	s	90	HIF1AN
+6595	SMARCA2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	0	1	1	s	90	HIF1AN
+57492	ARID1B	AT-rich interaction domain 1B	0	1	1	s	90	HIF1AN
+9879	DDX46	DEAD-box helicase 46	1	0	1	h	NA	HIF1AN
+6041	RNASEL	ribonuclease L	1	0	1	h	NA	HIF1AN
+6426	SRSF1	serine and arginine rich splicing factor 1	0	1	1	s	90	HIF1AN
+26523	EIF2C1	argonaute 1, RISC catalytic component	0	1	1	s	90	HIF1AN
+6430	SRSF5	serine and arginine rich splicing factor 5	0	1	1	s	90	HIF1AN
+9733	SART3	squamous cell carcinoma antigen recognized by T-cells 3	0	1	1	s	90	HIF1AN
+10146	G3BP1	G3BP stress granule assembly factor 1	0	1	1	s	90	HIF1AN
+286887	KRT6C	keratin 6C	1	0	1	h	NA	HIF1AN
+7337	UBE3A	ubiquitin protein ligase E3A	1	0	1	h	NA	HIF1AN
+140461	ASB8	ankyrin repeat and SOCS box containing 8	1	0	1	h	NA	HIF1AN
+8110	DPF3	double PHD fingers 3	0	1	1	s	90	HIF1AN
+51247	PAIP2	poly(A) binding protein interacting protein 2	0	1	1	s	90	HIF1AN
+5936	RBM4	RNA binding motif protein 4	0	1	1	s	90	HIF1AN
+84790	TUBA1C	tubulin alpha 1c	1	0	1	h	NA	HIF1AN
+4793	NFKBIB	NFKB inhibitor beta	1	0	1	h	NA	HIF1AN
+51258	MRPL51	mitochondrial ribosomal protein L51	0	1	1	s	90	HIF1AN
+51602	NOP58	NOP58 ribonucleoprotein	0	1	1	s	90	HIF1AN
+79169	C1orf35	chromosome 1 open reading frame 35	1	0	1	h	NA	HIF1AN
+54851	ANKRD49	ankyrin repeat domain 49	0	1	1	s	95	HIF1AN
+6597	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	0	1	1	s	90	HIF1AN
+23367	LARP1	La ribonucleoprotein domain family member 1	0	1	1	s	90	HIF1AN
+1993	ELAVL2	ELAV like RNA binding protein 2	0	1	1	s	90	HIF1AN
+9546	APBA3	amyloid beta precursor protein binding family A member 3	1	0	1	h	NA	HIF1AN
+6603	SMARCD2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2	0	1	1	s	90	HIF1AN
+8396	PIP4K2B	phosphatidylinositol-5-phosphate 4-kinase type 2 beta	1	1	2	b	95	HIF1AN
+79443	FYCO1	FYVE and coiled-coil domain containing 1	1	0	1	h	NA	HIF1AN
+347733	TUBB2B	tubulin beta 2B class IIb	0	1	1	s	90	HIF1AN
+79576	NKAP	NFKB activating protein	1	0	1	h	NA	HIF1AN
+149465	WDR65	cilia and flagella associated protein 57	0	1	1	s	90	HIF1AN
+9274	BCL7C	BCL tumor suppressor 7C	0	1	1	s	90	HIF1AN
+8031	NCOA4	nuclear receptor coactivator 4	1	0	1	h	NA	HIF1AN
+8289	ARID1A	AT-rich interaction domain 1A	0	1	1	s	90	HIF1AN
+6626	SNRPA	small nuclear ribonucleoprotein polypeptide A	0	1	1	s	90	HIF1AN
+84451	KIAA1804	mitogen-activated protein kinase kinase kinase 21	1	0	1	h	NA	HIF1AN
+23524	SRRM2	serine/arginine repetitive matrix 2	1	0	1	h	NA	HIF1AN
+10342	TFG	TRK-fused gene	0	1	1	s	90	HIF1AN
+25831	HECTD1	HECT domain E3 ubiquitin protein ligase 1	1	0	1	h	NA	HIF1AN
+6311	ATXN2	ataxin 2	0	1	1	s	90	HIF1AN
+92140	MTDH	metadherin	0	1	1	s	90	HIF1AN
+283373	ANKRD52	ankyrin repeat domain 52	1	0	1	h	NA	HIF1AN
+55662	HIF1AN	hypoxia inducible factor 1 alpha subunit inhibitor	1	1	2	bait	95	HIF1AN
+7919	DDX39B	DExD-box helicase 39B	0	1	1	s	95	HIF1AN
+605	BCL7A	BCL tumor suppressor 7A	0	1	1	s	90	HIF1AN
+23294	ANKS1A	ankyrin repeat and sterile alpha motif domain containing 1A	1	0	1	h	NA	HIF1AN

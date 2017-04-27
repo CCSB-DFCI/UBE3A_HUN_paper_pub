@@ -1,0 +1,249 @@
+geneID	cell_lines	descr	frac_occ	hcip_cutoff_sy5y	num_hek	num_sy5y	source	symbol	synonyms
+55299	None	BRX1, biogenesis of ribosomes	None	None	None	None	extended	BRIX1	BRIX|BXDC2
+5987	None	tripartite motif containing 27	None	None	None	None	extended	TRIM27	RFP|RNF76
+29766	None	tropomodulin 3	None	None	None	None	extended	TMOD3	UTMOD
+7185	None	TNF receptor associated factor 1	None	None	None	None	extended	TRAF1	EBI6|MGC:10353
+392	None	Rho GTPase activating protein 1	None	None	None	None	extended	ARHGAP1	CDC42GAP|RHOGAP|RHOGAP1|p50rhoGAP
+6217	None	ribosomal protein S16	None	None	None	None	extended	RPS16	S16
+6210	None	ribosomal protein S15a	None	None	None	None	extended	RPS15A	S15a
+10574	None	chaperonin containing TCP1 subunit 7	None	None	None	None	extended	CCT7	CCTETA|CCTH|NIP7-1|TCP1ETA
+10575	h	chaperonin containing TCP1 subunit 4	1.0	NA	12	0	seed	CCT4	CCT-DELTA|Cctd|SRB
+10576	None	chaperonin containing TCP1 subunit 2	None	None	None	None	extended	CCT2	99D8.1|CCT-beta|CCTB|HEL-S-100n|PRO1633|TCP-1-beta
+347733	s	tubulin beta 2B class IIb	0.333333333333	90	0	2	seed	TUBB2B	PMGYSA|bA506K6.1
+81565	None	nudE neurodevelopment protein 1 like 1	None	None	None	None	extended	NDEL1	EOPA|MITAP1|NDE1L1|NDE2|NUDEL
+55644	None	O-sialoglycoprotein endopeptidase	None	None	None	None	extended	OSGEP	GCPL1|KAE1|OSGEP1|PRSMG1
+51121	None	ribosomal protein L26 like 1	None	None	None	None	extended	RPL26L1	RPL26P1
+6187	None	ribosomal protein S2	None	None	None	None	extended	RPS2	LLREP3|S2
+6181	None	ribosomal protein lateral stalk subunit P2	None	None	None	None	extended	RPLP2	D11S2243E|LP2|P2|RPP2
+6189	None	ribosomal protein S3A	None	None	None	None	extended	RPS3A	FTE1|MFTL|S3A
+6188	None	ribosomal protein S3	None	None	None	None	extended	RPS3	S3
+6231	h	ribosomal protein S26	0.416666666667	NA	5	0	seed	RPS26	DBA10|S26
+6230	None	ribosomal protein S25	None	None	None	None	extended	RPS25	S25
+6232	None	ribosomal protein S27	None	None	None	None	extended	RPS27	MPS-1|MPS1|S27
+51386	None	eukaryotic translation initiation factor 3 subunit L	None	None	None	None	extended	EIF3L	EIF3EIP|EIF3S11|EIF3S6IP|HSPC021|HSPC025|MSTP005
+55662	b	hypoxia inducible factor 1 alpha subunit inhibitor	1.0	95	12	3	seed	HIF1AN	FIH1
+55661	None	DEAD-box helicase 27	None	None	None	None	extended	DDX27	DRS1|Drs1p|HSPC259|PP3241|RHLP|dJ686N3.1
+140460	None	ankyrin repeat and SOCS box containing 7	None	None	None	None	extended	ASB7	-
+7965	None	aminoacyl tRNA synthetase complex interacting multifunctional protein 2	None	None	None	None	extended	AIMP2	JTV-1|JTV1|P38
+10534	h	Sjogren syndrome/scleroderma autoantigen 1	0.25	NA	3	0	seed	SSSCA1	p27
+9454	None	homer scaffolding protein 3	None	None	None	None	extended	HOMER3	HOMER-3|VESL3
+322	None	amyloid beta precursor protein binding family B member 1	None	None	None	None	extended	APBB1	FE65|MGC:9072|RIR
+23223	None	ribosomal RNA processing 12 homolog	None	None	None	None	extended	RRP12	KIAA0690
+3646	h	eukaryotic translation initiation factor 3 subunit E	0.5	NA	6	0	seed	EIF3E	EIF3-P48|EIF3S6|INT6|eIF3-p46
+8664	h	eukaryotic translation initiation factor 3 subunit D	0.583333333333	NA	7	0	seed	EIF3D	EIF3S7|eIF3-p66|eIF3-zeta
+3065	None	histone deacetylase 1	None	None	None	None	extended	HDAC1	GON-10|HD1|RPD3|RPD3L1
+6477	None	siah E3 ubiquitin protein ligase 1	None	None	None	None	extended	SIAH1	SIAH1A
+8924	b	HECT and RLD domain containing E3 ubiquitin protein ligase 2	1.0	95	12	6	seed	HERC2	D15F37S1|MRT38|SHEP1|jdf2|p528
+5597	h	mitogen-activated protein kinase 6	1.0	NA	12	0	seed	MAPK6	ERK3|HsT17250|PRKM6|p97MAPK
+64753	None	coiled-coil domain containing 136	None	None	None	None	extended	CCDC136	NAG6
+5901	h	RAN, member RAS oncogene family	0.25	NA	3	0	seed	RAN	ARA24|Gsp1|TC4
+11198	None	SPT16 homolog, facilitates chromatin remodeling subunit	None	None	None	None	extended	SUPT16H	CDC68|FACTP140|SPT16|SPT16/CDC68
+1915	None	eukaryotic translation elongation factor 1 alpha 1	None	None	None	None	extended	EEF1A1	CCS-3|CCS3|EE1A1|EEF-1|EEF1A|EF-Tu|EF1A|GRAF-1EF|HNGC:16303|LENG7|PTI1|eEF1A-1
+3959	None	galectin 3 binding protein	None	None	None	None	extended	LGALS3BP	90K|BTBD17B|CyCAP|M2BP|MAC-2-BP|TANGO10B|gp90
+55722	None	centrosomal protein 72	None	None	None	None	extended	CEP72	-
+55093	None	WDYHV motif containing 1	None	None	None	None	extended	WDYHV1	C8orf32
+8350	None	histone cluster 1 H3 family member a	None	None	None	None	extended	HIST1H3A	H3/A|H3FA
+10455	b	enoyl-CoA delta isomerase 2	1.0	95	12	2	seed	ECI2	ACBD2|DRS-1|DRS1|HCA88|PECI|dJ1013A10.3
+55723	None	anti-silencing function 1B histone chaperone	None	None	None	None	extended	ASF1B	CIA-II
+11224	None	ribosomal protein L35	None	None	None	None	extended	RPL35	L35
+1937	None	eukaryotic translation elongation factor 1 gamma	None	None	None	None	extended	EEF1G	EF1G|GIG35
+727851	None	RANBP2-like and GRIP domain containing 8	None	None	None	None	extended	RGPD8	RANBP2L1|RGP8|RanBP2alpha
+9657	None	IQ motif containing B1	None	None	None	None	extended	IQCB1	NPHP5|PIQ|SLSN5
+10120	None	ARP1 actin-related protein 1 homolog B, centractin beta	None	None	None	None	extended	ACTR1B	ARP1B|CTRN2|PC3
+1643	None	damage specific DNA binding protein 2	None	None	None	None	extended	DDB2	DDBB|UV-DDB2|XPE
+4869	None	nucleophosmin	None	None	None	None	extended	NPM1	B23|NPM
+5887	b	RAD23 homolog B, nucleotide excision repair protein	1.0	95	7	1	seed	RAD23B	HHR23B|HR23B|P58
+351	None	amyloid beta precursor protein	None	None	None	None	extended	APP	AAA|ABETA|ABPP|AD1|APPI|CTFgamma|CVAP|PN-II|PN2
+6125	None	ribosomal protein L5	None	None	None	None	extended	RPL5	DBA6|L5|MSTP030|PPP1R135
+6124	None	ribosomal protein L4	None	None	None	None	extended	RPL4	L4
+6122	None	ribosomal protein L3	None	None	None	None	extended	RPL3	ASC-1|L3|TARBP-B
+6129	None	ribosomal protein L7	None	None	None	None	extended	RPL7	L7|humL7-1
+22919	None	microtubule associated protein RP/EB family member 1	None	None	None	None	extended	MAPRE1	EB1
+2783	None	G protein subunit beta 2	None	None	None	None	extended	GNB2	-
+3192	None	heterogeneous nuclear ribonucleoprotein U	None	None	None	None	extended	HNRNPU	HNRNPU-AS1|HNRPU|SAF-A|SAFA|U21.1|hnRNP U
+10142	None	A-kinase anchoring protein 9	None	None	None	None	extended	AKAP9	AKAP-9|AKAP350|AKAP450|CG-NAP|HYPERION|LQT11|MU-RMS-40.16A|PPP1R45|PRKA9|YOTIAO
+1627	None	drebrin 1	None	None	None	None	extended	DBN1	D0S117E
+6143	None	ribosomal protein L19	None	None	None	None	extended	RPL19	L19
+6142	None	ribosomal protein L18a	None	None	None	None	extended	RPL18A	L18A
+6141	None	ribosomal protein L18	None	None	None	None	extended	RPL18	L18
+6147	None	ribosomal protein L23a	None	None	None	None	extended	RPL23A	L23A|MDA20
+6146	None	ribosomal protein L22	None	None	None	None	extended	RPL22	EAP|HBP15|HBP15/L22|L22
+2275	None	four and a half LIM domains 3	None	None	None	None	extended	FHL3	SLIM2
+2058	None	glutamyl-prolyl-tRNA synthetase	None	None	None	None	extended	EPRS	EARS|GLUPRORS|PARS|PIG32|QARS|QPRS
+255626	None	histone cluster 1 H2B family member a	None	None	None	None	extended	HIST1H2BA	H2BFU|STBP|TH2B|TSH2B|TSH2B.1|bA317E16.3
+9349	None	ribosomal protein L23	None	None	None	None	extended	RPL23	L23|rpL17
+101929876	None	40S ribosomal protein S26	None	None	None	None	extended	LOC101929876	-
+1974	None	eukaryotic translation initiation factor 4A2	None	None	None	None	extended	EIF4A2	BM-010|DDX2B|EIF4A|EIF4F|eIF-4A-II|eIF4A-II
+1973	h	eukaryotic translation initiation factor 4A1	0.583333333333	NA	7	0	seed	EIF4A1	DDX2A|EIF-4A|EIF4A|eIF-4A-I|eIF4A-I
+6169	None	ribosomal protein L38	None	None	None	None	extended	RPL38	L38
+6168	None	ribosomal protein L37a	None	None	None	None	extended	RPL37A	L37A
+6161	None	ribosomal protein L32	None	None	None	None	extended	RPL32	L32|PP9932
+6160	None	ribosomal protein L31	None	None	None	None	extended	RPL31	L31
+5708	b	proteasome 26S subunit, non-ATPase 2	1.0	90	12	6	seed	PSMD2	P97|RPN1|S2|TRAP2
+5709	b	proteasome 26S subunit, non-ATPase 3	1.0	90	12	5	seed	PSMD3	P58|RPN3|S3|TSTA2
+5704	b	proteasome 26S subunit, ATPase 4	1.0	90	12	6	seed	PSMC4	MIP224|RPT3|S6|TBP-7|TBP7
+5705	b	proteasome 26S subunit, ATPase 5	1.0	90	12	6	seed	PSMC5	S8|SUG-1|SUG1|TBP10|TRIP1|p45|p45/SUG
+5706	b	proteasome 26S subunit, ATPase 6	1.0	90	12	4	seed	PSMC6	CADP44|HEL-S-73|P44|SUG2|p42
+5707	b	proteasome 26S subunit, non-ATPase 1	1.0	95	12	6	seed	PSMD1	P112|Rpn2|S1
+5700	b	proteasome 26S subunit, ATPase 1	1.0	95	12	4	seed	PSMC1	P26S4|S4|p56
+5701	b	proteasome 26S subunit, ATPase 2	1.0	90	12	5	seed	PSMC2	MSS1|Nbla10058|S7
+5702	b	proteasome 26S subunit, ATPase 3	1.0	90	12	5	seed	PSMC3	TBP1
+112714	None	tubulin alpha 3e	None	None	None	None	extended	TUBA3E	-
+7791	None	zyxin	None	None	None	None	extended	ZYX	ESP-2|HED-2
+8661	None	eukaryotic translation initiation factor 3 subunit A	None	None	None	None	extended	EIF3A	EIF3|EIF3S10|P167|TIF32|eIF3-p170|eIF3-theta|p180|p185
+8662	None	eukaryotic translation initiation factor 3 subunit B	None	None	None	None	extended	EIF3B	EIF3-ETA|EIF3-P110|EIF3-P116|EIF3S9|PRT1
+8663	b	eukaryotic translation initiation factor 3 subunit C	1.0	90	12	3	seed	EIF3C	EIF3CL|EIF3S8|eIF3-p110
+8665	None	eukaryotic translation initiation factor 3 subunit F	None	None	None	None	extended	EIF3F	EIF3S5|eIF3-p47
+8666	None	eukaryotic translation initiation factor 3 subunit G	None	None	None	None	extended	EIF3G	EIF3-P42|EIF3S4|eIF3-delta|eIF3-p44
+8667	None	eukaryotic translation initiation factor 3 subunit H	None	None	None	None	extended	EIF3H	EIF3S3|eIF3-gamma|eIF3-p40
+8668	None	eukaryotic translation initiation factor 3 subunit I	None	None	None	None	extended	EIF3I	EIF3S2|PRO2242|TRIP-1|TRIP1|eIF3-beta|eIF3-p36
+3840	None	karyopherin subunit alpha 4	None	None	None	None	extended	KPNA4	IPOA3|QIP1|SRP3
+3842	None	transportin 1	None	None	None	None	extended	TNPO1	IPO2|KPNB2|MIP|MIP1|TRN
+5696	s	proteasome subunit beta 8	0.333333333333	95	0	2	seed	PSMB8	ALDD|D6S216|D6S216E|JMP|LMP7|NKJO|PSMB5i|RING10
+5694	b	proteasome subunit beta 6	1.0	90	12	4	seed	PSMB6	DELTA|LMPY|Y
+8270	None	L antigen family member 3	None	None	None	None	extended	LAGE3	CVG5|DXS9879E|DXS9951E|ESO3|ITBA2|Pcc1
+991	None	cell division cycle 20	None	None	None	None	extended	CDC20	CDC20A|bA276H19.3|p55CDC
+4141	None	methionyl-tRNA synthetase	None	None	None	None	extended	MARS	CMT2U|ILFS2|ILLD|METRS|MRS|MTRNS|SPG70
+5917	None	arginyl-tRNA synthetase	None	None	None	None	extended	RARS	ArgRS|DALRD1|HLD9
+5885	None	RAD21 cohesin complex component	None	None	None	None	extended	RAD21	CDLS4|HR21|HRAD21|MCD1|NXP1|SCC1|hHR21
+11047	None	adhesion regulating molecule 1	None	None	None	None	extended	ADRM1	ARM-1|ARM1|GP110
+6128	None	ribosomal protein L6	None	None	None	None	extended	RPL6	L6|SHUJUN-2|TAXREB107|TXREB1
+5688	b	proteasome subunit alpha 7	1.0	90	12	2	seed	PSMA7	C6|HEL-S-276|HSPC|RC6-1|XAPC7
+5685	b	proteasome subunit alpha 4	1.0	90	12	2	seed	PSMA4	HC9|HsT17706|PSC9
+5684	b	proteasome subunit alpha 3	1.0	90	12	2	seed	PSMA3	HC8|PSC3
+5686	b	proteasome subunit alpha 5	1.0	90	12	2	seed	PSMA5	PSC5|ZETA
+5683	b	proteasome subunit alpha 2	1.0	90	12	6	seed	PSMA2	HC3|MU|PMSA2|PSC2
+5682	b	proteasome subunit alpha 1	1.0	90	12	5	seed	PSMA1	HC2|HEL-S-275|NU|PROS30
+10006	None	abl interactor 1	None	None	None	None	extended	ABI1	ABI-1|ABLBP4|E3B1|NAP1BP|SSH3BP|SSH3BP1
+9045	None	ribosomal protein L14	None	None	None	None	extended	RPL14	CAG-ISL-7|CTG-B33|L14|RL14|hRL14
+51514	None	denticleless E3 ubiquitin protein ligase homolog	None	None	None	None	extended	DTL	CDT2|DCAF2|L2DTL|RAMP
+10856	None	RuvB like AAA ATPase 2	None	None	None	None	extended	RUVBL2	CGI-46|ECP-51|ECP51|INO80J|REPTIN|RVB2|TAP54-beta|TIH2|TIP48|TIP49B
+1891	b	enoyl-CoA hydratase 1	1.0	95	12	2	seed	ECH1	HPXEL
+9694	None	ER membrane protein complex subunit 2	None	None	None	None	extended	EMC2	KIAA0103|TTC35
+55159	None	ring finger and WD repeat domain 3	None	None	None	None	extended	RFWD3	RNF201
+3895	b	kinectin 1	1.0	95	7	1	seed	KTN1	CG1|KNT|MU-RMS-40.19
+23089	h	paternally expressed 10	0.583333333333	NA	7	0	seed	PEG10	EDR|HB-1|MEF3L|Mar2|Mart2|RGAG3
+7408	s	vasodilator-stimulated phosphoprotein	0.333333333333	95	0	2	seed	VASP	-
+7407	None	valyl-tRNA synthetase	None	None	None	None	extended	VARS	G7A|VARS1|VARS2
+5689	b	proteasome subunit beta 1	1.0	90	12	3	seed	PSMB1	HC5|PMSB1|PSC5
+80351	None	tankyrase 2	None	None	None	None	extended	TNKS2	ARTD6|PARP-5b|PARP-5c|PARP5B|PARP5C|TANK2|TNKL|pART6
+9861	b	proteasome 26S subunit, non-ATPase 6	1.0	90	12	5	seed	PSMD6	Rpn7|S10|SGA-113M|p42A|p44S10
+3735	None	lysyl-tRNA synthetase	None	None	None	None	extended	KARS	CMTRIB|DFNB89|KARS1|KARS2|KRS
+25842	None	anti-silencing function 1A histone chaperone	None	None	None	None	extended	ASF1A	CGI-98|CIA|HSPC146
+4736	None	ribosomal protein L10a	None	None	None	None	extended	RPL10A	CSA19|Csa-19|L10A|NEDD6
+5859	None	glutaminyl-tRNA synthetase	None	None	None	None	extended	QARS	GLNRS|MSCCA|PRO2195
+6204	None	ribosomal protein S10	None	None	None	None	extended	RPS10	DBA9|S10
+6205	None	ribosomal protein S11	None	None	None	None	extended	RPS11	S11
+6206	None	ribosomal protein S12	None	None	None	None	extended	RPS12	S12
+6207	None	ribosomal protein S13	None	None	None	None	extended	RPS13	S13
+6201	None	ribosomal protein S7	None	None	None	None	extended	RPS7	DBA8|S7
+6202	None	ribosomal protein S8	None	None	None	None	extended	RPS8	S8
+6203	None	ribosomal protein S9	None	None	None	None	extended	RPS9	S9
+6208	None	ribosomal protein S14	None	None	None	None	extended	RPS14	EMTB|S14
+6156	None	ribosomal protein L30	None	None	None	None	extended	RPL30	L30
+28988	None	drebrin like	None	None	None	None	extended	DBNL	ABP1|HIP-55|HIP55|SH3P7
+387	None	ras homolog family member A	None	None	None	None	extended	RHOA	ARH12|ARHA|RHO12|RHOH12
+6194	None	ribosomal protein S6	None	None	None	None	extended	RPS6	S6
+6191	None	ribosomal protein S4, X-linked	None	None	None	None	extended	RPS4X	CCG2|DXS306|RPS4|S4|SCAR|SCR10
+6193	None	ribosomal protein S5	None	None	None	None	extended	RPS5	S5
+9184	None	BUB3, mitotic checkpoint protein	None	None	None	None	extended	BUB3	BUB3L|hBUB3
+7203	None	chaperonin containing TCP1 subunit 3	None	None	None	None	extended	CCT3	CCT-gamma|CCTG|PIG48|TCP-1-gamma|TRIC5
+6222	None	ribosomal protein S18	None	None	None	None	extended	RPS18	D6S218E|HKE3|KE-3|KE3|S18
+6223	None	ribosomal protein S19	None	None	None	None	extended	RPS19	DBA|DBA1|S19
+6227	None	ribosomal protein S21	None	None	None	None	extended	RPS21	HLDF|S21
+6224	None	ribosomal protein S20	None	None	None	None	extended	RPS20	S20
+6228	None	ribosomal protein S23	None	None	None	None	extended	RPS23	S23
+9972	None	nucleoporin 153	None	None	None	None	extended	NUP153	HNUP153|N153
+5048	None	platelet activating factor acetylhydrolase 1b regulatory subunit 1	None	None	None	None	extended	PAFAH1B1	LIS1|LIS2|MDCR|MDS|NudF|PAFAH
+10693	None	chaperonin containing TCP1 subunit 6B	None	None	None	None	extended	CCT6B	CCT-zeta-2|CCTZ-2|Cctz2|TCP-1-zeta-2|TSA303
+10694	None	chaperonin containing TCP1 subunit 8	None	None	None	None	extended	CCT8	C21orf112|Cctq|D21S246|PRED71
+6749	None	structure specific recognition protein 1	None	None	None	None	extended	SSRP1	FACT|FACT80|T160
+830	None	capping actin protein of muscle Z-line alpha subunit 2	None	None	None	None	extended	CAPZA2	CAPPA2|CAPZ
+1104	None	regulator of chromosome condensation 1	None	None	None	None	extended	RCC1	CHC1|RCC1-I|SNHG3-RCC1
+4792	None	NFKB inhibitor alpha	None	None	None	None	extended	NFKBIA	IKBA|MAD-3|NFKBI
+11258	None	dynactin subunit 3	None	None	None	None	extended	DCTN3	DCTN-22|DCTN22
+93380	None	membrane magnesium transporter 1	None	None	None	None	extended	MMGT1	EMC5|TMEM32
+1736	None	dyskerin pseudouridine synthase 1	None	None	None	None	extended	DKC1	CBF5|DKC|DKCX|NAP57|NOLA4|XAP101
+23212	None	ribosome biogenesis regulator homolog	None	None	None	None	extended	RRS1	-
+3921	h	ribosomal protein SA	0.416666666667	NA	5	0	seed	RPSA	37LRP|67LR|ICAS|LAMBR|LAMR1|LBP|LBP/p40|LRP|LRP/LR|NEM/1CHD4|SA|lamR|p40
+9933	None	pumilio RNA binding family member 3	None	None	None	None	extended	PUM3	HA-8|HLA-HA8|KIAA0020|PEN|PUF-A|PUF6|XTP5
+908	None	chaperonin containing TCP1 subunit 6A	None	None	None	None	extended	CCT6A	CCT-zeta|CCT-zeta-1|CCT6|Cctz|HTR3|MoDP-2|TCP-1-zeta|TCP20|TCPZ|TTCP20
+5586	None	protein kinase N2	None	None	None	None	extended	PKN2	PAK2|PRK2|PRKCL2|PRO2042|Pak-2|STK7
+6731	None	signal recognition particle 72	None	None	None	None	extended	SRP72	BMFF|BMFS1|HEL103
+5217	None	profilin 2	None	None	None	None	extended	PFN2	D3S1319E|PFL
+121441	None	neural precursor cell expressed, developmentally down-regulated 1	None	None	None	None	extended	NEDD1	GCP-WD|TUBGCP7
+84220	None	RANBP2-like and GRIP domain containing 5	None	None	None	None	extended	RGPD5	BS-63|BS63|HEL161|RGP5
+5567	None	protein kinase cAMP-activated catalytic subunit beta	None	None	None	None	extended	PRKACB	PKA C-beta|PKACB
+7283	None	tubulin gamma 1	None	None	None	None	extended	TUBG1	CDCBM4|GCP-1|TUBG|TUBGCP1
+22948	None	chaperonin containing TCP1 subunit 5	None	None	None	None	extended	CCT5	CCT-epsilon|CCTE|HEL-S-69|PNAS-102|TCP-1-epsilon
+55388	None	minichromosome maintenance 10 replication initiation factor	None	None	None	None	extended	MCM10	CNA43|DNA43|PRO2249
+329	None	baculoviral IAP repeat containing 2	None	None	None	None	extended	BIRC2	API1|HIAP2|Hiap-2|MIHB|RNF48|c-IAP1|cIAP1
+6138	None	ribosomal protein L15	None	None	None	None	extended	RPL15	DBA12|EC45|L15|RPL10|RPLY10|RPYL10
+6132	None	ribosomal protein L8	None	None	None	None	extended	RPL8	L8
+6133	None	ribosomal protein L9	None	None	None	None	extended	RPL9	L9|NPC-A-16
+6130	None	ribosomal protein L7a	None	None	None	None	extended	RPL7A	L7A|SURF3|TRUP
+6136	None	ribosomal protein L12	None	None	None	None	extended	RPL12	L12
+6137	None	ribosomal protein L13	None	None	None	None	extended	RPL13	BBC1|D16S444E|D16S44E|L13
+6134	None	ribosomal protein L10	None	None	None	None	extended	RPL10	AUTSX5|DXS648|DXS648E|L10|NOV|QM
+6135	None	ribosomal protein L11	None	None	None	None	extended	RPL11	DBA7|GIG34|L11
+5692	b	proteasome subunit beta 4	1.0	90	12	4	seed	PSMB4	HN3|HsN3|PROS-26|PROS26
+5690	b	proteasome subunit beta 2	1.0	90	12	4	seed	PSMB2	HC7-I
+1982	None	eukaryotic translation initiation factor 4 gamma 2	None	None	None	None	extended	EIF4G2	AAG1|DAP5|NAT1|P97
+3376	None	isoleucyl-tRNA synthetase	None	None	None	None	extended	IARS	GRIDHH|IARS1|ILERS|ILRS|IRS|PRO0785
+6152	None	ribosomal protein L24	None	None	None	None	extended	RPL24	HEL-S-310|L24
+6154	None	ribosomal protein L26	None	None	None	None	extended	RPL26	DBA11|L26
+6155	None	ribosomal protein L27	None	None	None	None	extended	RPL27	L27
+6157	None	ribosomal protein L27a	None	None	None	None	extended	RPL27A	L27A
+10969	None	EBNA1 binding protein 2	None	None	None	None	extended	EBNA1BP2	EBP2|NOBP|P40
+10152	None	abl interactor 2	None	None	None	None	extended	ABI2	ABI-2|ABI2B|AIP-1|AblBP3|SSH3BP2|argBP1|argBPIA|argBPIB
+29978	None	ubiquilin 2	None	None	None	None	extended	UBQLN2	ALS15|CHAP1|DSK2|HRIHFB2157|N4BP4|PLIC2
+29979	None	ubiquilin 1	None	None	None	None	extended	UBQLN1	DA41|DSK2|PLIC-1|UBQN|XDRP1
+23603	None	coronin 1C	None	None	None	None	extended	CORO1C	HCRNN4
+6176	None	ribosomal protein lateral stalk subunit P1	None	None	None	None	extended	RPLP1	LP1|P1|RPP1
+6175	None	ribosomal protein lateral stalk subunit P0	None	None	None	None	extended	RPLP0	L10E|LP0|P0|PRLP0|RPP0
+10982	None	microtubule associated protein RP/EB family member 2	None	None	None	None	extended	MAPRE2	CSCSC2|EB1|EB2|RP1
+4839	None	NOP2 nucleolar protein	None	None	None	None	extended	NOP2	NOL1|NOP120|NSUN1|p120
+11116	None	FGFR1 oncogene partner	None	None	None	None	extended	FGFR1OP	FOP
+10213	b	proteasome 26S subunit, non-ATPase 14	1.0	95	12	2	seed	PSMD14	PAD1|POH1|RPN11
+79031	None	phosducin like 3	None	None	None	None	extended	PDCL3	HTPHLP|PHLP2A|PHLP3|VIAF|VIAF1
+6500	None	S-phase kinase associated protein 1	None	None	None	None	extended	SKP1	EMC19|OCP-II|OCP2|SKP1A|TCEB1L|p19A
+3801	None	kinesin family member C3	None	None	None	None	extended	KIFC3	-
+4174	None	minichromosome maintenance complex component 5	None	None	None	None	extended	MCM5	CDC46|P1-CDC46
+4175	s	minichromosome maintenance complex component 6	0.166666666667	95	0	1	seed	MCM6	MCG40308|Mis5|P105MCM
+4176	None	minichromosome maintenance complex component 7	None	None	None	None	extended	MCM7	CDC47|MCM2|P1.1-MCM3|P1CDC47|P85MCM|PNAS146|PPP1R104
+4171	None	minichromosome maintenance complex component 2	None	None	None	None	extended	MCM2	BM28|CCNL1|CDCL1|D3S3194|DFNA70|MITOTIN|cdc19
+4172	None	minichromosome maintenance complex component 3	None	None	None	None	extended	MCM3	HCC5|P1-MCM3|P1.h|RLFB
+4173	s	minichromosome maintenance complex component 4	0.166666666667	90	0	1	seed	MCM4	CDC21|CDC54|NKCD|NKGCD|P1-CDC21|hCdc21
+8615	None	USO1 vesicle transport factor	None	None	None	None	extended	USO1	P115|TAP|VDP
+5719	b	proteasome 26S subunit, non-ATPase 13	1.0	90	12	6	seed	PSMD13	HSPC027|Rpn9|S11|p40.5
+5718	b	proteasome 26S subunit, non-ATPase 12	1.0	90	12	6	seed	PSMD12	Rpn5|p55
+5717	b	proteasome 26S subunit, non-ATPase 11	1.0	90	12	5	seed	PSMD11	Rpn6|S9|p44.5
+5716	b	proteasome 26S subunit, non-ATPase 10	1.0	95	10	2	seed	PSMD10	dJ889N15.2|p28|p28(GANK)
+5714	b	proteasome 26S subunit, non-ATPase 8	1.0	90	12	3	seed	PSMD8	HEL-S-91n|HIP6|HYPF|Nin1p|Rpn12|S14|p31
+5713	b	proteasome 26S subunit, non-ATPase 7	1.0	90	12	6	seed	PSMD7	MOV34|P40|Rpn8|S12
+5710	b	proteasome 26S subunit, non-ATPase 4	1.0	95	12	6	seed	PSMD4	AF|AF-1|ASF|MCB1|Rpn10|S5A|pUB-R5
+60	None	actin beta	None	None	None	None	extended	ACTB	BRWS1|PS1TP5BP1
+25998	None	inhibitor of Bruton tyrosine kinase	None	None	None	None	extended	IBTK	BTBD26|BTKI
+5903	None	RAN binding protein 2	None	None	None	None	extended	RANBP2	ADANE|ANE1|IIAE3|NUP358|TRP1|TRP2
+5905	None	Ran GTPase activating protein 1	None	None	None	None	extended	RANGAP1	Fug1|RANGAP|SD
+51377	b	ubiquitin C-terminal hydrolase L5	1.0	95	12	3	seed	UCHL5	CGI-70|INO80R|UCH-L5|UCH37
+728689	None	eukaryotic translation initiation factor 3 subunit C-like	None	None	None	None	extended	EIF3CL	-
+80184	None	centrosomal protein 290	None	None	None	None	extended	CEP290	3H11Ag|BBS14|CT87|JBTS5|LCA10|MKS4|NPHP6|POC3|SLSN6|rd16
+9126	None	structural maintenance of chromosomes 3	None	None	None	None	extended	SMC3	BAM|BMH|CDLS3|CSPG6|HCAP|SMC3L1
+5693	b	proteasome subunit beta 5	1.0	90	12	6	seed	PSMB5	LMPX|MB1|X
+5695	b	proteasome subunit beta 7	1.0	95	12	4	seed	PSMB7	Z
+5966	None	REL proto-oncogene, NF-kB subunit	None	None	None	None	extended	REL	C-Rel
+79892	None	minichromosome maintenance complex binding protein	None	None	None	None	extended	MCMBP	C10orf119|MCM-BP
+8658	None	tankyrase	None	None	None	None	extended	TNKS	ARTD5|PARP-5a|PARP5A|PARPL|TIN1|TINF1|TNKS1|pART5
+1615	None	aspartyl-tRNA synthetase	None	None	None	None	extended	DARS	HBSL|aspRS
+26234	None	F-box and leucine rich repeat protein 5	None	None	None	None	extended	FBXL5	FBL4|FBL5|FLR1
+57175	None	coronin 1B	None	None	None	None	extended	CORO1B	CORONIN-2
+10480	None	eukaryotic translation initiation factor 3 subunit M	None	None	None	None	extended	EIF3M	B5|GA17|PCID1|TANGO7|hfl-B5
+9859	b	centrosomal protein 170	1.0	90	4	2	seed	CEP170	FAM68A|KAB|KIAA0470
+27335	None	eukaryotic translation initiation factor 3 subunit K	None	None	None	None	extended	EIF3K	ARG134|EIF3-p28|EIF3S12|HSPC029|M9|MSTP001|PLAC-24|PLAC24|PRO1474|PTD001
+25873	None	ribosomal protein L36	None	None	None	None	extended	RPL36	L36
+23521	None	ribosomal protein L13a	None	None	None	None	extended	RPL13A	L13A|TSTA1
+51520	h	leucyl-tRNA synthetase	0.416666666667	NA	5	0	seed	LARS	HSPC192|ILFS1|LARS1|LEURS|LEUS|LFIS|LRS|PIG44|RNTLS|hr025Cl
+7278	None	tubulin alpha 3c	None	None	None	None	extended	TUBA3C	TUBA2|bA408E5.3
+8550	h	mitogen-activated protein kinase-activated protein kinase 5	0.25	NA	3	0	seed	MAPKAPK5	MAPKAP-K5|MK-5|MK5|PRAK
+84461	b	neuralized E3 ubiquitin protein ligase 4	1.0	95	12	5	seed	NEURL4	-

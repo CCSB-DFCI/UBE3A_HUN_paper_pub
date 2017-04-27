@@ -1,0 +1,456 @@
+source	SYMBOL	GENEID	DB_ID	NS-SCORE	NWS-SCORE	ND-SCORE	NWD-SCORE	Z-SCORE	WEIGHT FACTOR	RATIO	AVE. APSM	FOUND IN	DESCRIPTION
+293T_HA-HERC2_F1_Exp1	HERC2	8924	sp|O95714|HERC2_HUMAN	7.12	7.67	15.08	18.1	12.32	1.4	8/191	297	2	hect domain and RLD 2
+293T_HA-HERC2_F1_Exp1	MUS81	80198	sp|Q96NY9|MUS81_HUMAN	1.65	1.5	4.95	4.24	10	1	4/191	8	2	MUS81 endonuclease homolog (S. cerevisiae)
+293T_HA-HERC2_F1_Exp1	CCDC22	28952	sp|O60826|CCD22_HUMAN	1.65	1.5	4.95	4.24	4.68	1	4/191	8	2	coiled-coil domain containing 22
+293T_HA-HERC2_F1_Exp1	AGAP3	116988	sp|Q96P47-2|AGAP3_HUMAN	1.17	1.06	4.95	4.24	12.38	1	2/191	2	2	ArfGAP with GTPase domain, ankyrin repeat and PH domain 3
+293T_HA-HERC2_F1_Exp1	ARHGEF5	7984	sp|Q12774|ARHG5_HUMAN	1.55	1.41	4.63	3.97	10.81	1	4/191	7	2	Rho guanine nucleotide exchange factor (GEF) 5
+293T_HA-HERC2_F1_Exp1	EME1	146956	sp|Q96AY2-2|EME1_HUMAN	1.31	1.19	3.91	3.35	6.1	1	4/191	5	2	essential meiotic endonuclease 1 homolog 1 (S. pombe)
+293T_HA-HERC2_F1_Exp1	HERC1	8925	sp|Q15751|HERC1_HUMAN	1.31	1.19	3.91	3.35	3.63	1	4/191	5	2	hect (homologous to the E6-AP (UBE3A) carboxyl terminus) domain and RCC1 (CHC1)-like domain (RLD) 1
+293T_HA-HERC2_F1_Exp1	KIF20A	10112	sp|O95235|KI20A_HUMAN	1.38	1.26	3.7	3.18	9.72	1	5/191	7	2	kinesin family member 20A
+293T_HA-HERC2_F1_Exp1	HPS3	84343	sp|Q969F9-2|HPS3_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	Hermansky-Pudlak syndrome 3
+293T_HA-HERC2_F1_Exp1	HPS5	11234	sp|Q9UPZ3-2|HPS5_HUMAN	0.83	0.75	2.47	2.12	8.57	1	4/191	2	2	Hermansky-Pudlak syndrome 5
+293T_HA-HERC2_F1_Exp1	TUBA1C	84790	sp|Q9BQE3|TBA1C_HUMAN	1.53	1.39	2.45	2.1	2.57	1	14/191	24	2	tubulin, alpha 1c
+293T_HA-HERC2_F1_Exp1	MLL4	9757	sp|Q9UMN6-2|MLL4_HUMAN	0.67	0.61	2.33	2	8.17	1	3/191	1	2	myeloid/lymphoid or mixed-lineage leukemia 4
+293T_HA-HERC2_F1_Exp1	RAB34	83871	sp|Q9BZG1-2|RAB34_HUMAN	0.67	0.61	2.33	2	8.17	1	3/191	1	2	RAB34, member RAS oncogene family
+293T_HA-HERC2_F1_Exp1	NEURL4	84461	sp|Q96JN8-2|NEUL4_HUMAN	0.92	0.91	1.96	1.98	2.1	1.18	8/191	5	2	neuralized homolog 4 (Drosophila)
+293T_HA-HERC2_F1_Exp1	ZDHHC17	23390	sp|Q8IUH5-2|ZDH17_HUMAN	0.83	0.75	2.02	1.73	7.54	1	6/191	3	2	zinc finger, DHHC-type containing 17
+293T_HA-HERC2_F1_Exp1	EPHA7	2045	sp|Q15375-2|EPHA7_HUMAN	0.83	0.75	2.02	1.73	4.77	1	6/191	3	2	EPH receptor A7
+293T_HA-HERC2_F1_Exp1	ZBTB5	9925	sp|O15062|ZBTB5_HUMAN	0.74	0.67	1.98	1.7	3.08	1	5/191	2	2	zinc finger and BTB domain containing 5
+293T_HA-HERC2_F1_Exp1	NUP153	9972	sp|P49790|NU153_HUMAN	0.74	0.67	1.98	1.7	3	1	5/191	2	2	nucleoporin 153kDa
+293T_HA-HERC2_F1_Exp1	GTF3C2	2976	sp|Q8WUA4|TF3C2_HUMAN	0.74	0.67	1.98	1.7	8.17	1	5/191	2	2	general transcription factor IIIC, polypeptide 2, beta 110kDa
+293T_HA-HERC2_F1_Exp1	MLF2	8079	sp|Q15773|MLF2_HUMAN	0.62	0.67	1.41	1.7	1.92	1.4	7/191	2	2	myeloid leukemia factor 2
+293T_HA-HERC2_F1_Exp1	ARNT	405	sp|P27540-2|ARNT_HUMAN	0.58	0.56	1.75	1.67	2.11	1.11	4/191	1	2	aryl hydrocarbon receptor nuclear translocator
+293T_HA-HERC2_F1_Exp1	RNGTT	8732	sp|O60942-2|MCE1_HUMAN	0.58	0.53	1.75	1.5	2.09	1	4/191	1	2	RNA guanylyltransferase and 5'-phosphatase
+293T_HA-HERC2_F1_Exp1	C10orf118	55088	sp|Q7Z3E2|CJ118_HUMAN	0.58	0.53	1.75	1.5	1.37	1	4/191	1	2	chromosome 10 open reading frame 118
+293T_HA-HERC2_F1_Exp1	TRMT2A	27037	sp|Q8IZ69-2|TRM2A_HUMAN	0.58	0.53	1.75	1.5	7	1	4/191	1	2	TRM2 tRNA methyltransferase 2 homolog A (S. cerevisiae)
+293T_HA-HERC2_F1_Exp1	VSIG7	390531	sp|A6NDP1|VSIG7_HUMAN	0.58	0.53	1.75	1.5	7	1	4/191	1	2	V-set and immunoglobulin domain containing 7
+293T_HA-HERC2_F1_Exp1	FDFT1	2222	sp|P37268|FDFT_HUMAN	0.83	0.75	1.57	1.34	5.64	1	10/191	5	2	farnesyl-diphosphate farnesyltransferase 1
+293T_HA-HERC2_F1_Exp1	MKI67	4288	sp|P46013-2|KI67_HUMAN	0.65	0.73	0.98	1.25	3.28	1.49	16/191	5	2	antigen identified by monoclonal antibody Ki-67
+293T_HA-HERC2_F1_Exp1	PRRC2B	84726	sp|Q5JSZ5|PRC2B_HUMAN	0.55	0.58	1.1	1.25	0.58	1.33	9/191	2	2	proline-rich coiled-coil 2B
+293T_HA-HERC2_F1_Exp1	FLNA	2316	sp|P21333-2|FLNA_HUMAN	0.52	0.75	0.51	1.11	0.56	2.52	36/191	7	2	filamin A, alpha
+293T_HA-HERC2_F1_Exp1	RPS27L	51065	sp|Q71UM5|RS27L_HUMAN	0.64	0.58	1.21	1.04	5.04	1	10/191	3	2	ribosomal protein S27-like
+293T_HA-HERC2_F1_Exp1	ADCK3	56997	sp|Q8NI60-3|ADCK3_HUMAN	0.48	0.43	1.17	1	5.71	1	6/191	1	2	aarF domain containing kinase 3
+293T_HA-HERC2_F1_Exp1	HPS6	79803	sp|Q86YV9|HPS6_HUMAN	0.48	0.43	1.17	1	5.71	1	6/191	1	2	Hermansky-Pudlak syndrome 6
+293T_HA-HERC2_F1_Exp1	MAP7D1	55700	sp|Q3KQU3-2|MA7D1_HUMAN	0.67	0.61	1.17	1	6.58	1	12/191	4	2	MAP7 domain containing 1
+293T_HA-HERC2_F1_Exp1	GNL3L	54552	sp|Q9NVN8|GNL3L_HUMAN	0.48	0.43	1.17	1	5.71	1	6/191	1	2	guanine nucleotide binding protein-like 3 (nucleolar)-like
+293T_HA-HERC2_F1_Exp2	HERC2	8924	sp|O95714|HERC2_HUMAN	7.49	8.1	15.87	19.19	12.55	1.41	8/191	329	2	hect domain and RLD 2
+293T_HA-HERC2_F1_Exp2	PLD6	201164	sp|Q8N2A8|PLD6_HUMAN	1.17	1.06	7	6	14.14	1	1/191	1	2	phospholipase D family, member 6
+293T_HA-HERC2_F1_Exp2	EME1	146956	sp|Q96AY2-2|EME1_HUMAN	1.55	1.41	4.63	3.97	8.6	1	4/191	7	2	essential meiotic endonuclease 1 homolog 1 (S. pombe)
+293T_HA-HERC2_F1_Exp2	MUS81	80198	sp|Q96NY9|MUS81_HUMAN	1.55	1.41	4.63	3.97	8.73	1	4/191	7	2	MUS81 endonuclease homolog (S. cerevisiae)
+293T_HA-HERC2_F1_Exp2	CCDC22	28952	sp|O60826|CCD22_HUMAN	1.55	1.41	4.63	3.97	4.08	1	4/191	7	2	coiled-coil domain containing 22
+293T_HA-HERC2_F1_Exp2	ARHGEF5	7984	sp|Q12774|ARHG5_HUMAN	1.31	1.19	3.91	3.35	7.69	1	4/191	5	2	Rho guanine nucleotide exchange factor (GEF) 5
+293T_HA-HERC2_F1_Exp2	GTF3C6	112495	sp|Q969F1|TF3C6_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	general transcription factor IIIC, polypeptide 6, alpha 35kDa
+293T_HA-HERC2_F1_Exp2	ZFYVE16	9765	sp|Q7Z3T8|ZFY16_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	zinc finger, FYVE domain containing 16
+293T_HA-HERC2_F1_Exp2	AGAP3	116988	sp|Q96P47-2|AGAP3_HUMAN	0.83	0.75	3.5	3	6.13	1	2/191	1	2	ArfGAP with GTPase domain, ankyrin repeat and PH domain 3
+293T_HA-HERC2_F1_Exp2	KIF20A	10112	sp|O95235|KI20A_HUMAN	1.28	1.17	3.43	2.94	8.31	1	5/191	6	2	kinesin family member 20A
+293T_HA-HERC2_F1_Exp2	HERC1	8925	sp|Q15751|HERC1_HUMAN	1.01	0.92	3.03	2.6	2.13	1	4/191	3	2	hect (homologous to the E6-AP (UBE3A) carboxyl terminus) domain and RCC1 (CHC1)-like domain (RLD) 1
+293T_HA-HERC2_F1_Exp2	TBK1	29110	sp|Q9UHD2|TBK1_HUMAN	0.88	0.91	2	2.19	2.76	1.28	7/191	4	2	TANK-binding kinase 1
+293T_HA-HERC2_F1_Exp2	MKI67	4288	sp|P46013-2|KI67_HUMAN	1.13	1.26	1.69	2.16	10.18	1.49	16/191	15	2	antigen identified by monoclonal antibody Ki-67
+293T_HA-HERC2_F1_Exp2	KIAA0562	9731	sp|O60308|CE104_HUMAN	0.83	0.75	2.47	2.12	10.37	1	4/191	2	2	KIAA0562
+293T_HA-HERC2_F1_Exp2	TUBA1C	84790	sp|Q9BQE3|TBA1C_HUMAN	1.53	1.39	2.45	2.1	2.57	1	14/191	24	2	tubulin, alpha 1c
+293T_HA-HERC2_F1_Exp2	ZBTB5	9925	sp|O15062|ZBTB5_HUMAN	0.91	0.82	2.42	2.08	4.69	1	5/191	3	2	zinc finger and BTB domain containing 5
+293T_HA-HERC2_F1_Exp2	SUGP2	10147	sp|Q8IX01-3|SUGP2_HUMAN	0.67	0.61	2.33	2	8.17	1	3/191	1	2	SURP and G patch domain containing 2
+293T_HA-HERC2_F1_Exp2	KIF22	3835	sp|Q14807|KIF22_HUMAN	0.67	0.61	2.33	2	8.17	1	3/191	1	2	kinesin family member 22
+293T_HA-HERC2_F1_Exp2	KIAA0889	140710	sp|O94964-2|K0889_HUMAN	0.74	0.67	1.98	1.7	6.29	1	5/191	2	2	KIAA0889
+293T_HA-HERC2_F1_Exp2	HLA-A	3105	sp|P04439|1A03_HUMAN	0.74	0.67	1.98	1.7	5.39	1	5/191	2	2	major histocompatibility complex, class I, A
+293T_HA-HERC2_F1_Exp2	NEURL4	84461	sp|Q96JN8-2|NEUL4_HUMAN	0.72	0.71	1.52	1.53	1.21	1.18	8/191	3	2	neuralized homolog 4 (Drosophila)
+293T_HA-HERC2_F1_Exp2	COMMD8	54951	sp|Q9NX08|COMD8_HUMAN	0.58	0.53	1.75	1.5	2.57	1	4/191	1	2	COMM domain containing 8
+293T_HA-HERC2_F1_Exp2	SLC27A2	11001	sp|O14975|S27A2_HUMAN	0.58	0.53	1.75	1.5	5.11	1	4/191	1	2	solute carrier family 27 (fatty acid transporter), member 2
+293T_HA-HERC2_F1_Exp2	CLN6	54982	sp|Q9NWW5|CLN6_HUMAN	0.58	0.53	1.75	1.5	3.1	1	4/191	1	2	ceroid-lipofuscinosis, neuronal 6, late infantile, variant
+293T_HA-HERC2_F1_Exp2	VSIG7	390531	sp|A6NDP1|VSIG7_HUMAN	0.58	0.53	1.75	1.5	7	1	4/191	1	2	V-set and immunoglobulin domain containing 7
+293T_HA-HERC2_F1_Exp2	CEP170	9859	sp|Q5SW79-2|CE170_HUMAN	0.44	0.53	1	1.47	0.1	1.71	7/191	1	2	centrosomal protein 170kDa
+293T_HA-HERC2_F1_Exp2	TUBB1	81027	sp|Q9H4B7|TBB1_HUMAN	0.95	0.87	1.65	1.41	2.03	1	12/191	8	2	tubulin, beta 1
+293T_HA-HERC2_F1_Exp2	TUBGCP2	10844	sp|Q9BSJ2|GCP2_HUMAN	0.52	0.48	1.4	1.2	3.69	1	5/191	1	2	tubulin, gamma complex associated protein 2
+293T_HA-HERC2_F1_Exp2	MLF2	8079	sp|Q15773|MLF2_HUMAN	0.44	0.48	1	1.2	0.9	1.4	7/191	1	2	myeloid leukemia factor 2
+293T_HA-HERC2_F1_Exp2	HLA-C	3107	sp|Q29963|1C06_HUMAN	0.67	0.61	1.35	1.15	4.14	1	9/191	3	2	major histocompatibility complex, class I, C
+293T_HA-HERC2_F1_Exp2	FDFT1	2222	sp|P37268|FDFT_HUMAN	0.64	0.58	1.21	1.04	3.31	1	10/191	3	2	farnesyl-diphosphate farnesyltransferase 1
+293T_HA-HERC2_F1_Exp2	ACSL3	2181	sp|O95573|ACSL3_HUMAN	0.64	0.58	1.21	1.04	5.43	1	10/191	3	2	acyl-CoA synthetase long-chain family member 3
+293T_HA-HERC2_F1_Exp2	HPS6	79803	sp|Q86YV9|HPS6_HUMAN	0.48	0.43	1.17	1	5.71	1	6/191	1	2	Hermansky-Pudlak syndrome 6
+293T_HA-HERC2_F1_Exp2	ZDHHC17	23390	sp|Q8IUH5-2|ZDH17_HUMAN	0.48	0.43	1.17	1	2.41	1	6/191	1	2	zinc finger, DHHC-type containing 17
+293T_HA-HERC2_F1_Exp2	CLU	1191	sp|P10909-2|CLUS_HUMAN	0.48	0.43	1.17	1	4.57	1	6/191	1	2	clusterin
+293T_HA-HERC2_F1_Exp3	HERC2	8924	sp|O95714|HERC2_HUMAN	8.96	9.69	18.99	22.96	13.13	1.41	8/191	471	2	hect domain and RLD 2
+293T_HA-HERC2_F1_Exp3	UHMK1	127933	sp|Q8TAS1|UHMK1_HUMAN	1.17	1.06	7	6	14.14	1	1/191	1	2	U2AF homology motif (UHM) kinase 1
+293T_HA-HERC2_F1_Exp3	CCDC22	28952	sp|O60826|CCD22_HUMAN	2.19	1.99	6.55	5.61	8.3	1	4/191	14	2	coiled-coil domain containing 22
+293T_HA-HERC2_F1_Exp3	NCAPD3	23310	sp|P42695|CNDD3_HUMAN	1.43	1.3	6.06	5.2	11.42	1	2/191	3	2	non-SMC condensin II complex, subunit D3
+293T_HA-HERC2_F1_Exp3	WWOX	51741	sp|Q9NZC7-2|WWOX_HUMAN	1.43	1.3	6.06	5.2	9.58	1	2/191	3	2	WW domain containing oxidoreductase
+293T_HA-HERC2_F1_Exp3	HERC1	8925	sp|Q15751|HERC1_HUMAN	1.75	1.6	5.25	4.5	6.64	1	4/191	9	2	hect (homologous to the E6-AP (UBE3A) carboxyl terminus) domain and RCC1 (CHC1)-like domain (RLD) 1
+293T_HA-HERC2_F1_Exp3	LTN1	26046	sp|O94822|LTN1_HUMAN	1.17	1.06	4.95	4.24	12.38	1	2/191	2	2	listerin E3 ubiquitin protein ligase 1
+293T_HA-HERC2_F1_Exp3	TOMM22	56993	sp|Q9NS69|TOM22_HUMAN	1.17	1.06	4.95	4.24	12.38	1	2/191	2	2	translocase of outer mitochondrial membrane 22 homolog (yeast)
+293T_HA-HERC2_F1_Exp3	USP16	10600	sp|Q9Y5T5-2|UBP16_HUMAN	1.17	1.06	4.95	4.24	9.9	1	2/191	2	2	ubiquitin specific peptidase 16
+293T_HA-HERC2_F1_Exp3	ABCB6	10058	sp|Q9NP58-4|ABCB6_HUMAN	1.17	1.06	4.95	4.24	12.38	1	2/191	2	2	ATP-binding cassette, sub-family B (MDR/TAP), member 6
+293T_HA-HERC2_F1_Exp3	KIRREL	55243	sp|Q96J84-2|KIRR1_HUMAN	1.17	1.06	4.95	4.24	9.9	1	2/191	2	2	kin of IRRE like (Drosophila)
+293T_HA-HERC2_F1_Exp3	COMMD4	54939	sp|Q9H0A8|COMD4_HUMAN	1.35	1.23	4.67	4	8.4	1	3/191	4	2	COMM domain containing 4
+293T_HA-HERC2_F1_Exp3	SLC25A4	291	sp|P12235|ADT1_HUMAN	1.57	1.45	4.2	3.71	8.14	1.03	5/191	9	2	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4
+293T_HA-HERC2_F1_Exp3	C10orf118	55088	sp|Q7Z3E2|CJ118_HUMAN	1.43	1.3	4.29	3.67	8.84	1	4/191	6	2	chromosome 10 open reading frame 118
+293T_HA-HERC2_F1_Exp3	RNGTT	8732	sp|O60942-2|MCE1_HUMAN	1.31	1.19	3.91	3.35	10.98	1	4/191	5	2	RNA guanylyltransferase and 5'-phosphatase
+293T_HA-HERC2_F1_Exp3	EME1	146956	sp|Q96AY2-2|EME1_HUMAN	1.31	1.19	3.91	3.35	6.1	1	4/191	5	2	essential meiotic endonuclease 1 homolog 1 (S. pombe)
+293T_HA-HERC2_F1_Exp3	COMMD3	23412	sp|Q9UBI1|COMD3_HUMAN	1.17	1.06	3.5	3	10.68	1	4/191	4	2	COMM domain containing 3
+293T_HA-HERC2_F1_Exp3	RAB18	22931	sp|Q9NP72|RAB18_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	RAB18, member RAS oncogene family
+293T_HA-HERC2_F1_Exp3	COMMD8	54951	sp|Q9NX08|COMD8_HUMAN	1.17	1.06	3.5	3	10.68	1	4/191	4	2	COMM domain containing 8
+293T_HA-HERC2_F1_Exp3	RAB2A	5862	sp|P61019|RAB2A_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	RAB2A, member RAS oncogene family
+293T_HA-HERC2_F1_Exp3	ZBTB5	9925	sp|O15062|ZBTB5_HUMAN	1.28	1.17	3.43	2.94	9.53	1	5/191	6	2	zinc finger and BTB domain containing 5
+293T_HA-HERC2_F1_Exp3	HLA-E	3133	sp|P13747|HLAE_HUMAN	0.95	0.87	3.3	2.83	7.88	1	3/191	2	2	major histocompatibility complex, class I, E
+293T_HA-HERC2_F1_Exp3	COMMD1	150684	sp|Q8N668|COMD1_HUMAN	0.95	0.87	3.3	2.83	7.3	1	3/191	2	2	copper metabolism (Murr1) domain containing 1
+293T_HA-HERC2_F1_Exp3	GPX1	2876	sp|P07203|GPX1_HUMAN	0.95	0.87	3.3	2.83	11	1	3/191	2	2	glutathione peroxidase 1
+293T_HA-HERC2_F1_Exp3	GRB7	2886	sp|Q14451|GRB7_HUMAN	0.95	0.87	3.3	2.83	7.3	1	3/191	2	2	growth factor receptor-bound protein 7
+293T_HA-HERC2_F1_Exp3	NEURL4	84461	sp|Q96JN8-2|NEUL4_HUMAN	1.24	1.23	2.63	2.66	3.9	1.18	8/191	9	2	neuralized homolog 4 (Drosophila)
+293T_HA-HERC2_F1_Exp3	TUBA1C	84790	sp|Q9BQE3|TBA1C_HUMAN	1.85	1.68	2.96	2.54	3.86	1	14/191	35	2	tubulin, alpha 1c
+293T_HA-HERC2_F1_Exp3	EPHA7	2045	sp|Q15375-2|EPHA7_HUMAN	1.07	0.97	2.61	2.24	8.05	1	6/191	5	2	EPH receptor A7
+293T_HA-HERC2_F1_Exp3	MUS81	80198	sp|Q96NY9|MUS81_HUMAN	0.83	0.75	2.47	2.12	2.41	1	4/191	2	2	MUS81 endonuclease homolog (S. cerevisiae)
+293T_HA-HERC2_F1_Exp3	ARHGEF5	7984	sp|Q12774|ARHG5_HUMAN	0.83	0.75	2.47	2.12	3	1	4/191	2	2	Rho guanine nucleotide exchange factor (GEF) 5
+293T_HA-HERC2_F1_Exp3	SLC25A18	83733	sp|Q9H1K4|GHC2_HUMAN	0.83	0.75	2.47	2.12	10.37	1	4/191	2	2	solute carrier family 25 (mitochondrial carrier), member 18
+293T_HA-HERC2_F1_Exp3	GRIPAP1	56850	sp|Q4V328-3|GRAP1_HUMAN	0.83	0.75	2.47	2.12	8.57	1	4/191	2	2	GRIP1 associated protein 1
+293T_HA-HERC2_F1_Exp3	CBWD2	150472	sp|Q8IUF1|CBWD2_HUMAN	0.91	0.82	2.42	2.08	10.21	1	5/191	3	2	COBW domain containing 2
+293T_HA-HERC2_F1_Exp3	KIF20A	10112	sp|O95235|KI20A_HUMAN	0.91	0.82	2.42	2.08	4.08	1	5/191	3	2	kinesin family member 20A
+293T_HA-HERC2_F1_Exp3	CEP170	9859	sp|Q5SW79-2|CE170_HUMAN	0.62	0.74	1.41	2.07	0.3	1.71	7/191	2	2	centrosomal protein 170kDa
+293T_HA-HERC2_F1_Exp3	TUBAL3	79861	sp|A6NHL2-2|TBAL3_HUMAN	0.95	0.87	2.33	2	4.64	1	6/191	4	2	tubulin, alpha-like 3
+293T_HA-HERC2_F1_Exp3	FAM69B	138311	sp|Q5VUD6-2|FA69B_HUMAN	0.67	0.61	2.33	2	8.17	1	3/191	1	2	family with sequence similarity 69, member B
+293T_HA-HERC2_F1_Exp3	TYMS	7298	sp|P04818|TYSY_HUMAN	0.67	0.61	2.33	2	8.17	1	3/191	1	2	thymidylate synthetase
+293T_HA-HERC2_F1_Exp3	FAM96B	51647	sp|Q9Y3D0|MIP18_HUMAN	0.67	0.61	2.33	2	8.17	1	3/191	1	2	family with sequence similarity 96, member B
+293T_HA-HERC2_F1_Exp3	TYSND1	219743	sp|Q2T9J0-2|TYSD1_HUMAN	0.62	0.72	1.41	1.96	1.83	1.62	7/191	2	2	trypsin domain containing 1
+293T_HA-HERC2_F1_Exp3	CDIPT	10423	sp|O14735|CDIPT_HUMAN	1.01	0.92	2.14	1.84	10.76	1	8/191	6	2	CDP-diacylglycerol--inositol 3-phosphatidyltransferase
+293T_HA-HERC2_F1_Exp3	FDFT1	2222	sp|P37268|FDFT_HUMAN	1.11	1.01	2.1	1.8	10.29	1	10/191	9	2	farnesyl-diphosphate farnesyltransferase 1
+293T_HA-HERC2_F1_Exp3	KTN1	3895	sp|Q86UP2-2|KTN1_HUMAN	0.44	0.58	1	1.77	0.44	2.07	7/191	1	2	kinectin 1 (kinesin receptor)
+293T_HA-HERC2_F1_Exp3	HLA-A	3105	sp|P04439|1A03_HUMAN	0.74	0.67	1.98	1.7	5.39	1	5/191	2	2	major histocompatibility complex, class I, A
+293T_HA-HERC2_F1_Exp3	UBE2O	63893	sp|Q9C0C9|UBE2O_HUMAN	0.55	0.66	1.1	1.62	1.3	1.72	9/191	2	2	ubiquitin-conjugating enzyme E2O
+293T_HA-HERC2_F1_Exp3	SLC27A2	11001	sp|O14975|S27A2_HUMAN	0.58	0.53	1.75	1.5	5.11	1	4/191	1	2	solute carrier family 27 (fatty acid transporter), member 2
+293T_HA-HERC2_F1_Exp3	HOOK3	84376	sp|Q86VS8|HOOK3_HUMAN	0.58	0.53	1.75	1.5	7	1	4/191	1	2	hook homolog 3 (Drosophila)
+293T_HA-HERC2_F1_Exp3	TUBB1	81027	sp|Q9H4B7|TBB1_HUMAN	1.01	0.92	1.75	1.5	2.31	1	12/191	9	2	tubulin, beta 1
+293T_HA-HERC2_F1_Exp3	SLC27A4	10999	sp|Q6P1M0|S27A4_HUMAN	0.58	0.53	1.75	1.5	0.91	1	4/191	1	2	solute carrier family 27 (fatty acid transporter), member 4
+293T_HA-HERC2_F1_Exp3	ATXN10	25814	sp|Q9UBB4|ATX10_HUMAN	0.58	0.53	1.75	1.5	7	1	4/191	1	2	ataxin 10
+293T_HA-HERC2_F1_Exp3	CPT1A	1374	sp|P50416-2|CPT1A_HUMAN	0.58	0.53	1.75	1.5	7	1	4/191	1	2	carnitine palmitoyltransferase 1A (liver)
+293T_HA-HERC2_F1_Exp3	CHCHD3	54927	sp|Q9NX63|CHCH3_HUMAN	0.58	0.53	1.75	1.5	7	1	4/191	1	2	coiled-coil-helix-coiled-coil-helix domain containing 3
+293T_HA-HERC2_F1_Exp3	NUDC	10726	sp|Q9Y266|NUDC_HUMAN	0.52	0.67	0.81	1.39	0.66	2	15/191	3	2	nuclear distribution gene C homolog (A. nidulans)
+293T_HA-HERC2_F1_Exp3	GLUD1	2746	sp|P00367|DHE3_HUMAN	0.86	0.79	1.56	1.34	8.13	1	11/191	6	2	glutamate dehydrogenase 1
+293T_HA-HERC2_F1_Exp3	SLC25A12	8604	sp|O75746|CMC1_HUMAN	0.86	0.79	1.56	1.34	7.8	1	11/191	6	2	solute carrier family 25 (mitochondrial carrier, Aralar), member 12
+293T_HA-HERC2_F1_Exp3	PSMD1	5707	sp|Q99460-2|PSMD1_HUMAN	0.45	0.72	0.46	1.24	0.14	3.13	34/191	5	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1
+293T_HA-HERC2_F1_Exp3	CRKL	1399	sp|P46109|CRKL_HUMAN	0.83	0.75	1.43	1.23	9.8	1	12/191	6	2	v-crk sarcoma virus CT10 oncogene homolog (avian)-like
+293T_HA-HERC2_F1_Exp3	ACSL3	2181	sp|O95573|ACSL3_HUMAN	0.74	0.67	1.4	1.2	7.32	1	10/191	4	2	acyl-CoA synthetase long-chain family member 3
+293T_HA-HERC2_F1_Exp3	HEATR1	55127	sp|Q9H583|HEAT1_HUMAN	0.52	0.48	1.4	1.2	6.06	1	5/191	1	2	HEAT repeat containing 1
+293T_HA-HERC2_F1_Exp3	ESPL1	9700	sp|Q14674|ESPL1_HUMAN	0.52	0.48	1.4	1.2	6.06	1	5/191	1	2	extra spindle pole bodies homolog 1 (S. cerevisiae)
+293T_HA-HERC2_F1_Exp3	GTF3C2	2976	sp|Q8WUA4-2|TF3C2_HUMAN	0.52	0.48	1.4	1.2	4	1	5/191	1	2	general transcription factor IIIC, polypeptide 2, beta 110kDa
+293T_HA-HERC2_F1_Exp3	SFXN4	119559	sp|Q6P4A7-3|SFXN4_HUMAN	0.67	0.61	1.35	1.15	5.71	1	9/191	3	2	sideroflexin 4
+293T_HA-HERC2_F1_Exp3	HLA-C	3107	sp|Q29865|1C18_HUMAN	0.67	0.61	1.35	1.15	4.14	1	9/191	3	2	major histocompatibility complex, class I, C
+293T_HA-HERC2_F1_Exp3	TBK1	29110	sp|Q9UHD2|TBK1_HUMAN	0.44	0.45	1	1.1	0.6	1.28	7/191	1	2	TANK-binding kinase 1
+293T_HA-HERC2_F1_Exp3	AUP1	550	sp|Q9Y679-2|AUP1_HUMAN	0.58	0.53	1.24	1.06	5.08	1	8/191	2	2	ancient ubiquitous protein 1
+293T_HA-HERC2_F1_Exp3	TMEM165	55858	sp|Q9HC07|TM165_HUMAN	0.64	0.58	1.21	1.04	6.93	1	10/191	3	2	transmembrane protein 165
+293T_HA-HERC2_F1_Exp3	PSMD3	5709	sp|O43242|PSMD3_HUMAN	0.44	0.69	0.4	1.02	0.15	2.98	43/191	6	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3
+293T_HA-HERC2_F1_Exp3	PSMD11	5717	sp|O00231|PSD11_HUMAN	0.4	0.58	0.47	1.02	0	2.55	26/191	3	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11
+293T_HA-HERC2_F1_Exp3	XPO5	57510	sp|Q9HAV4|XPO5_HUMAN	0.48	0.43	1.17	1	4.57	1	6/191	1	2	exportin 5
+293T_HA-HERC2_F1_Exp3	C18orf55	29090	sp|Q9BVV7|TI21L_HUMAN	0.48	0.43	1.17	1	4.57	1	6/191	1	2	chromosome 18 open reading frame 55
+293T_HA-HERC2_F1_Exp3	CNN3	1266	sp|Q15417|CNN3_HUMAN	0.48	0.43	1.17	1	5.71	1	6/191	1	2	calponin 3, acidic
+293T_HA-HERC2_F1_Exp3	VPS4B	9525	sp|O75351|VPS4B_HUMAN	0.48	0.43	1.17	1	4.57	1	6/191	1	2	vacuolar protein sorting 4 homolog B (S. cerevisiae)
+293T_HA-HERC2_F1_Exp3	SLC25A10	1468	sp|Q9UBX3-2|DIC_HUMAN	0.48	0.43	1.17	1	2.71	1	6/191	1	2	solute carrier family 25 (mitochondrial carrier; dicarboxylate transporter), member 10
+293T_HA-HERC2_F1_Exp3	PELP1	27043	sp|Q8IZL8-2|PELP1_HUMAN	0.48	0.43	1.17	1	5.71	1	6/191	1	2	proline, glutamate and leucine rich protein 1
+293T_HA-HERC2_F1_Exp3	NCLN	56926	sp|Q969V3-2|NCLN_HUMAN	0.48	0.43	1.17	1	4.57	1	6/191	1	2	nicalin
+293T_HA-HERC2_F1_Exp4	HERC2	8924	sp|O95714|HERC2_HUMAN	9.82	10.62	20.8	25.14	13.31	1.41	8/191	565	2	hect domain and RLD 2
+293T_HA-HERC2_F1_Exp4	NDUFA11	126328	sp|Q86Y39-2|NDUAB_HUMAN	1.65	1.5	9.9	8.49	14.21	1	1/191	2	2	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 11, 14.7kDa
+293T_HA-HERC2_F1_Exp4	CBWD1	55871	sp|Q9BRT8-3|CBWD1_HUMAN	1.65	1.5	9.9	8.49	14.21	1	1/191	2	2	COBW domain containing 1
+293T_HA-HERC2_F1_Exp4	KDELR1	10945	sp|P24390|ERD21_HUMAN	1.65	1.5	9.9	8.49	14.21	1	1/191	2	2	KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 1
+293T_HA-HERC2_F1_Exp4	HLA-DQB1	3119	tr|A2AAZ0|A2AAZ0_HUMAN	1.65	1.5	9.9	8.49	14.21	1	1/191	2	2	major histocompatibility complex, class II, DQ beta 1
+293T_HA-HERC2_F1_Exp4	ESRP2	80004	sp|Q9H6T0-2|ESRP2_HUMAN	1.17	1.06	7	6	14.14	1	1/191	1	2	epithelial splicing regulatory protein 2
+293T_HA-HERC2_F1_Exp4	CCDC22	28952	sp|O60826|CCD22_HUMAN	2.26	2.06	6.78	5.81	8.9	1	4/191	15	2	coiled-coil domain containing 22
+293T_HA-HERC2_F1_Exp4	HERC1	8925	sp|Q15751|HERC1_HUMAN	2.26	2.06	6.78	5.81	11.15	1	4/191	15	2	hect (homologous to the E6-AP (UBE3A) carboxyl terminus) domain and RCC1 (CHC1)-like domain (RLD) 1
+293T_HA-HERC2_F1_Exp4	ARMCX5	64860	sp|Q6P1M9|ARMX5_HUMAN	1.43	1.3	6.06	5.2	12.96	1	2/191	3	2	armadillo repeat containing, X-linked 5
+293T_HA-HERC2_F1_Exp4	WWOX	51741	sp|Q9NZC7-2|WWOX_HUMAN	1.43	1.3	6.06	5.2	9.58	1	2/191	3	2	WW domain containing oxidoreductase
+293T_HA-HERC2_F1_Exp4	COMMD4	54939	sp|Q9H0A8|COMD4_HUMAN	1.51	1.37	5.22	4.47	10.53	1	3/191	5	2	COMM domain containing 4
+293T_HA-HERC2_F1_Exp4	SLC25A4	291	sp|P12235|ADT1_HUMAN	1.81	1.67	4.85	4.28	10.89	1.03	5/191	12	2	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4
+293T_HA-HERC2_F1_Exp4	NCAPD3	23310	sp|P42695|CNDD3_HUMAN	1.17	1.06	4.95	4.24	7.58	1	2/191	2	2	non-SMC condensin II complex, subunit D3
+293T_HA-HERC2_F1_Exp4	KIRREL	55243	sp|Q96J84-2|KIRR1_HUMAN	1.17	1.06	4.95	4.24	9.9	1	2/191	2	2	kin of IRRE like (Drosophila)
+293T_HA-HERC2_F1_Exp4	C10orf118	55088	sp|Q7Z3E2|CJ118_HUMAN	1.55	1.41	4.63	3.97	10.33	1	4/191	7	2	chromosome 10 open reading frame 118
+293T_HA-HERC2_F1_Exp4	COMMD1	150684	sp|Q8N668|COMD1_HUMAN	1.17	1.06	4.04	3.46	11	1	3/191	3	2	copper metabolism (Murr1) domain containing 1
+293T_HA-HERC2_F1_Exp4	GRB7	2886	sp|Q14451|GRB7_HUMAN	1.17	1.06	4.04	3.46	11	1	3/191	3	2	growth factor receptor-bound protein 7
+293T_HA-HERC2_F1_Exp4	EME1	146956	sp|Q96AY2-2|EME1_HUMAN	1.31	1.19	3.91	3.35	6.1	1	4/191	5	2	essential meiotic endonuclease 1 homolog 1 (S. pombe)
+293T_HA-HERC2_F1_Exp4	NEURL4	84461	sp|Q96JN8-2|NEUL4_HUMAN	1.49	1.47	3.16	3.19	5.69	1.18	8/191	13	2	neuralized homolog 4 (Drosophila)
+293T_HA-HERC2_F1_Exp4	CALCA	796	sp|P06881|CALCA_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	calcitonin-related polypeptide alpha
+293T_HA-HERC2_F1_Exp4	TRIM65	201292	sp|Q6PJ69|TRI65_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	tripartite motif containing 65
+293T_HA-HERC2_F1_Exp4	NUBPL	80224	sp|Q8TB37|NUBPL_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	nucleotide binding protein-like
+293T_HA-HERC2_F1_Exp4	PNKD	25953	sp|Q8N490-2|PNKD_HUMAN	0.83	0.75	3.5	3	6.13	1	2/191	1	2	paroxysmal nonkinesigenic dyskinesia
+293T_HA-HERC2_F1_Exp4	WDR91	29062	sp|A4D1P6-2|WDR91_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	WD repeat domain 91
+293T_HA-HERC2_F1_Exp4	C19orf43	79002	sp|Q9BQ61|CS043_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	chromosome 19 open reading frame 43
+293T_HA-HERC2_F1_Exp4	HLA-E	3133	sp|P13747|HLAE_HUMAN	0.95	0.87	3.3	2.83	7.88	1	3/191	2	2	major histocompatibility complex, class I, E
+293T_HA-HERC2_F1_Exp4	ECI2	10455	sp|O75521-2|ECI2_HUMAN	0.95	0.87	3.3	2.83	11	1	3/191	2	2	enoyl-CoA delta isomerase 2
+293T_HA-HERC2_F1_Exp4	SLC25A22	79751	sp|Q9H936|GHC1_HUMAN	0.95	0.87	3.3	2.83	7.3	1	3/191	2	2	solute carrier family 25 (mitochondrial carrier: glutamate), member 22
+293T_HA-HERC2_F1_Exp4	SLC25A19	60386	sp|Q9HC21|TPC_HUMAN	0.95	0.87	3.3	2.83	11	1	3/191	2	2	solute carrier family 25 (mitochondrial thiamine pyrophosphate carrier), member 19
+293T_HA-HERC2_F1_Exp4	WDR81	124997	sp|Q562E7-2|WDR81_HUMAN	0.95	0.87	3.3	2.83	11	1	3/191	2	2	WD repeat domain 81
+293T_HA-HERC2_F1_Exp4	ZBTB5	9925	sp|O15062|ZBTB5_HUMAN	1.17	1.06	3.13	2.68	7.92	1	5/191	5	2	zinc finger and BTB domain containing 5
+293T_HA-HERC2_F1_Exp4	RNGTT	8732	sp|O60942-2|MCE1_HUMAN	1.01	0.92	3.03	2.6	6.53	1	4/191	3	2	RNA guanylyltransferase and 5'-phosphatase
+293T_HA-HERC2_F1_Exp4	COMMD3	23412	sp|Q9UBI1|COMD3_HUMAN	1.01	0.92	3.03	2.6	7.97	1	4/191	3	2	COMM domain containing 3
+293T_HA-HERC2_F1_Exp4	COMMD8	54951	sp|Q9NX08|COMD8_HUMAN	1.01	0.92	3.03	2.6	7.97	1	4/191	3	2	COMM domain containing 8
+293T_HA-HERC2_F1_Exp4	EPHA7	2045	sp|Q15375|EPHA7_HUMAN	1.17	1.06	2.86	2.45	9.69	1	6/191	6	2	EPH receptor A7
+293T_HA-HERC2_F1_Exp4	TUBA1C	84790	sp|Q9BQE3|TBA1C_HUMAN	1.74	1.58	2.78	2.39	3.39	1	14/191	31	2	tubulin, alpha 1c
+293T_HA-HERC2_F1_Exp4	UBE2O	63893	sp|Q9C0C9|UBE2O_HUMAN	0.78	0.93	1.56	2.29	2.7	1.72	9/191	4	2	ubiquitin-conjugating enzyme E2O
+293T_HA-HERC2_F1_Exp4	TUBAL3	79861	sp|A6NHL2-2|TBAL3_HUMAN	1.07	0.97	2.61	2.24	5.84	1	6/191	5	2	tubulin, alpha-like 3
+293T_HA-HERC2_F1_Exp4	MUS81	80198	sp|Q96NY9|MUS81_HUMAN	0.83	0.75	2.47	2.12	2.41	1	4/191	2	2	MUS81 endonuclease homolog (S. cerevisiae)
+293T_HA-HERC2_F1_Exp4	GRIPAP1	56850	sp|Q4V328-3|GRAP1_HUMAN	0.83	0.75	2.47	2.12	8.57	1	4/191	2	2	GRIP1 associated protein 1
+293T_HA-HERC2_F1_Exp4	COMMD2	51122	sp|Q86X83|COMD2_HUMAN	0.83	0.75	2.47	2.12	8.57	1	4/191	2	2	COMM domain containing 2
+293T_HA-HERC2_F1_Exp4	SLC27A2	11001	sp|O14975|S27A2_HUMAN	0.83	0.75	2.47	2.12	10.37	1	4/191	2	2	solute carrier family 27 (fatty acid transporter), member 2
+293T_HA-HERC2_F1_Exp4	HLA-A	3105	sp|P04439|1A03_HUMAN	0.91	0.82	2.42	2.08	8.17	1	5/191	3	2	major histocompatibility complex, class I, A
+293T_HA-HERC2_F1_Exp4	MLF2	8079	sp|Q15773|MLF2_HUMAN	0.77	0.82	1.73	2.08	2.94	1.4	7/191	3	2	myeloid leukemia factor 2
+293T_HA-HERC2_F1_Exp4	FAM69B	138311	sp|Q5VUD6-2|FA69B_HUMAN	0.67	0.61	2.33	2	8.17	1	3/191	1	2	family with sequence similarity 69, member B
+293T_HA-HERC2_F1_Exp4	PEX19	5824	sp|P40855-5|PEX19_HUMAN	0.67	0.61	2.33	2	8.17	1	3/191	1	2	peroxisomal biogenesis factor 19
+293T_HA-HERC2_F1_Exp4	GPX1	2876	sp|P07203|GPX1_HUMAN	0.67	0.61	2.33	2	5.44	1	3/191	1	2	glutathione peroxidase 1
+293T_HA-HERC2_F1_Exp4	PIK3R1	5295	sp|P27986-4|P85A_HUMAN	0.67	0.61	2.33	2	8.17	1	3/191	1	2	phosphoinositide-3-kinase, regulatory subunit 1 (alpha)
+293T_HA-HERC2_F1_Exp4	ATP6V1A	523	sp|P38606|VATA_HUMAN	0.67	0.61	2.33	2	8.17	1	3/191	1	2	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A
+293T_HA-HERC2_F1_Exp4	SLC25A21	89874	sp|Q9BQT8|ODC_HUMAN	0.67	0.61	2.33	2	8.17	1	3/191	1	2	solute carrier family 25 (mitochondrial oxodicarboxylate carrier), member 21
+293T_HA-HERC2_F1_Exp4	DCAF8	50717	sp|Q5TAQ9-2|DCAF8_HUMAN	0.67	0.61	2.33	2	8.17	1	3/191	1	2	DDB1 and CUL4 associated factor 8
+293T_HA-HERC2_F1_Exp4	SLC2A1	6513	sp|P11166|GTR1_HUMAN	0.67	0.61	2.33	2	8.17	1	3/191	1	2	solute carrier family 2 (facilitated glucose transporter), member 1
+293T_HA-HERC2_F1_Exp4	KIF20A	10112	sp|O95235|KI20A_HUMAN	0.74	0.67	1.98	1.7	2.68	1	5/191	2	2	kinesin family member 20A
+293T_HA-HERC2_F1_Exp4	TBK1	29110	sp|Q9UHD2|TBK1_HUMAN	0.62	0.64	1.41	1.55	1.32	1.28	7/191	2	2	TANK-binding kinase 1
+293T_HA-HERC2_F1_Exp4	CDIPT	10423	sp|O14735|CDIPT_HUMAN	0.83	0.75	1.75	1.5	7.13	1	8/191	4	2	CDP-diacylglycerol--inositol 3-phosphatidyltransferase
+293T_HA-HERC2_F1_Exp4	PREB	10113	sp|Q9HCU5|PREB_HUMAN	0.58	0.53	1.75	1.5	7	1	4/191	1	2	prolactin regulatory element binding
+293T_HA-HERC2_F1_Exp4	HLA-C	3107	sp|P10321|1C07_HUMAN	0.87	0.79	1.74	1.49	7.04	1	9/191	5	2	major histocompatibility complex, class I, C
+293T_HA-HERC2_F1_Exp4	CDC42EP1	11135	sp|Q00587-2|BORG5_HUMAN	0.77	0.7	1.73	1.49	10.54	1	7/191	3	2	CDC42 effector protein (Rho GTPase binding) 1
+293T_HA-HERC2_F1_Exp4	C18orf55	29090	sp|Q9BVV7|TI21L_HUMAN	0.67	0.61	1.65	1.41	9.33	1	6/191	2	2	chromosome 18 open reading frame 55
+293T_HA-HERC2_F1_Exp4	PSMD6	9861	sp|Q15008|PSMD6_HUMAN	0.55	0.73	0.78	1.41	0.08	2.11	18/191	4	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 6
+293T_HA-HERC2_F1_Exp4	SLC25A10	1468	sp|Q9UBX3-2|DIC_HUMAN	0.67	0.61	1.65	1.41	5.57	1	6/191	2	2	solute carrier family 25 (mitochondrial carrier; dicarboxylate transporter), member 10
+293T_HA-HERC2_F1_Exp4	CLU	1191	sp|P10909-2|CLUS_HUMAN	0.67	0.61	1.65	1.41	9.33	1	6/191	2	2	clusterin
+293T_HA-HERC2_F1_Exp4	KRT75	9119	sp|O95678|K2C75_HUMAN	0.67	0.67	1.35	1.39	1.29	1.2	9/191	3	2	keratin 75
+293T_HA-HERC2_F1_Exp4	FDFT1	2222	sp|P37268|FDFT_HUMAN	0.83	0.75	1.57	1.34	5.64	1	10/191	5	2	farnesyl-diphosphate farnesyltransferase 1
+293T_HA-HERC2_F1_Exp4	RHBDD2	57414	sp|Q6NTF9|RHBD2_HUMAN	0.62	0.57	1.41	1.21	8.52	1	7/191	2	2	rhomboid domain containing 2
+293T_HA-HERC2_F1_Exp4	ESPL1	9700	sp|Q14674|ESPL1_HUMAN	0.52	0.48	1.4	1.2	6.06	1	5/191	1	2	extra spindle pole bodies homolog 1 (S. cerevisiae)
+293T_HA-HERC2_F1_Exp4	ATP5J	522	sp|P18859|ATP5J_HUMAN	0.52	0.48	1.4	1.2	6.06	1	5/191	1	2	ATP synthase, H+ transporting, mitochondrial Fo complex, subunit F6
+293T_HA-HERC2_F1_Exp4	SFXN4	119559	sp|Q6P4A7|SFXN4_HUMAN	0.67	0.61	1.35	1.15	5.71	1	9/191	3	2	sideroflexin 4
+293T_HA-HERC2_F1_Exp4	FANCI	55215	sp|Q9NVI1|FANCI_HUMAN	0.79	0.72	1.32	1.13	7.89	1	13/191	6	2	Fanconi anemia, complementation group I
+293T_HA-HERC2_F1_Exp4	SLC25A12	8604	sp|O75746|CMC1_HUMAN	0.7	0.64	1.27	1.09	5.13	1	11/191	4	2	solute carrier family 25 (mitochondrial carrier, Aralar), member 12
+293T_HA-HERC2_F1_Exp4	GLUD1	2746	sp|P00367|DHE3_HUMAN	0.7	0.64	1.27	1.09	5.35	1	11/191	4	2	glutamate dehydrogenase 1
+293T_HA-HERC2_F1_Exp4	EIF3C	8663	sp|Q99613|EIF3C_HUMAN	0.48	0.7	0.49	1.07	0.22	2.55	35/191	6	2	eukaryotic translation initiation factor 3, subunit C
+293T_HA-HERC2_F1_Exp4	AUP1	550	sp|Q9Y679-2|AUP1_HUMAN	0.58	0.53	1.24	1.06	5.08	1	8/191	2	2	ancient ubiquitous protein 1
+293T_HA-HERC2_F1_Exp4	ACSL3	2181	sp|O95573|ACSL3_HUMAN	0.64	0.58	1.21	1.04	5.43	1	10/191	3	2	acyl-CoA synthetase long-chain family member 3
+293T_HA-HERC2_F1_Exp4	TMEM165	55858	sp|Q9HC07|TM165_HUMAN	0.64	0.58	1.21	1.04	6.93	1	10/191	3	2	transmembrane protein 165
+293T_HA-HERC2_F1_Exp4	CRKL	1399	sp|P46109|CRKL_HUMAN	0.67	0.61	1.17	1	6.47	1	12/191	4	2	v-crk sarcoma virus CT10 oncogene homolog (avian)-like
+293T_HA-HERC2_F1_Exp4	GEMIN4	50628	sp|P57678|GEMI4_HUMAN	0.48	0.43	1.17	1	3.17	1	6/191	1	2	gem (nuclear organelle) associated protein 4
+293T_HA-HERC2_F2_Exp1	HERC2	8924	sp|O95714|HERC2_HUMAN	4.05	4.35	8.57	10.22	7.49	1.39	8/191	96	2	hect domain and RLD 2
+293T_HA-HERC2_F2_Exp1	MAVS	57506	sp|Q7Z434|MAVS_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	mitochondrial antiviral signaling protein
+293T_HA-HERC2_F2_Exp1	SPTLC2	9517	sp|O15270|SPTC2_HUMAN	0.91	0.82	2.42	2.08	11.38	1	5/191	3	2	serine palmitoyltransferase, long chain base subunit 2
+293T_HA-HERC2_F2_Exp1	HLA-A	3105	sp|P04439|1A03_HUMAN	0.74	0.67	1.98	1.7	5.39	1	5/191	2	2	major histocompatibility complex, class I, A
+293T_HA-HERC2_F2_Exp1	HM13	81502	sp|Q8TCT9-5|HM13_HUMAN	0.58	0.53	1.75	1.5	7	1	4/191	1	2	histocompatibility (minor) 13
+293T_HA-HERC2_F2_Exp1	VDAC2	7417	sp|P45880-1|VDAC2_HUMAN	0.83	0.75	1.75	1.5	9.12	1	8/191	4	2	voltage-dependent anion channel 2
+293T_HA-HERC2_F2_Exp1	PSMD1	5707	sp|Q99460-2|PSMD1_HUMAN	0.4	0.65	0.41	1.11	0.09	3.13	34/191	4	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1
+293T_HA-HERC2_F2_Exp1	PSMD11	5717	sp|O00231|PSD11_HUMAN	0.4	0.58	0.47	1.02	0	2.55	26/191	3	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11
+293T_HA-HERC2_F2_Exp2	HERC2	8924	sp|O95714|HERC2_HUMAN	3.3	3.52	7	8.22	5.44	1.37	8/191	64	2	hect domain and RLD 2
+293T_HA-HERC2_F2_Exp2	ASAH1	427	sp|Q13510-2|ASAH1_HUMAN	1.17	1.06	7	6	14.14	1	1/191	1	2	N-acylsphingosine amidohydrolase (acid ceramidase) 1
+293T_HA-HERC2_F2_Exp2	CST4	1472	sp|P01036|CYTS_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	cystatin S
+293T_HA-HERC2_F2_Exp2	ZG16B	124220	sp|Q96DA0|ZG16B_HUMAN	0.58	0.65	1.75	2.27	0.54	1.51	4/191	1	2	zymogen granule protein 16 homolog B (rat)
+293T_HA-HERC2_F2_Exp2	NCCRP1	342897	sp|Q6ZVX7|NCRP1_HUMAN	0.67	0.61	2.33	2	8.17	1	3/191	1	2	non-specific cytotoxic cell receptor protein 1 homolog (zebrafish)
+293T_HA-HERC2_F2_Exp2	KRT80	144501	sp|Q6KB66-2|K2C80_HUMAN	1.17	1.06	1.87	1.6	7.46	1	14/191	14	2	keratin 80
+293T_HA-HERC2_F2_Exp2	CTSA	5476	sp|P10619|PPGB_HUMAN	0.58	0.53	1.75	1.5	7	1	4/191	1	2	cathepsin A
+293T_HA-HERC2_F2_Exp2	BLMH	642	sp|Q13867|BLMH_HUMAN	0.62	0.57	1.41	1.21	5.39	1	7/191	2	2	bleomycin hydrolase
+293T_HA-HERC2_F2_Exp2	PELP1	27043	sp|Q8IZL8-2|PELP1_HUMAN	0.48	0.43	1.17	1	5.71	1	6/191	1	2	proline, glutamate and leucine rich protein 1
+293T_HA-HERC2_F2_Exp3	HERC2	8924	sp|O95714|HERC2_HUMAN	2.83	3.01	6	6.99	4.13	1.36	8/191	47	2	hect domain and RLD 2
+293T_HA-HERC2_F2_Exp3	PSMB4	5692	sp|P28070|PSB4_HUMAN	0.72	0.66	1.2	1.03	4.66	1	13/191	5	2	proteasome (prosome, macropain) subunit, beta type, 4
+293T_HA-HERC2_F2_Exp3	TEX10	54881	sp|Q9NXF1|TEX10_HUMAN	0.48	0.43	1.17	1	4.57	1	6/191	1	2	testis expressed 10
+293T_HA-HERC2_F3_Exp1	HERC2	8924	sp|O95714|HERC2_HUMAN	5.22	5.63	11.07	13.29	10.11	1.4	8/191	160	2	hect domain and RLD 2
+293T_HA-HERC2_F3_Exp1	ITPR2	3709	sp|Q14571|ITPR2_HUMAN	1.65	1.5	9.9	8.49	14.21	1	1/191	2	2	inositol 1,4,5-triphosphate receptor, type 2
+293T_HA-HERC2_F3_Exp1	PTPN1	5770	sp|P18031|PTN1_HUMAN	1.65	1.5	9.9	8.49	14.21	1	1/191	2	2	protein tyrosine phosphatase, non-receptor type 1
+293T_HA-HERC2_F3_Exp1	GNA13	10672	sp|Q14344|GNA13_HUMAN	1.65	1.5	9.9	8.49	14.21	1	1/191	2	2	guanine nucleotide binding protein (G protein), alpha 13
+293T_HA-HERC2_F3_Exp1	FNDC3A	22862	sp|Q9Y2H6-2|FND3A_HUMAN	1.17	1.06	7	6	14.14	1	1/191	1	2	fibronectin type III domain containing 3A
+293T_HA-HERC2_F3_Exp1	EPCAM	4072	sp|P16422|EPCAM_HUMAN	1.43	1.3	6.06	5.2	12.96	1	2/191	3	2	epithelial cell adhesion molecule
+293T_HA-HERC2_F3_Exp1	NCOA4	8031	sp|Q13772|NCOA4_HUMAN	1.43	1.37	4.29	4.08	13.22	1.11	4/191	6	2	nuclear receptor coactivator 4
+293T_HA-HERC2_F3_Exp1	MAVS	57506	sp|Q7Z434|MAVS_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	mitochondrial antiviral signaling protein
+293T_HA-HERC2_F3_Exp1	LACTB	114294	sp|P83111|LACTB_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	lactamase, beta
+293T_HA-HERC2_F3_Exp1	NEK11	79858	sp|Q8NG66-4|NEK11_HUMAN	0.95	0.87	3.3	2.83	11	1	3/191	2	2	NIMA (never in mitosis gene a)- related kinase 11
+293T_HA-HERC2_F3_Exp1	HLA-E	3133	sp|P13747|HLAE_HUMAN	0.95	0.87	3.3	2.83	7.88	1	3/191	2	2	major histocompatibility complex, class I, E
+293T_HA-HERC2_F3_Exp1	LMNB2	84823	sp|Q03252|LMNB2_HUMAN	0.67	0.61	2.33	2	8.17	1	3/191	1	2	lamin B2
+293T_HA-HERC2_F3_Exp1	TUBA1C	84790	sp|Q9BQE3|TBA1C_HUMAN	1.29	1.17	2.06	1.77	1.75	1	14/191	17	2	tubulin, alpha 1c
+293T_HA-HERC2_F3_Exp1	FTH1	2495	sp|P02794|FRIH_HUMAN	0.83	0.75	2.02	1.73	6.66	1	6/191	3	2	ferritin, heavy polypeptide 1
+293T_HA-HERC2_F3_Exp1	MLEC	9761	sp|Q14165|MLEC_HUMAN	0.74	0.67	1.98	1.7	9.85	1	5/191	2	2	malectin
+293T_HA-HERC2_F3_Exp1	PSMD1	5707	sp|Q99460-2|PSMD1_HUMAN	0.6	0.97	0.62	1.66	0.36	3.13	34/191	9	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1
+293T_HA-HERC2_F3_Exp1	LMNA	4000	sp|P02545|LMNA_HUMAN	0.58	0.65	1.24	1.56	2.32	1.47	8/191	2	2	lamin A/C
+293T_HA-HERC2_F3_Exp1	HM13	81502	sp|Q8TCT9-5|HM13_HUMAN	0.58	0.53	1.75	1.5	7	1	4/191	1	2	histocompatibility (minor) 13
+293T_HA-HERC2_F3_Exp1	BIRC6	57448	sp|Q9NR09|BIRC6_HUMAN	0.58	0.53	1.75	1.5	5.11	1	4/191	1	2	baculoviral IAP repeat containing 6
+293T_HA-HERC2_F3_Exp1	C19orf2	8725	sp|O94763-2|RMP_HUMAN	0.58	0.53	1.75	1.5	1.92	1	4/191	1	2	chromosome 19 open reading frame 2
+293T_HA-HERC2_F3_Exp1	PPM1B	5495	sp|O75688-2|PPM1B_HUMAN	0.58	0.53	1.75	1.5	7	1	4/191	1	2	protein phosphatase, Mg2+/Mn2+ dependent, 1B
+293T_HA-HERC2_F3_Exp1	COPB2	9276	sp|P35606|COPB2_HUMAN	1.02	1.06	1.22	1.37	9.13	1.31	25/191	19	2	coatomer protein complex, subunit beta 2 (beta prime)
+293T_HA-HERC2_F3_Exp1	OBSL1	23363	sp|O75147-1|OBSL1_HUMAN	0.48	0.5	1.17	1.33	0.3	1.33	6/191	1	2	obscurin-like 1
+293T_HA-HERC2_F3_Exp1	COPG2	26958	sp|Q9UBF2|COPG2_HUMAN	0.94	0.86	1.5	1.31	10.39	1.02	14/191	9	2	coatomer protein complex, subunit gamma 2
+293T_HA-HERC2_F3_Exp1	COPG	22820	sp|Q9Y678|COPG_HUMAN	0.94	0.85	1.5	1.29	8.12	1	14/191	9	2	coatomer protein complex, subunit gamma
+293T_HA-HERC2_F3_Exp1	COPA	1314	sp|P53621-2|COPA_HUMAN	1.01	1.14	0.96	1.25	9.91	1.52	40/191	30	2	coatomer protein complex, subunit alpha
+293T_HA-HERC2_F3_Exp1	TMED10	10972	sp|P49755|TMEDA_HUMAN	0.52	0.48	1.4	1.2	6.06	1	5/191	1	2	transmembrane emp24-like trafficking protein 10 (yeast)
+293T_HA-HERC2_F3_Exp1	CACYBP	27101	sp|Q9HB71|CYBP_HUMAN	0.74	0.74	1.14	1.19	3.66	1.21	15/191	6	2	calcyclin binding protein
+293T_HA-HERC2_F3_Exp1	PSMD14	10213	sp|O00487|PSDE_HUMAN	0.41	0.62	0.51	1.17	0.26	2.71	24/191	3	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14
+293T_HA-HERC2_F3_Exp1	HLA-C	3107	sp|P10321|1C07_HUMAN	0.67	0.61	1.35	1.15	4.14	1	9/191	3	2	major histocompatibility complex, class I, C
+293T_HA-HERC2_F3_Exp1	KRT75	9119	sp|O95678|K2C75_HUMAN	0.55	0.55	1.1	1.13	0.81	1.2	9/191	2	2	keratin 75
+293T_HA-HERC2_F3_Exp1	PSMD7	5713	sp|P51665|PSD7_HUMAN	0.38	0.54	0.52	1.11	0.1	2.48	19/191	2	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7
+293T_HA-HERC2_F3_Exp1	COPB1	1315	sp|P53618|COPB_HUMAN	0.84	0.96	0.8	1.09	8.48	1.58	39/191	20	2	coatomer protein complex, subunit beta 1
+293T_HA-HERC2_F3_Exp1	PSMD12	5718	sp|O00232|PSD12_HUMAN	0.41	0.68	0.38	1.09	0.06	3.34	41/191	5	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12
+293T_HA-HERC2_F3_Exp1	COPE	11316	sp|O14579|COPE_HUMAN	0.7	0.64	1.27	1.09	7.19	1	11/191	4	2	coatomer protein complex, subunit epsilon
+293T_HA-HERC2_F3_Exp1	SORT1	6272	sp|Q99523|SORT_HUMAN	0.58	0.53	1.24	1.06	8.13	1	8/191	2	2	sortilin 1
+293T_HA-HERC2_F3_Exp1	VDAC2	7417	sp|P45880-1|VDAC2_HUMAN	0.58	0.53	1.24	1.06	4.47	1	8/191	2	2	voltage-dependent anion channel 2
+293T_HA-HERC2_F3_Exp1	PSMD3	5709	sp|O43242|PSMD3_HUMAN	0.44	0.69	0.4	1.02	0.15	2.98	43/191	6	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3
+293T_HA-HERC2_F3_Exp1	PSMD11	5717	sp|O00231|PSD11_HUMAN	0.4	0.58	0.47	1.02	0	2.55	26/191	3	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11
+293T_HA-HERC2_F3_Exp1	ARCN1	372	sp|P48444|COPD_HUMAN	0.84	0.86	0.94	1.02	11.38	1.27	29/191	15	2	archain 1
+293T_HA-HERC2_F3_Exp2	HERC2	8924	sp|O95714|HERC2_HUMAN	4.09	4.39	8.66	10.32	7.6	1.39	8/191	98	2	hect domain and RLD 2
+293T_HA-HERC2_F3_Exp2	RPAP3	79657	sp|Q9H6T3-2|RPAP3_HUMAN	2.48	2.26	10.5	9	12.96	1	2/191	9	2	RNA polymerase II associated protein 3
+293T_HA-HERC2_F3_Exp2	SEMG1	6406	sp|P04279|SEMG1_HUMAN	1.65	1.54	7	6.3	1.95	1.05	2/191	4	2	semenogelin I
+293T_HA-HERC2_F3_Exp2	SEMG2	6407	sp|Q02383|SEMG2_HUMAN	1.65	1.5	7	6	2.38	1	2/191	4	2	semenogelin II
+293T_HA-HERC2_F3_Exp2	FKBP5	2289	sp|Q13451|FKBP5_HUMAN	1.54	1.99	2.77	4.8	3.43	2.02	11/191	19	2	FK506 binding protein 5
+293T_HA-HERC2_F3_Exp2	WDR92	116143	sp|Q96MX6|WDR92_HUMAN	1.17	1.06	4.95	4.24	9.9	1	2/191	2	2	WD repeat domain 92
+293T_HA-HERC2_F3_Exp2	C19orf2	8725	sp|O94763-2|RMP_HUMAN	1.43	1.3	4.29	3.67	12.12	1	4/191	6	2	chromosome 19 open reading frame 2
+293T_HA-HERC2_F3_Exp2	UXT	8409	sp|Q9UBK9|UXT_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	ubiquitously-expressed transcript
+293T_HA-HERC2_F3_Exp2	COPZ1	22818	sp|P61923|COPZ1_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	coatomer protein complex, subunit zeta 1
+293T_HA-HERC2_F3_Exp2	FTH1	2495	sp|P02794|FRIH_HUMAN	0.95	0.87	2.33	2	8.93	1	6/191	4	2	ferritin, heavy polypeptide 1
+293T_HA-HERC2_F3_Exp2	CACYBP	27101	sp|Q9HB71|CYBP_HUMAN	1.13	1.13	1.75	1.81	8.79	1.21	15/191	14	2	calcyclin binding protein
+293T_HA-HERC2_F3_Exp2	SUGT1	10910	sp|Q9Y2Z0-2|SUGT1_HUMAN	0.64	0.85	0.86	1.58	1.75	2.15	20/191	6	2	SGT1, suppressor of G2 allele of SKP1 (S. cerevisiae)
+293T_HA-HERC2_F3_Exp2	PSMD11	5717	sp|O00231|PSD11_HUMAN	0.61	0.88	0.71	1.56	0.18	2.55	26/191	7	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11
+293T_HA-HERC2_F3_Exp2	PSMD1	5707	sp|Q99460-2|PSMD1_HUMAN	0.57	0.91	0.58	1.56	0.31	3.13	34/191	8	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1
+293T_HA-HERC2_F3_Exp2	FTL	2512	sp|P02792|FRIL_HUMAN	0.67	0.61	1.65	1.41	7.84	1	6/191	2	2	ferritin, light polypeptide
+293T_HA-HERC2_F3_Exp2	PSMB4	5692	sp|P28070|PSB4_HUMAN	0.92	0.83	1.52	1.31	7.6	1	13/191	8	2	proteasome (prosome, macropain) subunit, beta type, 4
+293T_HA-HERC2_F3_Exp2	PSMD6	9861	sp|Q15008|PSMD6_HUMAN	0.48	0.63	0.67	1.22	0.02	2.11	18/191	3	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 6
+293T_HA-HERC2_F3_Exp2	COPG	22820	sp|Q9Y678|COPG_HUMAN	0.88	0.8	1.41	1.21	7.19	1	14/191	8	2	coatomer protein complex, subunit gamma
+293T_HA-HERC2_F3_Exp2	COPB2	9276	sp|P35606|COPB2_HUMAN	0.87	0.91	1.05	1.18	6.67	1.31	25/191	14	2	coatomer protein complex, subunit beta 2 (beta prime)
+293T_HA-HERC2_F3_Exp2	TUBA1C	84790	sp|Q9BQE3|TBA1C_HUMAN	0.83	0.75	1.32	1.13	0.58	1	14/191	7	2	tubulin, alpha 1c
+293T_HA-HERC2_F3_Exp2	COPE	11316	sp|O14579|COPE_HUMAN	0.7	0.64	1.27	1.09	7.19	1	11/191	4	2	coatomer protein complex, subunit epsilon
+293T_HA-HERC2_F3_Exp3	HERC2	8924	sp|O95714|HERC2_HUMAN	3.83	4.1	8.11	9.6	6.9	1.38	8/191	86	2	hect domain and RLD 2
+293T_HA-HERC2_F3_Exp3	RPAP3	79657	sp|Q9H6T3-2|RPAP3_HUMAN	1.43	1.3	6.06	5.2	4.26	1	2/191	3	2	RNA polymerase II associated protein 3
+293T_HA-HERC2_F3_Exp3	WDR92	116143	sp|Q96MX6|WDR92_HUMAN	1.17	1.06	4.95	4.24	9.9	1	2/191	2	2	WD repeat domain 92
+293T_HA-HERC2_F3_Exp3	FKBP5	2289	sp|Q13451|FKBP5_HUMAN	1.17	1.51	2.11	3.65	1.94	2.02	11/191	11	2	FK506 binding protein 5
+293T_HA-HERC2_F3_Exp3	UXT	8409	sp|Q9UBK9|UXT_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	ubiquitously-expressed transcript
+293T_HA-HERC2_F3_Exp3	COPZ1	22818	sp|P61923|COPZ1_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	coatomer protein complex, subunit zeta 1
+293T_HA-HERC2_F3_Exp3	C19orf2	8725	sp|O94763-2|RMP_HUMAN	1.01	0.92	3.03	2.6	6	1	4/191	3	2	chromosome 19 open reading frame 2
+293T_HA-HERC2_F3_Exp3	SLC25A4	291	sp|P12235|ADT1_HUMAN	0.74	0.68	1.98	1.75	1.72	1.03	5/191	2	2	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4
+293T_HA-HERC2_F3_Exp3	FTH1	2495	sp|P02794|FRIH_HUMAN	0.83	0.75	2.02	1.73	6.66	1	6/191	3	2	ferritin, heavy polypeptide 1
+293T_HA-HERC2_F3_Exp3	SUGT1	10910	sp|Q9Y2Z0-2|SUGT1_HUMAN	0.69	0.92	0.93	1.71	2.07	2.15	20/191	7	2	SGT1, suppressor of G2 allele of SKP1 (S. cerevisiae)
+293T_HA-HERC2_F3_Exp3	CACYBP	27101	sp|Q9HB71|CYBP_HUMAN	1.04	1.05	1.62	1.68	7.51	1.21	15/191	12	2	calcyclin binding protein
+293T_HA-HERC2_F3_Exp3	FTL	2512	sp|P02792|FRIL_HUMAN	0.67	0.61	1.65	1.41	7.84	1	6/191	2	2	ferritin, light polypeptide
+293T_HA-HERC2_F3_Exp3	PSMD1	5707	sp|Q99460-2|PSMD1_HUMAN	0.45	0.72	0.46	1.24	0.14	3.13	34/191	5	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1
+293T_HA-HERC2_F3_Exp3	TUBA1C	84790	sp|Q9BQE3|TBA1C_HUMAN	0.88	0.8	1.41	1.21	0.7	1	14/191	8	2	tubulin, alpha 1c
+293T_HA-HERC2_F3_Exp3	COPB2	9276	sp|P35606|COPB2_HUMAN	0.81	0.84	0.97	1.09	5.68	1.31	25/191	12	2	coatomer protein complex, subunit beta 2 (beta prime)
+293T_HA-HERC2_F3_Exp3	COPB1	1315	sp|P53618|COPB_HUMAN	0.77	0.88	0.74	1	7.17	1.58	39/191	17	2	coatomer protein complex, subunit beta 1
+293T_HA-HERC2_F3_Exp3	RPA2	6118	sp|P15927-2|RFA2_HUMAN	0.48	0.43	1.17	1	1.4	1	6/191	1	2	replication protein A2, 32kDa
+293T_HA-HERC2_F4	BICD1	636	sp|Q96G01-3|BICD1_HUMAN	2.86	2.61	17.14	14.7	13.88	1	1/191	6	2	bicaudal D homolog 1 (Drosophila)
+293T_HA-HERC2_F4	BICD2	23299	sp|Q8TD16-2|BICD2_HUMAN	4.37	4.14	15.12	14	12.95	1.08	3/191	42	2	bicaudal D homolog 2 (Drosophila)
+293T_HA-HERC2_F4	ZFYVE9	9372	sp|O95405-2|ZFYV9_HUMAN	3.41	3.1	14.43	12.37	13.19	1	2/191	17	2	zinc finger, FYVE domain containing 9
+293T_HA-HERC2_F4	CEP170	9859	sp|Q5SW79-3|CE170_HUMAN	3.5	4.17	7.94	11.64	12.47	1.71	7/191	61	2	centrosomal protein 170kDa
+293T_HA-HERC2_F4	HERC2	8924	sp|O95714|HERC2_HUMAN	4.37	4.69	9.26	11.04	8.31	1.39	8/191	112	2	hect domain and RLD 2
+293T_HA-HERC2_F4	SNAPIN	23557	sp|O95295|SNAPN_HUMAN	1.65	1.5	9.9	8.49	14.21	1	1/191	2	2	SNAP-associated protein
+293T_HA-HERC2_F4	UBE3A	7337	sp|Q05086-2|UBE3A_HUMAN	2.13	1.95	7.38	6.39	13.07	1.01	3/191	10	2	ubiquitin protein ligase E3A
+293T_HA-HERC2_F4	SLC30A9	10463	sp|Q6PML9|ZNT9_HUMAN	1.17	1.06	7	6	14.14	1	1/191	1	2	solute carrier family 30 (zinc transporter), member 9
+293T_HA-HERC2_F4	PCM1	5108	tr|E7ETA6|E7ETA6_HUMAN	1.65	1.56	5.71	5.29	13.24	1.08	3/191	6	2	pericentriolar material 1
+293T_HA-HERC2_F4	FHOD3	80206	sp|Q2V2M9-2|FHOD3_HUMAN	1.43	1.3	6.06	5.2	12.96	1	2/191	3	2	formin homology 2 domain containing 3
+293T_HA-HERC2_F4	AKAP9	10142	sp|Q99996-2|AKAP9_HUMAN	1.65	1.51	5.71	4.9	12.93	1	3/191	6	2	A kinase (PRKA) anchor protein (yotiao) 9
+293T_HA-HERC2_F4	NIN	51199	sp|Q8N4C6-5|NIN_HUMAN	1.17	1.08	4.95	4.41	2.02	1.04	2/191	2	2	ninein (GSK3B interacting protein)
+293T_HA-HERC2_F4	NUDCD2	134492	sp|Q8WVJ2|NUDC2_HUMAN	1.17	1.06	4.95	4.24	9.9	1	2/191	2	2	NudC domain containing 2
+293T_HA-HERC2_F4	SLC27A4	10999	sp|Q6P1M0|S27A4_HUMAN	1.43	1.3	4.29	3.67	6.01	1	4/191	6	2	solute carrier family 27 (fatty acid transporter), member 4
+293T_HA-HERC2_F4	ASPM	259266	sp|Q8IZT6|ASPM_HUMAN	1.17	1.06	4.04	3.46	12.38	1	3/191	3	2	asp (abnormal spindle) homolog, microcephaly associated (Drosophila)
+293T_HA-HERC2_F4	PEX1	5189	sp|O43933|PEX1_HUMAN	1.17	1.06	4.04	3.46	12.38	1	3/191	3	2	peroxisomal biogenesis factor 1
+293T_HA-HERC2_F4	USP20	10868	sp|Q9Y2K6|UBP20_HUMAN	1.58	1.44	3.87	3.32	11.82	1	6/191	11	2	ubiquitin specific peptidase 20
+293T_HA-HERC2_F4	ETAA1	54465	sp|Q9NY74|ETAA1_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	Ewing tumor-associated antigen 1
+293T_HA-HERC2_F4	PRR14L	253143	sp|Q5THK1-2|PR14L_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	proline rich 14-like
+293T_HA-HERC2_F4	RIC8A	60626	sp|Q9NPQ8-2|RIC8A_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	resistance to inhibitors of cholinesterase 8 homolog A (C. elegans)
+293T_HA-HERC2_F4	PHKG2	5261	sp|P15735|PHKG2_HUMAN	0.95	0.87	3.3	2.83	3.22	1	3/191	2	2	phosphorylase kinase, gamma 2 (testis)
+293T_HA-HERC2_F4	SCO2	9997	sp|O43819|SCO2_HUMAN	0.95	0.87	3.3	2.83	11	1	3/191	2	2	SCO cytochrome oxidase deficient homolog 2 (yeast)
+293T_HA-HERC2_F4	WDR62	284403	sp|O43379-4|WDR62_HUMAN	1.01	0.92	3.03	2.6	7.97	1	4/191	3	2	WD repeat domain 62
+293T_HA-HERC2_F4	GNAS	2778	sp|P63092-2|GNAS2_HUMAN	1.01	0.92	3.03	2.6	11.88	1	4/191	3	2	GNAS complex locus
+293T_HA-HERC2_F4	TUBA1C	84790	sp|Q9BQE3|TBA1C_HUMAN	1.59	1.45	2.55	2.19	2.8	1	14/191	26	2	tubulin, alpha 1c
+293T_HA-HERC2_F4	PHKB	5257	sp|Q93100-2|KPBB_HUMAN	0.83	0.75	2.47	2.12	1.5	1	4/191	2	2	phosphorylase kinase, beta
+293T_HA-HERC2_F4	HLA-H	3136	sp|P01893|HLAH_HUMAN	0.83	0.75	2.47	2.12	6.76	1	4/191	2	2	major histocompatibility complex, class I, H (pseudogene)
+293T_HA-HERC2_F4	MTR	4548	sp|Q99707|METH_HUMAN	0.91	0.82	2.42	2.08	11.38	1	5/191	3	2	5-methyltetrahydrofolate-homocysteine methyltransferase
+293T_HA-HERC2_F4	SAMM50	25813	sp|Q9Y512|SAM50_HUMAN	0.67	0.61	2.33	2	5.44	1	3/191	1	2	sorting and assembly machinery component 50 homolog (S. cerevisiae)
+293T_HA-HERC2_F4	SAMD11	148398	sp|Q96NU1-1|SAM11_HUMAN	0.67	0.61	2.33	2	8.17	1	3/191	1	2	sterile alpha motif domain containing 11
+293T_HA-HERC2_F4	PCDHGA12	26025	sp|O60330|PCDGC_HUMAN	0.67	0.61	2.33	2	8.17	1	3/191	1	2	protocadherin gamma subfamily A, 12
+293T_HA-HERC2_F4	C2orf47	79568	sp|Q8WWC4|CB047_HUMAN	0.83	0.75	2.02	1.73	10.96	1	6/191	3	2	chromosome 2 open reading frame 47
+293T_HA-HERC2_F4	USP9X	8239	sp|Q93008|USP9X_HUMAN	1.01	1.26	1.01	1.61	4.53	1.86	36/191	27	2	ubiquitin specific peptidase 9, X-linked
+293T_HA-HERC2_F4	PSMD1	5707	sp|Q99460-2|PSMD1_HUMAN	0.57	0.91	0.58	1.56	0.31	3.13	34/191	8	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1
+293T_HA-HERC2_F4	TUBB1	81027	sp|Q9H4B7|TBB1_HUMAN	1.01	0.92	1.75	1.5	2.31	1	12/191	9	2	tubulin, beta 1
+293T_HA-HERC2_F4	KLHL15	80311	sp|Q96M94|KLH15_HUMAN	0.67	0.61	1.65	1.41	3.37	1	6/191	2	2	kelch-like 15 (Drosophila)
+293T_HA-HERC2_F4	TYSND1	219743	sp|Q2T9J0-2|TYSD1_HUMAN	0.44	0.51	1	1.39	0.86	1.62	7/191	1	2	trypsin domain containing 1
+293T_HA-HERC2_F4	IMMT	10989	sp|Q16891-2|IMMT_HUMAN	0.73	0.8	1.03	1.3	5.12	1.47	18/191	7	2	inner membrane protein, mitochondrial
+293T_HA-HERC2_F4	GLUD1	2746	sp|P00367|DHE3_HUMAN	0.79	0.72	1.42	1.22	6.74	1	11/191	5	2	glutamate dehydrogenase 1
+293T_HA-HERC2_F4	ECD	11319	sp|O95905|SGT1_HUMAN	0.52	0.48	1.4	1.2	6.06	1	5/191	1	2	ecdysoneless homolog (Drosophila)
+293T_HA-HERC2_F4	PSMD3	5709	sp|O43242|PSMD3_HUMAN	0.5	0.79	0.46	1.18	0.25	2.98	43/191	8	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3
+293T_HA-HERC2_F4	SYNE2	23224	sp|Q8WXH0-2|SYNE2_HUMAN	0.67	0.61	1.35	1.15	10.14	1	9/191	3	2	spectrin repeat containing, nuclear envelope 2
+293T_HA-HERC2_F4	PSMD7	5713	sp|P51665|PSD7_HUMAN	0.38	0.54	0.52	1.11	0.1	2.48	19/191	2	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7
+293T_HA-HERC2_F4	FKBP5	2289	sp|Q13451|FKBP5_HUMAN	0.35	0.46	0.64	1.1	0.07	2.02	11/191	1	2	FK506 binding protein 5
+293T_HA-HERC2_F4	RPS27L	51065	sp|Q71UM5|RS27L_HUMAN	0.64	0.58	1.21	1.04	5.04	1	10/191	3	2	ribosomal protein S27-like
+293T_HA-HERC2_F4	PSMB4	5692	sp|P28070|PSB4_HUMAN	0.72	0.66	1.2	1.03	4.66	1	13/191	5	2	proteasome (prosome, macropain) subunit, beta type, 4
+293T_HA-HERC2_F4	PSMD2	5708	sp|Q13200|PSMD2_HUMAN	0.48	0.76	0.39	1.02	0.49	3.05	54/191	9	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 2
+293T_HA-HERC2_F4	PSMD11	5717	sp|O00231|PSD11_HUMAN	0.4	0.58	0.47	1.02	0	2.55	26/191	3	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11
+293T_HA-HERC2_F4	ATXN2	6311	sp|Q99700-2|ATX2_HUMAN	0.48	0.43	1.17	1	4.57	1	6/191	1	2	ataxin 2
+293T_HA-HERC2_F5	HERC2	8924	sp|O95714|HERC2_HUMAN	4.41	4.74	9.34	11.13	8.4	1.39	8/191	114	2	hect domain and RLD 2
+293T_HA-HERC2_F5	PHKA2	5256	sp|P46019|KPB2_HUMAN	2.61	2.38	9.04	7.75	10.68	1	3/191	15	2	phosphorylase kinase, alpha 2 (liver)
+293T_HA-HERC2_F5	ENPP1	5167	sp|P22413|ENPP1_HUMAN	2.34	2.13	8.08	6.93	12.67	1	3/191	12	2	ectonucleotide pyrophosphatase/phosphodiesterase 1
+293T_HA-HERC2_F5	EIF3H	8667	sp|O15372|EIF3H_HUMAN	1.85	2.7	2.77	6.12	3.76	2.58	16/191	40	2	eukaryotic translation initiation factor 3, subunit H
+293T_HA-HERC2_F5	MIOS	54468	sp|Q9NXC5|MIO_HUMAN	1.91	1.74	6.6	5.66	6.73	1	3/191	8	2	missing oocyte, meiosis regulator, homolog (Drosophila)
+293T_HA-HERC2_F5	PHKB	5257	sp|Q93100-3|KPBB_HUMAN	2.11	1.92	6.31	5.41	10.37	1	4/191	13	2	phosphorylase kinase, beta
+293T_HA-HERC2_F5	EIF3A	8661	sp|Q14152|EIF3A_HUMAN	2.13	3.38	2.04	5.33	4.11	3.05	39/191	129	2	eukaryotic translation initiation factor 3, subunit A
+293T_HA-HERC2_F5	PHKG2	5261	sp|P15735|PHKG2_HUMAN	1.78	1.63	6.17	5.29	11.55	1	3/191	7	2	phosphorylase kinase, gamma 2 (testis)
+293T_HA-HERC2_F5	OCRL	4952	sp|Q01968-2|OCRL_HUMAN	1.43	1.3	6.06	5.2	12.96	1	2/191	3	2	oculocerebrorenal syndrome of Lowe
+293T_HA-HERC2_F5	MTMR3	8897	sp|Q13615-2|MTMR3_HUMAN	1.43	1.3	6.06	5.2	12.96	1	2/191	3	2	myotubularin related protein 3
+293T_HA-HERC2_F5	EIF3E	3646	sp|P60228|EIF3E_HUMAN	1.93	2.55	2.66	4.78	4.39	2.1	19/191	52	2	eukaryotic translation initiation factor 3, subunit E
+293T_HA-HERC2_F5	PHKA1	5255	sp|P46020-2|KPB1_HUMAN	1.85	1.68	5.53	4.74	11.66	1	4/191	10	2	phosphorylase kinase, alpha 1 (muscle)
+293T_HA-HERC2_F5	WDR59	79726	sp|Q6PJI9|WDR59_HUMAN	1.17	1.11	4.95	4.58	1.75	1.08	2/191	2	2	WD repeat domain 59
+293T_HA-HERC2_F5	EIF3B	8662	sp|P55884-2|EIF3B_HUMAN	1.88	2.72	2.02	4.38	5.04	2.53	31/191	80	2	eukaryotic translation initiation factor 3, subunit B
+293T_HA-HERC2_F5	EIF3L	51386	sp|Q9Y262|EIF3L_HUMAN	1.5	2.24	1.77	4.04	2.94	2.67	26/191	43	2	eukaryotic translation initiation factor 3, subunit L
+293T_HA-HERC2_F5	EIF3M	10480	sp|Q7L2H7|EIF3M_HUMAN	1.57	2.01	2.36	3.96	4.07	1.96	16/191	29	2	eukaryotic translation initiation factor 3, subunit M
+293T_HA-HERC2_F5	EIF4G1	1981	sp|Q04637-3|IF4G1_HUMAN	1.17	1.58	2.02	3.81	1.82	2.2	12/191	12	2	eukaryotic translation initiation factor 4 gamma, 1
+293T_HA-HERC2_F5	EIF3G	8666	sp|O75821|EIF3G_HUMAN	1.69	1.88	2.92	3.75	5.42	1.5	12/191	25	2	eukaryotic translation initiation factor 3, subunit G
+293T_HA-HERC2_F5	EIF3C	8663	sp|Q99613|EIF3C_HUMAN	1.69	2.45	1.71	3.74	4.43	2.55	35/191	73	2	eukaryotic translation initiation factor 3, subunit C
+293T_HA-HERC2_F5	EIF3K	27335	sp|Q9UBQ5|EIF3K_HUMAN	1.32	1.4	3	3.47	2.15	1.35	7/191	9	2	eukaryotic translation initiation factor 3, subunit K
+293T_HA-HERC2_F5	EIF3D	8664	sp|O15371|EIF3D_HUMAN	1.45	2.02	1.58	3.19	5.81	2.35	30/191	46	2	eukaryotic translation initiation factor 3, subunit D
+293T_HA-HERC2_F5	CTNNA1	1495	sp|P35221-2|CTNA1_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	catenin (cadherin-associated protein), alpha 1, 102kDa
+293T_HA-HERC2_F5	CTNNB1	1499	sp|P35222|CTNB1_HUMAN	0.95	0.87	3.3	2.83	11	1	3/191	2	2	catenin (cadherin-associated protein), beta 1, 88kDa
+293T_HA-HERC2_F5	WDR24	84219	sp|Q96S15-2|WDR24_HUMAN	0.67	0.66	2.33	2.3	1.83	1.15	3/191	1	2	WD repeat domain 24
+293T_HA-HERC2_F5	EIF3I	8668	sp|Q13347|EIF3I_HUMAN	0.99	1.53	0.91	2.26	3.47	2.89	42/191	30	2	eukaryotic translation initiation factor 3, subunit I
+293T_HA-HERC2_F5	GCC2	9648	sp|Q8IWJ2|GCC2_HUMAN	0.74	0.77	1.98	2.22	2.56	1.31	5/191	2	2	GRIP and coiled-coil domain containing 2
+293T_HA-HERC2_F5	SNX2	6643	sp|O60749|SNX2_HUMAN	0.67	0.61	2.33	2	8.17	1	3/191	1	2	sorting nexin 2
+293T_HA-HERC2_F5	EIF3F	8665	sp|O00303|EIF3F_HUMAN	0.89	1.3	0.84	1.88	2.94	2.61	40/191	23	2	eukaryotic translation initiation factor 3, subunit F
+293T_HA-HERC2_F5	PSMD1	5707	sp|Q99460-2|PSMD1_HUMAN	0.6	0.97	0.62	1.66	0.36	3.13	34/191	9	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1
+293T_HA-HERC2_F5	PSMD6	9861	sp|Q15008|PSMD6_HUMAN	0.62	0.81	0.87	1.57	0.13	2.11	18/191	5	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 6
+293T_HA-HERC2_F5	PSMD11	5717	sp|O00231|PSD11_HUMAN	0.61	0.88	0.71	1.56	0.18	2.55	26/191	7	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11
+293T_HA-HERC2_F5	PSMD3	5709	sp|O43242|PSMD3_HUMAN	0.56	0.89	0.51	1.31	0.35	2.98	43/191	10	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3
+293T_HA-HERC2_F5	UCHL5	51377	sp|Q9Y5K5-2|UCHL5_HUMAN	0.52	0.57	0.99	1.21	2.03	1.43	10/191	2	2	ubiquitin carboxyl-terminal hydrolase L5
+293T_HA-HERC2_F5	PSMD7	5713	sp|P51665|PSD7_HUMAN	0.38	0.54	0.52	1.11	0.1	2.48	19/191	2	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7
+293T_HA-HERC2_F5	PSMD12	5718	sp|O00232|PSD12_HUMAN	0.41	0.68	0.38	1.09	0.06	3.34	41/191	5	2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12
+293T_HA-HERC2_F5	PSMC3	5702	sp|P17980|PRS6A_HUMAN	0.58	0.86	0.46	1.04	1.34	2.63	57/191	14	2	proteasome (prosome, macropain) 26S subunit, ATPase, 3
+293T_HA-HERC2_F5	EPHA7	2045	sp|Q15375-2|EPHA7_HUMAN	0.48	0.43	1.17	1	1.49	1	6/191	1	2	EPH receptor A7
+293T_HA-HERC2_F5	GGT7	2686	sp|Q9UJ14-5|GGT7_HUMAN	0.48	0.43	1.17	1	5.71	1	6/191	1	2	gamma-glutamyltransferase 7
+293T_HA-HERC2_F6	LCP1	3936	sp|P13796|PLSL_HUMAN	3.5	3.19	21	18	13.77	1	1/191	9	2	lymphocyte cytosolic protein 1 (L-plastin)
+293T_HA-HERC2_F6	SELO	83642	sp|Q9BVL4|SELO_HUMAN	3.3	3.36	14	15	13.72	1.25	2/191	16	2	selenoprotein O
+293T_HA-HERC2_F6	SPECC1L	23384	sp|Q69YQ0|CYTSA_HUMAN	2.02	1.84	12.12	10.39	13.55	1	1/191	3	2	sperm antigen with calponin homology and coiled-coil domains 1-like
+293T_HA-HERC2_F6	SNX6	58533	sp|Q9UNH7|SNX6_HUMAN	2.02	1.84	12.12	10.39	13.55	1	1/191	3	2	sorting nexin 6
+293T_HA-HERC2_F6	ARAF	369	sp|P10398|ARAF_HUMAN	2.02	1.84	12.12	10.39	13.55	1	1/191	3	2	v-raf murine sarcoma 3611 viral oncogene homolog
+293T_HA-HERC2_F6	HERC2	8924	sp|O95714|HERC2_HUMAN	3.28	3.49	6.95	8.16	5.36	1.37	8/191	63	2	hect domain and RLD 2
+293T_HA-HERC2_F6	TUBB3	10381	sp|Q13509|TBB3_HUMAN	3	2.73	8.04	6.89	5.62	1	5/191	33	2	tubulin, beta 3
+293T_HA-HERC2_F6	RAF1	5894	sp|P04049-2|RAF1_HUMAN	1.78	1.74	6.17	6.09	13.37	1.15	3/191	7	2	v-raf-1 murine leukemia viral oncogene homolog 1
+293T_HA-HERC2_F6	ABR	29	sp|Q12979-2|ABR_HUMAN	1.17	1.06	7	6	14.14	1	1/191	1	2	active BCR-related gene
+293T_HA-HERC2_F6	RER1	11079	sp|O15258|RER1_HUMAN	1.17	1.06	7	6	14.14	1	1/191	1	2	RER1 retention in endoplasmic reticulum 1 homolog (S. cerevisiae)
+293T_HA-HERC2_F6	TXLNG	55787	sp|Q9NUQ3-2|TXLNG_HUMAN	1.17	1.06	7	6	14.14	1	1/191	1	2	taxilin gamma
+293T_HA-HERC2_F6	CBX2	84733	sp|Q14781|CBX2_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	chromobox homolog 2
+293T_HA-HERC2_F6	PRR14L	253143	sp|Q5THK1-2|PR14L_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	proline rich 14-like
+293T_HA-HERC2_F6	SENP1	29843	sp|Q9P0U3-2|SENP1_HUMAN	0.83	0.75	3.5	3	9.9	1	2/191	1	2	SUMO1/sentrin specific peptidase 1
+293T_HA-HERC2_F6	ATP4A	495	sp|P20648|ATP4A_HUMAN	0.95	0.87	3.3	2.83	11	1	3/191	2	2	ATPase, H+/K+ exchanging, alpha polypeptide
+293T_HA-HERC2_F6	EXD2	55218	sp|Q9NVH0|EXD2_HUMAN	0.95	0.87	3.3	2.83	11	1	3/191	2	2	exonuclease 3'-5' domain containing 2
+293T_HA-HERC2_F6	SSX2IP	117178	sp|Q9Y2D8-2|ADIP_HUMAN	0.95	0.87	3.3	2.83	11	1	3/191	2	2	synovial sarcoma, X breakpoint 2 interacting protein
+293T_HA-HERC2_F6	TUBA1C	84790	sp|Q9BQE3|TBA1C_HUMAN	1.92	1.75	3.08	2.64	4.21	1	14/191	38	2	tubulin, alpha 1c
+293T_HA-HERC2_F6	RNGTT	8732	sp|O60942-2|MCE1_HUMAN	0.83	0.75	2.47	2.12	4.31	1	4/191	2	2	RNA guanylyltransferase and 5'-phosphatase
+293T_HA-HERC2_F6	CDC25C	995	sp|P30307-2|MPIP3_HUMAN	0.83	0.75	2.47	2.12	10.37	1	4/191	2	2	cell division cycle 25 homolog C (S. pombe)
+293T_HA-HERC2_F6	MYO9B	4650	sp|Q13459-2|MYO9B_HUMAN	0.83	0.75	2.47	2.12	8.57	1	4/191	2	2	myosin IXB
+293T_HA-HERC2_F6	SLC27A4	10999	sp|Q6P1M0|S27A4_HUMAN	0.83	0.75	2.47	2.12	1.93	1	4/191	2	2	solute carrier family 27 (fatty acid transporter), member 4
+293T_HA-HERC2_F6	CXorf57	55086	sp|Q6NSI4|CX057_HUMAN	0.83	0.75	2.47	2.12	10.37	1	4/191	2	2	chromosome X open reading frame 57
+293T_HA-HERC2_F6	KIAA0889	140710	sp|O94964-2|K0889_HUMAN	0.91	0.82	2.42	2.08	9.52	1	5/191	3	2	KIAA0889
+293T_HA-HERC2_F6	FLII	2314	sp|Q13045|FLII_HUMAN	0.95	0.87	2.33	2	11.97	1	6/191	4	2	flightless I homolog (Drosophila)
+293T_HA-HERC2_F6	FASTKD5	60493	sp|Q7L8L6|FAKD5_HUMAN	0.67	0.61	2.33	2	8.17	1	3/191	1	2	FAST kinase domains 5
+293T_HA-HERC2_F6	ZNF318	24149	sp|Q5VUA4-2|ZN318_HUMAN	0.67	0.61	2.33	2	8.17	1	3/191	1	2	zinc finger protein 318
+293T_HA-HERC2_F6	SCO2	9997	sp|O43819|SCO2_HUMAN	0.67	0.61	2.33	2	5.44	1	3/191	1	2	SCO cytochrome oxidase deficient homolog 2 (yeast)
+293T_HA-HERC2_F6	MKI67	4288	sp|P46013-2|KI67_HUMAN	1.01	1.12	1.52	1.94	8.11	1.49	16/191	12	2	antigen identified by monoclonal antibody Ki-67
+293T_HA-HERC2_F6	TUBB1	81027	sp|Q9H4B7|TBB1_HUMAN	1.17	1.06	2.02	1.73	3.16	1	12/191	12	2	tubulin, beta 1
+293T_HA-HERC2_F6	LRRC1	55227	sp|Q9BTT6-2|LRRC1_HUMAN	0.58	0.53	1.75	1.5	3.1	1	4/191	1	2	leucine rich repeat containing 1
+293T_HA-HERC2_F6	RHOT2	89941	sp|Q8IXI1|MIRO2_HUMAN	0.58	0.53	1.75	1.5	5.11	1	4/191	1	2	ras homolog gene family, member T2
+293T_HA-HERC2_F6	PFDN5	5204	sp|Q99471|PFD5_HUMAN	0.77	0.7	1.73	1.49	5.6	1	7/191	3	2	prefoldin subunit 5
+293T_HA-HERC2_F6	GCN1L1	10985	sp|Q92616|GCN1L_HUMAN	0.72	0.92	0.85	1.42	2.84	1.94	26/191	10	2	GCN1 general control of amino-acid synthesis 1-like 1 (yeast)
+293T_HA-HERC2_F6	PFDN4	5203	sp|Q9NQP4|PFD4_HUMAN	0.67	0.61	1.65	1.41	6.96	1	6/191	2	2	prefoldin subunit 4
+293T_HA-HERC2_F6	IQGAP1	8826	sp|P46940|IQGA1_HUMAN	0.67	0.61	1.65	1.41	7.84	1	6/191	2	2	IQ motif containing GTPase activating protein 1
+293T_HA-HERC2_F6	SLC25A12	8604	sp|O75746|CMC1_HUMAN	0.86	0.79	1.56	1.34	7.8	1	11/191	6	2	solute carrier family 25 (mitochondrial carrier, Aralar), member 12
+293T_HA-HERC2_F6	WDR6	11180	sp|Q9NNW5|WDR6_HUMAN	0.79	0.72	1.42	1.22	11.71	1	11/191	5	2	WD repeat domain 6
+293T_HA-HERC2_F6	ECD	11319	sp|O95905|SGT1_HUMAN	0.52	0.48	1.4	1.2	6.06	1	5/191	1	2	ecdysoneless homolog (Drosophila)
+293T_HA-HERC2_F6	ZBTB5	9925	sp|O15062|ZBTB5_HUMAN	0.52	0.48	1.4	1.2	1.47	1	5/191	1	2	zinc finger and BTB domain containing 5
+293T_HA-HERC2_F6	LRPPRC	10128	sp|P42704|LPPRC_HUMAN	1.02	1.08	0.99	1.15	7.1	1.35	38/191	29	2	leucine-rich PPR-motif containing
+293T_HA-HERC2_F6	VBP1	7411	sp|P61758|PFD3_HUMAN	0.75	0.69	1.3	1.12	7.61	1	12/191	5	2	von Hippel-Lindau binding protein 1
+293T_HA-HERC2_F6	XPOT	11260	sp|O43592|XPOT_HUMAN	0.54	0.59	0.87	1.06	2.4	1.43	14/191	3	2	exportin, tRNA (nuclear export receptor for tRNAs)
+293T_HA-HERC2_F6	VDAC2	7417	sp|P45880-1|VDAC2_HUMAN	0.58	0.53	1.24	1.06	4.47	1	8/191	2	2	voltage-dependent anion channel 2
+293T_HA-HERC2_F6	RPS27L	51065	sp|Q71UM5|RS27L_HUMAN	0.64	0.58	1.21	1.04	5.04	1	10/191	3	2	ribosomal protein S27-like
+293T_HA-HERC2_F6	ADCK3	56997	sp|Q8NI60-3|ADCK3_HUMAN	0.48	0.43	1.17	1	5.71	1	6/191	1	2	aarF domain containing kinase 3
+293T_HA-HERC2_F6	PFDN6	10471	sp|O15212|PFD6_HUMAN	0.48	0.43	1.17	1	2.29	1	6/191	1	2	prefoldin subunit 6
+293T_HA-HERC2_F6	GNL3L	54552	sp|Q9NVN8|GNL3L_HUMAN	0.48	0.43	1.17	1	5.71	1	6/191	1	2	guanine nucleotide binding protein-like 3 (nucleolar)-like
+293T_HA-HERC2_F6	EPHA7	2045	sp|Q15375-2|EPHA7_HUMAN	0.48	0.43	1.17	1	1.49	1	6/191	1	2	EPH receptor A7

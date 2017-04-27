@@ -1,0 +1,36 @@
+geneID	symbol	descr	num_hek	num_sy5y	num_cell_lines	cell_lines	hcip_cutoff_sy5y	bait
+3851	KRT4	keratin 4	1	0	1	h	NA	ECI2
+55052	MRPL20	mitochondrial ribosomal protein L20	1	0	1	h	NA	ECI2
+3854	KRT6B	keratin 6B	0	1	1	s	94	ECI2
+563	AZGP1	alpha-2-glycoprotein 1, zinc-binding	1	0	1	h	NA	ECI2
+57492	ARID1B	AT-rich interaction domain 1B	1	0	1	h	NA	ECI2
+2581	GALC	galactosylceramidase	1	0	1	h	NA	ECI2
+27288	RBMXL2	RNA binding motif protein, X-linked like 2	0	1	1	s	94	ECI2
+83737	ITCH	itchy E3 ubiquitin protein ligase	1	0	1	h	NA	ECI2
+79983	POF1B	premature ovarian failure, 1B	1	0	1	h	NA	ECI2
+147228	KRT17P1	keratin 17 pseudogene 1	1	0	1	h	NA	ECI2
+192669	EIF2C3	argonaute 3, RISC catalytic component	1	0	1	h	NA	ECI2
+9124	PDLIM1	PDZ and LIM domain 1	1	0	1	h	NA	ECI2
+10923	SUB1	SUB1 homolog, transcriptional regulator	1	0	1	h	NA	ECI2
+8110	DPF3	double PHD fingers 3	1	0	1	h	NA	ECI2
+8239	USP9X	ubiquitin specific peptidase 9, X-linked	1	0	1	h	NA	ECI2
+345651	ACTBL2	actin, beta like 2	1	0	1	h	NA	ECI2
+56252	YLPM1	YLP motif containing 1	1	0	1	h	NA	ECI2
+9919	SEC16A	SEC16 homolog A, endoplasmic reticulum export factor	1	0	1	h	NA	ECI2
+79169	C1orf35	chromosome 1 open reading frame 35	1	0	1	h	NA	ECI2
+6595	SMARCA2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	1	1	2	b	94	ECI2
+6602	SMARCD1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	1	0	1	h	NA	ECI2
+6603	SMARCD2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2	1	0	1	h	NA	ECI2
+10455	ECI2	enoyl-CoA delta isomerase 2	1	1	2	bait	95	ECI2
+79576	NKAP	NFKB activating protein	1	0	1	h	NA	ECI2
+57690	TNRC6C	trinucleotide repeat containing 6C	1	0	1	h	NA	ECI2
+8924	HERC2	HECT and RLD domain containing E3 ubiquitin protein ligase 2	1	0	1	h	NA	ECI2
+56243	KIAA1217	KIAA1217	1	0	1	h	NA	ECI2
+8289	ARID1A	AT-rich interaction domain 1A	1	0	1	h	NA	ECI2
+1891	ECH1	enoyl-CoA hydratase 1	1	1	2	b	95	ECI2
+51429	SNX9	sorting nexin 9	1	0	1	h	NA	ECI2
+10342	TFG	TRK-fused gene	0	1	1	s	94	ECI2
+4201	MEA1	male-enhanced antigen 1	1	0	1	h	NA	ECI2
+84461	NEURL4	neuralized E3 ubiquitin protein ligase 4	1	0	1	h	NA	ECI2
+9967	THRAP3	thyroid hormone receptor associated protein 3	1	0	1	h	NA	ECI2
+144501	KRT80	keratin 80	1	0	1	h	NA	ECI2

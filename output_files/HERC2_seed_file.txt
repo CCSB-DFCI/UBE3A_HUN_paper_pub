@@ -1,0 +1,285 @@
+geneID	symbol	descr	num_hek	num_sy5y	num_cell_lines	cell_lines	hcip_cutoff_sy5y	bait
+9731	KIAA0562	centrosomal protein 104	1	0	1	h	NAHERC2
+23557	SNAPIN	SNAP associated protein	1	0	1	h	NAHERC2
+83642	SELO	selenoprotein O	1	1	2	b	95HERC2
+81929	SEH1L	SEH1 like nucleoporin	0	1	1	s	95HERC2
+522	ATP5J	ATP synthase, H+ transporting, mitochondrial Fo complex subunit F6	1	0	1	h	NAHERC2
+523	ATP6V1A	ATPase H+ transporting V1 subunit A	1	0	1	h	NAHERC2
+146956	EME1	essential meiotic structure-specific endonuclease 1	1	0	1	h	NAHERC2
+23384	SPECC1L	sperm antigen with calponin homology and coiled-coil domains 1 like	1	0	1	h	NAHERC2
+56850	GRIPAP1	GRIP1 associated protein 1	1	0	1	h	NAHERC2
+8725	C19orf2	URI1, prefoldin like chaperone	1	0	1	h	NAHERC2
+51386	EIF3L	eukaryotic translation initiation factor 3 subunit L	1	1	2	b	95HERC2
+5295	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1	1	0	1	h	NAHERC2
+8732	RNGTT	RNA guanylyltransferase and 5'-phosphatase	1	0	1	h	NAHERC2
+9757	MLL4	lysine methyltransferase 2B	1	0	1	h	NAHERC2
+117178	SSX2IP	SSX family member 2 interacting protein	1	0	1	h	NAHERC2
+5167	ENPP1	ectonucleotide pyrophosphatase/phosphodiesterase 1	1	0	1	h	NAHERC2
+3105	HLA-A	major histocompatibility complex, class I, A	1	0	1	h	NAHERC2
+3854	KRT6B	keratin 6B	0	1	1	s	90HERC2
+3107	HLA-C	major histocompatibility complex, class I, C	1	0	1	h	NAHERC2
+9765	ZFYVE16	zinc finger FYVE-type containing 16	1	0	1	h	NAHERC2
+550	AUP1	ancient ubiquitous protein 1	1	0	1	h	NAHERC2
+134492	NUDCD2	NudC domain containing 2	1	0	1	h	NAHERC2
+4650	MYO9B	myosin IXB	1	0	1	h	NAHERC2
+6407	SEMG2	semenogelin II	1	0	1	h	NAHERC2
+55218	EXD2	exonuclease 3'-5' domain containing 2	1	0	1	h	NAHERC2
+3119	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1	1	0	1	h	NAHERC2
+55858	TMEM165	transmembrane protein 165	1	0	1	h	NAHERC2
+11316	COPE	coatomer protein complex subunit epsilon	1	0	1	h	NAHERC2
+23390	ZDHHC17	zinc finger DHHC-type containing 17	1	0	1	h	NAHERC2
+11319	ECD	ecdysoneless cell cycle regulator	1	0	1	h	NAHERC2
+3133	HLA-E	major histocompatibility complex, class I, E	1	0	1	h	NAHERC2
+50717	DCAF8	DDB1 and CUL4 associated factor 8	1	0	1	h	NAHERC2
+55871	CBWD1	COBW domain containing 1	1	0	1	h	NAHERC2
+3136	HLA-H	major histocompatibility complex, class I, H (pseudogene)	1	0	1	h	NAHERC2
+3936	LCP1	lymphocyte cytosolic protein 1	1	0	1	h	NAHERC2
+11135	CDC42EP1	CDC42 effector protein 1	1	0	1	h	NAHERC2
+124997	WDR81	WD repeat domain 81	1	0	1	h	NAHERC2
+57414	RHBDD2	rhomboid domain containing 2	1	0	1	h	NAHERC2
+138311	FAM69B	family with sequence similarity 69 member B	1	0	1	h	NAHERC2
+201292	TRIM65	tripartite motif containing 65	1	0	1	h	NAHERC2
+9997	SCO2	SCO2, cytochrome c oxidase assembly protein	1	0	1	h	NAHERC2
+5203	PFDN4	prefoldin subunit 4	1	0	1	h	NAHERC2
+5204	PFDN5	prefoldin subunit 5	1	0	1	h	NAHERC2
+91833	WDR20	WD repeat domain 20	0	1	1	s	90HERC2
+84617	TUBB6	tubulin beta 6 class V	0	1	1	s	90HERC2
+10844	TUBGCP2	tubulin gamma complex associated protein 2	1	0	1	h	NAHERC2
+6311	ATXN2	ataxin 2	1	0	1	h	NAHERC2
+56926	NCLN	nicalin	1	0	1	h	NAHERC2
+219743	TYSND1	trypsin domain containing 1	1	0	1	h	NAHERC2
+54881	TEX10	testis expressed 10	1	0	1	h	NAHERC2
+55227	LRRC1	leucine rich repeat containing 1	1	0	1	h	NAHERC2
+57448	BIRC6	baculoviral IAP repeat containing 6	1	0	1	h	NAHERC2
+6418	SET	SET nuclear proto-oncogene	0	1	1	s	90HERC2
+1981	EIF4G1	eukaryotic translation initiation factor 4 gamma 1	1	0	1	h	NAHERC2
+10868	USP20	ubiquitin specific peptidase 20	1	1	2	b	95HERC2
+144501	KRT80	keratin 80	1	0	1	h	NAHERC2
+114294	LACTB	lactamase beta	1	0	1	h	NAHERC2
+8826	IQGAP1	IQ motif containing GTPase activating protein 1	1	0	1	h	NAHERC2
+2495	FTH1	ferritin heavy chain 1	1	1	2	b	95HERC2
+636	BICD1	BICD cargo adaptor 1	1	0	1	h	NAHERC2
+3709	ITPR2	inositol 1,4,5-trisphosphate receptor type 2	1	0	1	h	NAHERC2
+2686	GGT7	gamma-glutamyltransferase 7	1	0	1	h	NAHERC2
+6272	SORT1	sortilin 1	1	0	1	h	NAHERC2
+5824	PEX19	peroxisomal biogenesis factor 19	1	0	1	h	NAHERC2
+7298	TYMS	thymidylate synthetase	1	0	1	h	NAHERC2
+81027	TUBB1	tubulin beta 1 class VI	1	0	1	h	NAHERC2
+80004	ESRP2	epithelial splicing regulatory protein 2	1	0	1	h	NAHERC2
+2181	ACSL3	acyl-CoA synthetase long-chain family member 3	1	0	1	h	NAHERC2
+54465	ETAA1	Ewing tumor associated antigen 1	1	0	1	h	NAHERC2
+5256	PHKA2	phosphorylase kinase regulatory subunit alpha 2	1	0	1	h	NAHERC2
+5257	PHKB	phosphorylase kinase regulatory subunit beta	1	1	2	b	95HERC2
+5770	PTPN1	protein tyrosine phosphatase, non-receptor type 1	1	0	1	h	NAHERC2
+369	ARAF	A-Raf proto-oncogene, serine/threonine kinase	1	0	1	h	NAHERC2
+79657	RPAP3	RNA polymerase II associated protein 3	1	0	1	h	NAHERC2
+54927	CHCHD3	coiled-coil-helix-coiled-coil-helix domain containing 3	1	0	1	h	NAHERC2
+28952	CCDC22	coiled-coil domain containing 22	1	0	1	h	NAHERC2
+84823	LMNB2	lamin B2	1	0	1	h	NAHERC2
+29843	SENP1	SUMO1/sentrin specific peptidase 1	1	0	1	h	NAHERC2
+50628	GEMIN4	gem nuclear organelle associated protein 4	1	0	1	h	NAHERC2
+79002	C19orf43	chromosome 19 open reading frame 43	1	0	1	h	NAHERC2
+54939	COMMD4	COMM domain containing 4	1	0	1	h	NAHERC2
+150684	COMMD1	copper metabolism domain containing 1	1	0	1	h	NAHERC2
+1805	DPT	dermatopontin	0	1	1	s	90HERC2
+10910	SUGT1	SGT1 homolog, MIS12 kinetochore complex assembly cochaperone	1	0	1	h	NAHERC2
+56993	TOMM22	translocase of outer mitochondrial membrane 22	1	0	1	h	NAHERC2
+57506	MAVS	mitochondrial antiviral signaling protein	1	0	1	h	NAHERC2
+5495	PPM1B	protein phosphatase, Mg2+/Mn2+ dependent 1B	1	0	1	h	NAHERC2
+56997	ADCK3	coenzyme Q8A	1	0	1	h	NAHERC2
+57510	XPO5	exportin 5	1	0	1	h	NAHERC2
+54951	COMMD8	COMM domain containing 8	1	0	1	h	NAHERC2
+7337	UBE3A	ubiquitin protein ligase E3A	1	1	2	b	90HERC2
+27335	EIF3K	eukaryotic translation initiation factor 3 subunit K	1	1	2	b	95HERC2
+2222	FDFT1	farnesyl-diphosphate farnesyltransferase 1	1	0	1	h	NAHERC2
+51741	WWOX	WW domain containing oxidoreductase	1	0	1	h	NAHERC2
+51377	UCHL5	ubiquitin C-terminal hydrolase L5	1	0	1	h	NAHERC2
+116143	WDR92	WD repeat domain 92	1	0	1	h	NAHERC2
+374454	KRT77	keratin 77	0	1	1	s	90HERC2
+10423	CDIPT	CDP-diacylglycerol--inositol 3-phosphatidyltransferase	1	0	1	h	NAHERC2
+23224	SYNE2	spectrin repeat containing nuclear envelope protein 2	1	0	1	h	NAHERC2
+372	ARCN1	archain 1	1	0	1	h	NAHERC2
+2746	GLUD1	glutamate dehydrogenase 1	1	0	1	h	NAHERC2
+5189	PEX1	peroxisomal biogenesis factor 1	1	0	1	h	NAHERC2
+4288	MKI67	marker of proliferation Ki-67	1	0	1	h	NAHERC2
+10945	KDELR1	KDEL endoplasmic reticulum protein retention receptor 1	1	0	1	h	NAHERC2
+259266	ASPM	abnormal spindle microtubule assembly	1	0	1	h	NAHERC2
+54468	MIOS	meiosis regulator for oocyte development	1	1	2	b	95HERC2
+9925	ZBTB5	zinc finger and BTB domain containing 5	1	1	2	b	95HERC2
+54982	CLN6	ceroid-lipofuscinosis, neuronal 6, late infantile, variant	1	0	1	h	NAHERC2
+9761	MLEC	malectin	1	0	1	h	NAHERC2
+1399	CRKL	CRK like proto-oncogene, adaptor protein	1	0	1	h	NAHERC2
+7417	VDAC2	voltage dependent anion channel 2	1	0	1	h	NAHERC2
+22818	COPZ1	coatomer protein complex subunit zeta 1	1	0	1	h	NAHERC2
+79568	C2orf47	matrix AAA peptidase interacting protein 1	1	0	1	h	NAHERC2
+60626	RIC8A	RIC8 guanine nucleotide exchange factor A	1	0	1	h	NAHERC2
+1315	COPB1	coatomer protein complex subunit beta 1	1	0	1	h	NAHERC2
+25813	SAMM50	SAMM50 sorting and assembly machinery component	1	0	1	h	NAHERC2
+25814	ATXN10	ataxin 10	1	0	1	h	NAHERC2
+10455	ECI2	enoyl-CoA delta isomerase 2	1	0	1	h	NAHERC2
+8409	UXT	ubiquitously expressed prefoldin like chaperone	1	0	1	h	NAHERC2
+2778	GNAS	GNAS complex locus	1	0	1	h	NAHERC2
+286887	KRT6C	keratin 6C	0	1	1	s	95HERC2
+8924	HERC2	HECT and RLD domain containing E3 ubiquitin protein ligase 2	1	1	2	b	95HERC2
+8925	HERC1	HECT and RLD domain containing E3 ubiquitin protein ligase family member 1	1	0	1	h	NAHERC2
+10463	SLC30A9	solute carrier family 30 member 9	1	0	1	h	NAHERC2
+157922	CAMSAP1	calmodulin regulated spectrin associated protein 1	0	1	1	s	95HERC2
+5862	RAB2A	RAB2A, member RAS oncogene family	1	0	1	h	NAHERC2
+10471	PFDN6	prefoldin subunit 6	1	0	1	h	NAHERC2
+10985	GCN1L1	GCN1, eIF2 alpha kinase activator homolog	1	0	1	h	NAHERC2
+342897	NCCRP1	non-specific cytotoxic cell receptor protein 1 homolog (zebrafish)	1	0	1	h	NAHERC2
+81502	HM13	histocompatibility minor 13	1	0	1	h	NAHERC2
+10989	IMMT	inner membrane mitochondrial protein	1	0	1	h	NAHERC2
+24149	ZNF318	zinc finger protein 318	1	0	1	h	NAHERC2
+10480	EIF3M	eukaryotic translation initiation factor 3 subunit M	1	1	2	b	95HERC2
+2289	FKBP5	FK506 binding protein 5	1	0	1	h	NAHERC2
+1266	CNN3	calponin 3	1	0	1	h	NAHERC2
+284403	WDR62	WD repeat domain 62	1	0	1	h	NAHERC2
+9972	NUP153	nucleoporin 153	1	0	1	h	NAHERC2
+9276	COPB2	coatomer protein complex subunit beta 2	1	0	1	h	NAHERC2
+84726	PRRC2B	proline rich coiled-coil 2B	1	0	1	h	NAHERC2
+10999	SLC27A4	solute carrier family 27 member 4	1	0	1	h	NAHERC2
+11001	SLC27A2	solute carrier family 27 member 2	1	0	1	h	NAHERC2
+3835	KIF22	kinesin family member 22	1	0	1	h	NAHERC2
+116988	AGAP3	ArfGAP with GTPase domain, ankyrin repeat and PH domain 3	1	0	1	h	NAHERC2
+84733	CBX2	chromobox 2	1	0	1	h	NAHERC2
+8661	EIF3A	eukaryotic translation initiation factor 3 subunit A	1	1	2	b	95HERC2
+23299	BICD2	BICD cargo adaptor 2	1	0	1	h	NAHERC2
+6406	SEMG1	semenogelin I	1	0	1	h	NAHERC2
+119559	SFXN4	sideroflexin 4	1	0	1	h	NAHERC2
+2314	FLII	FLII, actin remodeling protein	1	0	1	h	NAHERC2
+253143	PRR14L	proline rich 14 like	1	0	1	h	NAHERC2
+2316	FLNA	filamin A	1	0	1	h	NAHERC2
+642	BLMH	bleomycin hydrolase	1	0	1	h	NAHERC2
+23310	NCAPD3	non-SMC condensin II complex subunit D3	1	0	1	h	NAHERC2
+89874	SLC25A21	solute carrier family 25 member 21	1	0	1	h	NAHERC2
+9859	CEP170	centrosomal protein 170	1	1	2	b	95HERC2
+83733	SLC25A18	solute carrier family 25 member 18	1	0	1	h	NAHERC2
+54552	GNL3L	G protein nucleolar 3 like	1	0	1	h	NAHERC2
+8239	USP9X	ubiquitin specific peptidase 9, X-linked	1	0	1	h	NAHERC2
+796	CALCA	calcitonin related polypeptide alpha	1	0	1	h	NAHERC2
+3872	KRT17	keratin 17	0	1	1	s	95HERC2
+7984	ARHGEF5	Rho guanine nucleotide exchange factor 5	1	0	1	h	NAHERC2
+1314	COPA	coatomer protein complex subunit alpha	1	1	2	b	90HERC2
+291	SLC25A4	solute carrier family 25 member 4	1	0	1	h	NAHERC2
+22820	COPG	coatomer protein complex subunit gamma 1	1	0	1	h	NAHERC2
+10972	TMED10	transmembrane p24 trafficking protein 10	1	0	1	h	NAHERC2
+5255	PHKA1	phosphorylase kinase regulatory subunit alpha 1	1	1	2	b	90HERC2
+9517	SPTLC2	serine palmitoyltransferase long chain base subunit 2	1	0	1	h	NAHERC2
+55086	CXorf57	chromosome X open reading frame 57	1	0	1	h	NAHERC2
+55088	C10orf118	coiled-coil domain containing 186	1	0	1	h	NAHERC2
+9525	VPS4B	vacuolar protein sorting 4 homolog B	1	0	1	h	NAHERC2
+84790	TUBA1C	tubulin alpha 1c	1	0	1	h	NAHERC2
+3895	KTN1	kinectin 1	1	0	1	h	NAHERC2
+2876	GPX1	glutathione peroxidase 1	1	0	1	h	NAHERC2
+23363	OBSL1	obscurin like 1	1	0	1	h	NAHERC2
+2886	GRB7	growth factor receptor bound protein 7	1	0	1	h	NAHERC2
+11079	RER1	retention in endoplasmic reticulum sorting receptor 1	1	0	1	h	NAHERC2
+10058	ABCB6	ATP binding cassette subfamily B member 6 (Langereis blood group)	1	0	1	h	NAHERC2
+60386	SLC25A19	solute carrier family 25 member 19	1	0	1	h	NAHERC2
+22862	FNDC3A	fibronectin type III domain containing 3A	1	0	1	h	NAHERC2
+5261	PHKG2	phosphorylase kinase catalytic subunit gamma 2	1	0	1	h	NAHERC2
+100499483	C9orf174	coiled-coil domain containing 180	0	1	1	s	90HERC2
+995	CDC25C	cell division cycle 25C	1	0	1	h	NAHERC2
+89941	RHOT2	ras homolog family member T2	1	0	1	h	NAHERC2
+55127	HEATR1	HEAT repeat containing 1	1	0	1	h	NAHERC2
+4952	OCRL	OCRL, inositol polyphosphate-5-phosphatase	1	0	1	h	NAHERC2
+64860	ARMCX5	armadillo repeat containing, X-linked 5	1	0	1	h	NAHERC2
+1374	CPT1A	carnitine palmitoyltransferase 1A	1	0	1	h	NAHERC2
+8031	NCOA4	nuclear receptor coactivator 4	1	0	1	h	NAHERC2
+80224	NUBPL	nucleotide binding protein like	1	0	1	h	NAHERC2
+25953	PNKD	paroxysmal nonkinesigenic dyskinesia	1	0	1	h	NAHERC2
+80206	FHOD3	formin homology 2 domain containing 3	1	0	1	h	NAHERC2
+5476	CTSA	cathepsin A	1	0	1	h	NAHERC2
+6118	RPA2	replication protein A2	1	0	1	h	NAHERC2
+1495	CTNNA1	catenin alpha 1	1	0	1	h	NAHERC2
+10600	USP16	ubiquitin specific peptidase 16	1	0	1	h	NAHERC2
+124220	ZG16B	zymogen granule protein 16B	1	0	1	h	NAHERC2
+29	ABR	active BCR-related	1	0	1	h	NAHERC2
+79726	WDR59	WD repeat domain 59	1	1	2	b	95HERC2
+112495	GTF3C6	general transcription factor IIIC subunit 6	1	0	1	h	NAHERC2
+6513	SLC2A1	solute carrier family 2 member 1	1	0	1	h	NAHERC2
+5894	RAF1	Raf-1 proto-oncogene, serine/threonine kinase	1	0	1	h	NAHERC2
+23412	COMMD3	COMM domain containing 3	1	0	1	h	NAHERC2
+3646	EIF3E	eukaryotic translation initiation factor 3 subunit E	1	1	2	b	95HERC2
+84343	HPS3	HPS3, biogenesis of lysosomal organelles complex 2 subunit 1	1	0	1	h	NAHERC2
+126328	NDUFA11	NADH:ubiquinone oxidoreductase subunit A11	1	0	1	h	NAHERC2
+51065	RPS27L	ribosomal protein S27 like	1	0	1	h	NAHERC2
+63893	UBE2O	ubiquitin conjugating enzyme E2 O	1	0	1	h	NAHERC2
+10112	KIF20A	kinesin family member 20A	1	0	1	h	NAHERC2
+10113	PREB	prolactin regulatory element binding	1	0	1	h	NAHERC2
+390531	VSIG7	immunoglobulin heavy variable 1/OR15-9 (non-functional)	1	0	1	h	NAHERC2
+29062	WDR91	WD repeat domain 91	1	0	1	h	NAHERC2
+79751	SLC25A22	solute carrier family 25 member 22	1	0	1	h	NAHERC2
+10381	TUBB3	tubulin beta 3 class III	1	0	1	h	NAHERC2
+4548	MTR	5-methyltetrahydrofolate-homocysteine methyltransferase	1	0	1	h	NAHERC2
+8079	MLF2	myeloid leukemia factor 2	1	0	1	h	NAHERC2
+10128	LRPPRC	leucine rich pentatricopeptide repeat containing	1	1	2	b	95HERC2
+22931	RAB18	RAB18, member RAS oncogene family	1	0	1	h	NAHERC2
+55700	MAP7D1	MAP7 domain containing 1	1	0	1	h	NAHERC2
+405	ARNT	aryl hydrocarbon receptor nuclear translocator	1	0	1	h	NAHERC2
+84376	HOOK3	hook microtubule tethering protein 3	1	0	1	h	NAHERC2
+8604	SLC25A12	solute carrier family 25 member 12	1	0	1	h	NAHERC2
+27037	TRMT2A	tRNA methyltransferase 2 homolog A	1	0	1	h	NAHERC2
+10142	AKAP9	A-kinase anchoring protein 9	1	0	1	h	NAHERC2
+83871	RAB34	RAB34, member RAS oncogene family	1	0	1	h	NAHERC2
+2976	GTF3C2	general transcription factor IIIC subunit 2	1	0	1	h	NAHERC2
+29090	C18orf55	translocase of inner mitochondrial membrane 21	1	0	1	h	NAHERC2
+10147	SUGP2	SURP and G-patch domain containing 2	1	0	1	h	NAHERC2
+80198	MUS81	MUS81 structure-specific endonuclease subunit	1	0	1	h	NAHERC2
+140710	KIAA0889	suppressor of glucose, autophagy associated 1	1	0	1	h	NAHERC2
+9372	ZFYVE9	zinc finger FYVE-type containing 9	1	0	1	h	NAHERC2
+427	ASAH1	N-acylsphingosine amidohydrolase 1	1	0	1	h	NAHERC2
+11180	WDR6	WD repeat domain 6	1	0	1	h	NAHERC2
+148398	SAMD11	sterile alpha motif domain containing 11	1	0	1	h	NAHERC2
+55215	FANCI	Fanconi anemia complementation group I	1	0	1	h	NAHERC2
+10672	GNA13	G protein subunit alpha 13	1	0	1	h	NAHERC2
+51122	COMMD2	COMM domain containing 2	1	0	1	h	NAHERC2
+7411	VBP1	VHL binding protein 1	1	0	1	h	NAHERC2
+29110	TBK1	TANK binding kinase 1	1	0	1	h	NAHERC2
+80311	KLHL15	kelch like family member 15	1	0	1	h	NAHERC2
+8897	MTMR3	myotubularin related protein 3	1	0	1	h	NAHERC2
+79803	HPS6	HPS6, biogenesis of lysosomal organelles complex 2 subunit 3	1	0	1	h	NAHERC2
+1468	SLC25A10	solute carrier family 25 member 10	1	0	1	h	NAHERC2
+127933	UHMK1	U2AF homology motif kinase 1	1	0	1	h	NAHERC2
+26046	LTN1	listerin E3 ubiquitin protein ligase 1	1	0	1	h	NAHERC2
+51647	FAM96B	family with sequence similarity 96 member B	1	0	1	h	NAHERC2
+1472	CST4	cystatin S	1	0	1	h	NAHERC2
+4000	LMNA	lamin A/C	1	0	1	h	NAHERC2
+9119	KRT75	keratin 75	1	0	1	h	NAHERC2
+150472	CBWD2	COBW domain containing 2	1	0	1	h	NAHERC2
+55243	KIRREL	kin of IRRE like (Drosophila)	1	0	1	h	NAHERC2
+201164	PLD6	phospholipase D family member 6	1	0	1	h	NAHERC2
+55787	TXLNG	taxilin gamma	1	0	1	h	NAHERC2
+9648	GCC2	GRIP and coiled-coil domain containing 2	1	0	1	h	NAHERC2
+60493	FASTKD5	FAST kinase domains 5	1	0	1	h	NAHERC2
+2512	FTL	ferritin light chain	1	0	1	h	NAHERC2
+27043	PELP1	proline, glutamate and leucine rich protein 1	1	0	1	h	NAHERC2
+26958	COPG2	coatomer protein complex subunit gamma 2	1	0	1	h	NAHERC2
+8662	EIF3B	eukaryotic translation initiation factor 3 subunit B	1	1	2	b	95HERC2
+8663	EIF3C	eukaryotic translation initiation factor 3 subunit C	1	1	2	b	95HERC2
+8664	EIF3D	eukaryotic translation initiation factor 3 subunit D	1	1	2	b	95HERC2
+8665	EIF3F	eukaryotic translation initiation factor 3 subunit F	1	1	2	b	95HERC2
+8666	EIF3G	eukaryotic translation initiation factor 3 subunit G	1	1	2	b	95HERC2
+8667	EIF3H	eukaryotic translation initiation factor 3 subunit H	1	1	2	b	95HERC2
+8668	EIF3I	eukaryotic translation initiation factor 3 subunit I	1	1	2	b	95HERC2
+27101	CACYBP	calcyclin binding protein	1	0	1	h	NAHERC2
+1499	CTNNB1	catenin beta 1	1	0	1	h	NAHERC2
+58533	SNX6	sorting nexin 6	1	0	1	h	NAHERC2
+11234	HPS5	HPS5, biogenesis of lysosomal organelles complex 2 subunit 2	1	0	1	h	NAHERC2
+84219	WDR24	WD repeat domain 24	1	1	2	b	95HERC2
+9700	ESPL1	extra spindle pole bodies like 1, separase	1	0	1	h	NAHERC2
+10726	NUDC	nuclear distribution C, dynein complex regulator	1	0	1	h	NAHERC2
+4072	EPCAM	epithelial cell adhesion molecule	1	0	1	h	NAHERC2
+1191	CLU	clusterin	1	0	1	h	NAHERC2
+84461	NEURL4	neuralized E3 ubiquitin protein ligase 4	1	1	2	b	95HERC2
+495	ATP4A	ATPase H+/K+ transporting alpha subunit	1	0	1	h	NAHERC2
+79858	NEK11	NIMA related kinase 11	1	0	1	h	NAHERC2
+6643	SNX2	sorting nexin 2	1	0	1	h	NAHERC2
+5108	PCM1	pericentriolar material 1	1	0	1	h	NAHERC2
+79861	TUBAL3	tubulin alpha like 3	1	0	1	h	NAHERC2
+26025	PCDHGA12	protocadherin gamma subfamily A, 12	1	0	1	h	NAHERC2
+57599	WDR48	WD repeat domain 48	0	1	1	s	95HERC2
+11260	XPOT	exportin for tRNA	1	0	1	h	NAHERC2
+2045	EPHA7	EPH receptor A7	1	0	1	h	NAHERC2
+51199	NIN	ninein	1	0	1	h	NAHERC2

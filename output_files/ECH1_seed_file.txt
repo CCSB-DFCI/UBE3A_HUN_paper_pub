@@ -1,0 +1,69 @@
+geneID	symbol	descr	num_hek	num_sy5y	num_cell_lines	cell_lines	hcip_cutoff_sy5y	bait
+221184	CPNE2	copine 2	0	1	1	s	90	ECH1
+10497	UNC13B	unc-13 homolog B	1	0	1	h	NA	ECH1
+134147	CMBL	carboxymethylenebutenolidase homolog	1	0	1	h	NA	ECH1
+54788	DNAJB12	DnaJ heat shock protein family (Hsp40) member B12	1	0	1	h	NA	ECH1
+1114	CHGB	chromogranin B	0	1	1	s	90	ECH1
+2512	FTL	ferritin light chain	0	1	1	s	90	ECH1
+84833	USMG5	up-regulated during skeletal muscle growth 5 homolog (mouse)	1	0	1	h	NA	ECH1
+3728	JUP	junction plakoglobin	0	1	1	s	90	ECH1
+563	AZGP1	alpha-2-glycoprotein 1, zinc-binding	1	0	1	h	NA	ECH1
+57492	ARID1B	AT-rich interaction domain 1B	1	0	1	h	NA	ECH1
+2581	GALC	galactosylceramidase	1	0	1	h	NA	ECH1
+84188	FAR1	fatty acyl-CoA reductase 1	1	0	1	h	NA	ECH1
+11160	ERLIN2	ER lipid raft associated 2	1	0	1	h	NA	ECH1
+83737	ITCH	itchy E3 ubiquitin protein ligase	1	0	1	h	NA	ECH1
+8239	USP9X	ubiquitin specific peptidase 9, X-linked	1	0	1	h	NA	ECH1
+147228	KRT17P1	keratin 17 pseudogene 1	1	0	1	h	NA	ECH1
+192669	EIF2C3	argonaute 3, RISC catalytic component	1	0	1	h	NA	ECH1
+5445	PON2	paraoxonase 2	1	0	1	h	NA	ECH1
+29088	MRPL15	mitochondrial ribosomal protein L15	1	0	1	h	NA	ECH1
+3107	HLA-C	major histocompatibility complex, class I, C	1	0	1	h	NA	ECH1
+3880	KRT19	keratin 19	1	0	1	h	NA	ECH1
+8604	SLC25A12	solute carrier family 25 member 12	1	0	1	h	NA	ECH1
+1452	CSNK1A1	casein kinase 1 alpha 1	1	0	1	h	NA	ECH1
+8110	DPF3	double PHD fingers 3	1	0	1	h	NA	ECH1
+55215	FANCI	Fanconi anemia complementation group I	1	0	1	h	NA	ECH1
+5500	PPP1CB	protein phosphatase 1 catalytic subunit beta	0	1	1	s	90	ECH1
+10802	SEC24A	SEC24 homolog A, COPII coat complex component	1	0	1	h	NA	ECH1
+56243	KIAA1217	KIAA1217	1	0	1	h	NA	ECH1
+22992	KDM2A	lysine demethylase 2A	0	1	1	s	90	ECH1
+6709	SPTAN1	spectrin alpha, non-erythrocytic 1	0	1	1	s	90	ECH1
+84790	TUBA1C	tubulin alpha 1c	1	0	1	h	NA	ECH1
+10423	CDIPT	CDP-diacylglycerol--inositol 3-phosphatidyltransferase	1	0	1	h	NA	ECH1
+65080	MRPL44	mitochondrial ribosomal protein L44	1	0	1	h	NA	ECH1
+57402	S100A14	S100 calcium binding protein A14	1	0	1	h	NA	ECH1
+10342	TFG	TRK-fused gene	0	1	1	s	90	ECH1
+26046	LTN1	listerin E3 ubiquitin protein ligase 1	1	0	1	h	NA	ECH1
+3872	KRT17	keratin 17	1	0	1	h	NA	ECH1
+79169	C1orf35	chromosome 1 open reading frame 35	1	0	1	h	NA	ECH1
+6595	SMARCA2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	1	0	1	h	NA	ECH1
+5046	PCSK6	proprotein convertase subtilisin/kexin type 6	1	0	1	h	NA	ECH1
+8289	ARID1A	AT-rich interaction domain 1A	1	0	1	h	NA	ECH1
+2760	GM2A	GM2 ganglioside activator	1	0	1	h	NA	ECH1
+1993	ELAVL2	ELAV like RNA binding protein 2	1	0	1	h	NA	ECH1
+6602	SMARCD1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	1	0	1	h	NA	ECH1
+6603	SMARCD2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2	1	1	2	b	90	ECH1
+6711	SPTBN1	spectrin beta, non-erythrocytic 1	0	1	1	s	90	ECH1
+144568	A2ML1	alpha-2-macroglobulin like 1	1	0	1	h	NA	ECH1
+10962	MLLT11	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 11	1	0	1	h	NA	ECH1
+4131	MAP1B	microtubule associated protein 1B	1	0	1	h	NA	ECH1
+79576	NKAP	NFKB activating protein	1	0	1	h	NA	ECH1
+57690	TNRC6C	trinucleotide repeat containing 6C	1	0	1	h	NA	ECH1
+81567	TXNDC5	thioredoxin domain containing 5	1	1	2	b	90	ECH1
+7415	VCP	valosin containing protein	0	1	1	s	90	ECH1
+338785	KRT79	keratin 79	1	0	1	h	NA	ECH1
+1891	ECH1	enoyl-CoA hydratase 1	1	1	2	bait	95	ECH1
+7965	AIMP2	aminoacyl tRNA synthetase complex interacting multifunctional protein 2	1	0	1	h	NA	ECH1
+51429	SNX9	sorting nexin 9	1	0	1	h	NA	ECH1
+79590	MRPL24	mitochondrial ribosomal protein L24	1	0	1	h	NA	ECH1
+2079	ERH	enhancer of rudimentary homolog (Drosophila)	0	1	1	s	90	ECH1
+4201	MEA1	male-enhanced antigen 1	1	0	1	h	NA	ECH1
+91754	NEK9	NIMA related kinase 9	0	1	1	s	90	ECH1
+200316	APOBEC3F	apolipoprotein B mRNA editing enzyme catalytic subunit 3F	1	0	1	h	NA	ECH1
+10985	GCN1L1	GCN1, eIF2 alpha kinase activator homolog	1	0	1	h	NA	ECH1
+7417	VDAC2	voltage dependent anion channel 2	1	0	1	h	NA	ECH1
+8826	IQGAP1	IQ motif containing GTPase activating protein 1	1	0	1	h	NA	ECH1
+5499	PPP1CA	protein phosphatase 1 catalytic subunit alpha	0	1	1	s	95	ECH1
+11260	XPOT	exportin for tRNA	1	0	1	h	NA	ECH1
+348262	FAM195B	MAPK regulated corepressor interacting protein 1	0	1	1	s	90	ECH1

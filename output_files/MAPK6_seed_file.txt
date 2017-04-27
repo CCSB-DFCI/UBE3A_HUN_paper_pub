@@ -1,0 +1,31 @@
+geneID	symbol	descr	num_hek	num_sy5y	num_cell_lines	cell_lines	hcip_cutoff_sy5y	bait
+9859	CEP170	centrosomal protein 170	1	0	1	h	NA	MAPK6
+6790	AURKA	aurora kinase A	1	0	1	h	NA	MAPK6
+51592	TRIM33	tripartite motif containing 33	0	1	1	s	95	MAPK6
+8663	EIF3C	eukaryotic translation initiation factor 3 subunit C	1	0	1	h	NA	MAPK6
+63875	MRPL17	mitochondrial ribosomal protein L17	1	0	1	h	NA	MAPK6
+55700	MAP7D1	MAP7 domain containing 1	1	0	1	h	NA	MAPK6
+2222	FDFT1	farnesyl-diphosphate farnesyltransferase 1	1	0	1	h	NA	MAPK6
+27037	TRMT2A	tRNA methyltransferase 2 homolog A	1	0	1	h	NA	MAPK6
+4649	MYO9A	myosin IXA	1	0	1	h	NA	MAPK6
+7982	ST7	suppression of tumorigenicity 7	1	0	1	h	NA	MAPK6
+8239	USP9X	ubiquitin specific peptidase 9, X-linked	1	0	1	h	NA	MAPK6
+5296	PIK3R2	phosphoinositide-3-kinase regulatory subunit 2	1	0	1	h	NA	MAPK6
+55219	TMEM57	transmembrane protein 57	1	0	1	h	NA	MAPK6
+84790	TUBA1C	tubulin alpha 1c	1	0	1	h	NA	MAPK6
+259266	ASPM	abnormal spindle microtubule assembly	1	0	1	h	NA	MAPK6
+60493	FASTKD5	FAST kinase domains 5	1	0	1	h	NA	MAPK6
+4430	MYO1B	myosin IB	1	0	1	h	NA	MAPK6
+5347	PLK1	polo like kinase 1	1	0	1	h	NA	MAPK6
+10455	ECI2	enoyl-CoA delta isomerase 2	1	0	1	h	NA	MAPK6
+8924	HERC2	HECT and RLD domain containing E3 ubiquitin protein ligase 2	1	1	2	b	95	MAPK6
+5597	MAPK6	mitogen-activated protein kinase 6	1	1	2	bait	95	MAPK6
+1891	ECH1	enoyl-CoA hydratase 1	1	0	1	h	NA	MAPK6
+8550	MAPKAPK5	mitogen-activated protein kinase-activated protein kinase 5	1	1	2	b	95	MAPK6
+9704	DHX34	DExH-box helicase 34	1	0	1	h	NA	MAPK6
+84461	NEURL4	neuralized E3 ubiquitin protein ligase 4	1	1	2	b	95	MAPK6
+9747	FAM115A	TRPM8 channel associated factor 1	1	0	1	h	NA	MAPK6
+10999	SLC27A4	solute carrier family 27 member 4	1	0	1	h	NA	MAPK6
+51065	RPS27L	ribosomal protein S27 like	1	0	1	h	NA	MAPK6
+9212	AURKB	aurora kinase B	1	0	1	h	NA	MAPK6
+253943	YTHDF3	YTH N6-methyladenosine RNA binding protein 3	0	1	1	s	90	MAPK6

@@ -1,0 +1,253 @@
+geneID	UBE3A_prey	baits	cell_lines	descr	num_baits	origin	symbol	synonyms
+9525	None	HERC2	h	vacuolar protein sorting 4 homolog B	1	prey	VPS4B	MIG1|SKD1|SKD1B|VPS4-2
+9255	None	NEURL4	h	aminoacyl tRNA synthetase complex interacting multifunctional protein 1	1	prey	AIMP1	EMAP2|EMAPII|HLD3|SCYE1|p43
+58533	None	HERC2	h	sorting nexin 6	1	prey	SNX6	MSTP010|TFAF2
+57414	None	HERC2	h	rhomboid domain containing 2	1	prey	RHBDD2	NPD007|RHBDL7
+2512	None	HERC2|ECH1	b	ferritin light chain	2	prey	FTL	LFTD|NBIA3
+26046	None	HERC2|ECH1	h	listerin E3 ubiquitin protein ligase 1	2	prey	LTN1	C21orf10|C21orf98|RNF160|ZNF294
+22818	None	HERC2	h	coatomer protein complex subunit zeta 1	1	prey	COPZ1	CGI-120|COPZ|HSPC181|zeta-COP|zeta1-COP
+8031	None	HERC2	h	nuclear receptor coactivator 4	1	prey	NCOA4	ARA70|ELE1|PTC3|RFG
+8030	None	NEURL4	b	coiled-coil domain containing 6	1	prey	CCDC6	D10S170|H4|PTC|TPC|TST1
+23384	None	HERC2	h	sperm antigen with calponin homology and coiled-coil domains 1 like	1	prey	SPECC1L	CYTSA|GBBB2|OBLFC1
+5862	None	HERC2	h	RAB2A, member RAS oncogene family	1	prey	RAB2A	LHX|RAB2
+51122	None	HERC2	h	COMM domain containing 2	1	prey	COMMD2	HSPC042
+8689	1	NEURL4	s	keratin 36	1	prey	KRT36	HA6|KRTHA6|hHa6
+5261	None	HERC2	h	phosphorylase kinase catalytic subunit gamma 2	1	prey	PHKG2	GSD9C
+79726	None	HERC2	b	WD repeat domain 59	1	prey	WDR59	FP977
+55127	None	HERC2	h	HEAT repeat containing 1	1	prey	HEATR1	BAP28|UTP10
+150472	None	HERC2	h	COBW domain containing 2	1	prey	CBWD2	-
+55871	None	HERC2	h	COBW domain containing 1	1	prey	CBWD1	COBP
+79576	None	NEURL4|ECH1|ECI2	h	NFKB activating protein	3	prey	NKAP	-
+51386	None	HERC2	b	eukaryotic translation initiation factor 3 subunit L	1	prey	EIF3L	EIF3EIP|EIF3S11|EIF3S6IP|HSPC021|HSPC025|MSTP005
+117178	None	HERC2	h	SSX family member 2 interacting protein	1	prey	SSX2IP	ADIP|hMsd1
+7965	None	NEURL4|ECH1	h	aminoacyl tRNA synthetase complex interacting multifunctional protein 2	2	prey	AIMP2	JTV-1|JTV1|P38
+10534	1	NEURL4	s	Sjogren syndrome/scleroderma autoantigen 1	1	prey	SSSCA1	p27
+10672	None	HERC2	h	G protein subunit alpha 13	1	prey	GNA13	G13
+322	None	NEURL4	b	amyloid beta precursor protein binding family B member 1	1	prey	APBB1	FE65|MGC:9072|RIR
+23224	None	HERC2	h	spectrin repeat containing nuclear envelope protein 2	1	prey	SYNE2	EDMD5|NUA|NUANCE|Nesp2|Nesprin-2|SYNE-2|TROPH
+6418	None	HERC2	s	SET nuclear proto-oncogene	1	prey	SET	2PP2A|I2PP2A|IGAAD|IPP2A2|PHAPII|TAF-I|TAF-IBETA
+9925	None	HERC2	b	zinc finger and BTB domain containing 5	1	prey	ZBTB5	-
+81488	None	NEURL4	h	RNA polymerase II subunit M	1	prey	POLR2M	GCOM1|GRINL1A|Gdown|Gdown1
+3646	1	HERC2	b	eukaryotic translation initiation factor 3 subunit E	1	prey	EIF3E	EIF3-P48|EIF3S6|INT6|eIF3-p46
+116143	None	HERC2	h	WD repeat domain 92	1	prey	WDR92	-
+5824	None	HERC2	h	peroxisomal biogenesis factor 19	1	prey	PEX19	D1S2223E|HK33|PBD12A|PMP1|PMPI|PXF|PXMP1
+11260	None	HERC2|ECH1	h	exportin for tRNA	2	prey	XPOT	XPO3
+8664	1	HERC2	b	eukaryotic translation initiation factor 3 subunit D	1	prey	EIF3D	EIF3S7|eIF3-p66|eIF3-zeta
+6272	None	HERC2	h	sortilin 1	1	prey	SORT1	Gp95|LDLCQ6|NT3|NTR3
+9731	None	HERC2	h	centrosomal protein 104	1	prey	CEP104	CFAP256|GlyBP|JBTS25|KIAA0562|ROC22
+9738	1	NEURL4	b	centriolar coiled-coil protein 110	1	prey	CCP110	CP110|Cep110
+27043	None	HERC2	h	proline, glutamate and leucine rich protein 1	1	prey	PELP1	MNAR|P160
+3936	None	HERC2	h	lymphocyte cytosolic protein 1	1	prey	LCP1	CP64|HEL-S-37|L-PLASTIN|LC64P|LPL|PLS2
+6711	None	ECH1	s	spectrin beta, non-erythrocytic 1	1	prey	SPTBN1	ELF|HEL102|SPTB2|betaSpII
+150684	None	HERC2	h	copper metabolism domain containing 1	1	prey	COMMD1	C2orf5|MURR1
+8924	1	HERC2|NEURL4|MAPK6|ECI2	b	HECT and RLD domain containing E3 ubiquitin protein ligase 2	4	bait	HERC2	D15F37S1|MRT38|SHEP1|jdf2|p528
+1468	None	HERC2	h	solute carrier family 25 member 10	1	prey	SLC25A10	DIC
+5597	1	NEURL4|MAPK6	b	mitogen-activated protein kinase 6	2	bait	MAPK6	ERK3|HsT17250|PRKM6|p97MAPK
+23412	None	HERC2	h	COMM domain containing 3	1	prey	COMMD3	BUP|C10orf8
+5203	None	HERC2	h	prefoldin subunit 4	1	prey	PFDN4	C1|PFD4
+5204	None	HERC2	h	prefoldin subunit 5	1	prey	PFDN5	MM-1|MM1|PFD5
+91833	None	HERC2	s	WD repeat domain 20	1	prey	WDR20	DMR
+80198	None	HERC2	h	MUS81 structure-specific endonuclease subunit	1	prey	MUS81	SLX3
+57492	None	NEURL4|ECH1|ECI2	b	AT-rich interaction domain 1B	3	prey	ARID1B	6A3-5|BAF250B|BRIGHT|CSS1|DAN15|ELD/OSA1|MRD12|OSA2|P250R
+10455	1	HERC2|NEURL4|MAPK6|ECI2	b	enoyl-CoA delta isomerase 2	4	bait	ECI2	ACBD2|DRS-1|DRS1|HCA88|PECI|dJ1013A10.3
+342897	None	HERC2	h	non-specific cytotoxic cell receptor protein 1 homolog (zebrafish)	1	prey	NCCRP1	FBXO50|NCCRP-1
+79598	1	NEURL4	b	centrosomal protein 97	1	prey	CEP97	2810403B08Rik|LRRIQ2
+1495	None	HERC2	h	catenin alpha 1	1	prey	CTNNA1	CAP102|MDPT2
+9119	None	HERC2	h	keratin 75	1	prey	KRT75	K6HF|KB18|PFB
+54822	None	NEURL4	b	transient receptor potential cation channel subfamily M member 7	1	prey	TRPM7	ALSPDC|CHAK|CHAK1|LTRPC7|LTrpC-7|TRP-PLIK
+8533	None	NEURL4	h	COP9 signalosome subunit 3	1	prey	COPS3	CSN3|SGN3
+8110	None	ECH1|ECI2	h	double PHD fingers 3	2	prey	DPF3	BAF45C|CERD4
+10869	None	NEURL4	b	ubiquitin specific peptidase 19	1	prey	USP19	ZMYND9
+28952	None	HERC2	h	coiled-coil domain containing 22	1	prey	CCDC22	CXorf37|JM1|RTSC2
+4000	None	HERC2	h	lamin A/C	1	prey	LMNA	CDCD1|CDDC|CMD1A|CMT2B1|EMD2|FPL|FPLD|FPLD2|HGPS|IDC|LDP1|LFP|LGMD1B|LMN1|LMNC|LMNL1|MADA|PRO1
+55700	1	HERC2|NEURL4|MAPK6	b	MAP7 domain containing 1	3	prey	MAP7D1	PARCC1|RPRC1
+6311	None	HERC2	h	ataxin 2	1	prey	ATXN2	ATX2|SCA2|TNRC13
+9652	None	NEURL4	b	tetratricopeptide repeat domain 37	1	prey	TTC37	KIAA0372|Ski3|THES
+79858	None	HERC2	h	NIMA related kinase 11	1	prey	NEK11	-
+54939	None	HERC2	h	COMM domain containing 4	1	prey	COMMD4	-
+84219	None	HERC2	b	WD repeat domain 24	1	prey	WDR24	C16orf21|JFP7
+5432	None	NEURL4	b	RNA polymerase II subunit C	1	prey	POLR2C	RPB3|RPB31|hRPB33|hsRPB3
+5433	None	NEURL4	h	RNA polymerase II subunit D	1	prey	POLR2D	HSRBP4|HSRPB4|RBP4|RPB16
+5430	None	NEURL4	b	RNA polymerase II subunit A	1	prey	POLR2A	POLR2|POLRA|RPB1|RPBh1|RPO2|RPOL2|RpIILS|hRPB220|hsRPB1
+5431	None	NEURL4	s	RNA polymerase II subunit B	1	prey	POLR2B	POL2RB|RPB2|hRPB140
+5436	None	NEURL4	h	RNA polymerase II subunit G	1	prey	POLR2G	RPB19|RPB7|hRPB19|hsRPB7
+5437	None	NEURL4	s	RNA polymerase II subunit H	1	prey	POLR2H	RPABC3|RPB17|RPB8
+5439	None	NEURL4	h	RNA polymerase II subunit J	1	prey	POLR2J	POLR2J1|RPB11|RPB11A|RPB11m|hRPB14
+3105	None	HERC2	h	major histocompatibility complex, class I, A	1	prey	HLA-A	HLAA
+79803	None	HERC2	h	HPS6, biogenesis of lysosomal organelles complex 2 subunit 3	1	prey	HPS6	BLOC2S3
+57510	None	HERC2	h	exportin 5	1	prey	XPO5	exp5
+2071	None	NEURL4	b	ERCC excision repair 3, TFIIH core complex helicase subunit	1	prey	ERCC3	BTF2|GTF2H|RAD25|TFIIH|TTD2|XPB
+79657	None	HERC2	h	RNA polymerase II associated protein 3	1	prey	RPAP3	-
+6499	None	NEURL4	s	Ski2 like RNA helicase	1	prey	SKIV2L	170A|DDX13|HLP|SKI2|SKI2W|SKIV2|SKIV2L1|THES2
+51065	None	HERC2|MAPK6	h	ribosomal protein S27 like	2	prey	RPS27L	-
+10142	None	HERC2	h	A-kinase anchoring protein 9	1	prey	AKAP9	AKAP-9|AKAP350|AKAP450|CG-NAP|HYPERION|LQT11|MU-RMS-40.16A|PPP1R45|PRKA9|YOTIAO
+54951	None	HERC2	h	COMM domain containing 8	1	prey	COMMD8	-
+1993	None	ECH1	h	ELAV like RNA binding protein 2	1	prey	ELAVL2	HEL-N1|HELN1|HUB
+550	None	HERC2	h	ancient ubiquitous protein 1	1	prey	AUP1	-
+3831	None	NEURL4	s	kinesin light chain 1	1	prey	KLC1	KLC|KNS2|KNS2A
+372	None	HERC2	h	archain 1	1	prey	ARCN1	COPD|SRMMD
+55243	None	HERC2	h	kin of IRRE like (Drosophila)	1	prey	KIRREL	NEPH1
+10972	None	HERC2	h	transmembrane p24 trafficking protein 10	1	prey	TMED10	P24(DELTA)|S31I125|S31III125|TMP21|Tmp-21-I|p23|p24d1
+56243	None	ECH1|ECI2	h	KIAA1217	2	prey	KIAA1217	SKT
+10147	None	HERC2	h	SURP and G-patch domain containing 2	1	prey	SUGP2	SFRS14
+259266	None	HERC2|MAPK6	h	abnormal spindle microtubule assembly	2	prey	ASPM	ASP|Calmbp1|MCPH5
+26958	None	HERC2	h	coatomer protein complex subunit gamma 2	1	prey	COPG2	2-COP|gamma-2-COP
+63893	None	HERC2|NEURL4	h	ubiquitin conjugating enzyme E2 O	2	prey	UBE2O	E2-230K
+8604	1	HERC2|NEURL4|ECH1	b	solute carrier family 25 member 12	3	prey	SLC25A12	AGC1|ARALAR|EIEE39
+11001	None	HERC2	h	solute carrier family 27 member 2	1	prey	SLC27A2	ACSVL1|FACVL1|FATP2|HsT17226|VLACS|VLCS|hFACVL1
+3799	None	NEURL4	s	kinesin family member 5B	1	prey	KIF5B	HEL-S-61|KINH|KNS|KNS1|UKHC
+79871	None	NEURL4	b	RNA polymerase II associated protein 2	1	prey	RPAP2	C1orf82|Rtr1
+5499	None	ECH1	s	protein phosphatase 1 catalytic subunit alpha	1	prey	PPP1CA	PP-1A|PP1A|PP1alpha|PPP1A
+29922	None	NEURL4	b	NME/NM23 family member 7	1	prey	NME7	CFAP67|MN23H7|NDK 7|NDK7|nm23-H7
+338785	None	ECH1	h	keratin 79	1	prey	KRT79	K6L|KRT6L
+84833	None	ECH1	h	up-regulated during skeletal muscle growth 5 homolog (mouse)	1	prey	USMG5	DAPIT|HCVFTP2|bA792D24.4
+81929	None	HERC2	s	SEH1 like nucleoporin	1	prey	SEH1L	SEC13L|SEH1A|SEH1B|Seh1
+5440	None	NEURL4	h	RNA polymerase II subunit K	1	prey	POLR2K	ABC10-alpha|RPABC4|RPB10alpha|RPB12|RPB7.0|hRPB7.0|hsRPB10a
+146956	None	HERC2	h	essential meiotic structure-specific endonuclease 1	1	prey	EME1	MMS4L|SLX2A
+8661	None	HERC2	b	eukaryotic translation initiation factor 3 subunit A	1	prey	EIF3A	EIF3|EIF3S10|P167|TIF32|eIF3-p170|eIF3-theta|p180|p185
+8662	None	HERC2	b	eukaryotic translation initiation factor 3 subunit B	1	prey	EIF3B	EIF3-ETA|EIF3-P110|EIF3-P116|EIF3S9|PRT1
+8663	1	HERC2|NEURL4|MAPK6	b	eukaryotic translation initiation factor 3 subunit C	3	prey	EIF3C	EIF3CL|EIF3S8|eIF3-p110
+8665	None	HERC2	b	eukaryotic translation initiation factor 3 subunit F	1	prey	EIF3F	EIF3S5|eIF3-p47
+8666	None	HERC2	b	eukaryotic translation initiation factor 3 subunit G	1	prey	EIF3G	EIF3-P42|EIF3S4|eIF3-delta|eIF3-p44
+8667	None	HERC2	b	eukaryotic translation initiation factor 3 subunit H	1	prey	EIF3H	EIF3S3|eIF3-gamma|eIF3-p40
+8668	None	HERC2	b	eukaryotic translation initiation factor 3 subunit I	1	prey	EIF3I	EIF3S2|PRO2242|TRIP-1|TRIP1|eIF3-beta|eIF3-p36
+55697	None	NEURL4	b	Vac14, PIKFYVE complex component	1	prey	VAC14	ArPIKfyve|SNDC|TAX1BP2|TRX
+6643	None	HERC2	h	sorting nexin 2	1	prey	SNX2	TRG-9
+200576	None	NEURL4	b	phosphoinositide kinase, FYVE-type zinc finger containing	1	prey	PIKFYVE	CFD|FAB1|HEL37|PIP5K|PIP5K3|ZFYVE29
+81027	None	HERC2	h	tubulin beta 1 class VI	1	prey	TUBB1	-
+5438	None	NEURL4	h	RNA polymerase II subunit I	1	prey	POLR2I	RPB9|hRPB14.5
+3854	1	HERC2|NEURL4|ECI2	s	keratin 6B	3	prey	KRT6B	CK-6B|CK6B|K6B|KRTL1|PC2|PC4
+57599	None	HERC2	s	WD repeat domain 48	1	prey	WDR48	P80|SPG60|UAF1
+140710	None	HERC2	h	suppressor of glucose, autophagy associated 1	1	prey	SOGA1	C20orf117|KIAA0889|SOGA
+23598	None	NEURL4	b	POZ/BTB and AT hook containing zinc finger 1	1	prey	PATZ1	MAZR|PATZ|RIAZ|ZBTB19|ZNF278|ZSG|dJ400N23
+11319	None	HERC2	h	ecdysoneless cell cycle regulator	1	prey	ECD	GCR2|HSGT1|SGT1
+5108	None	HERC2	h	pericentriolar material 1	1	prey	PCM1	PTC4|RET/PCM-1
+80311	None	HERC2|NEURL4	h	kelch like family member 15	2	prey	KLHL15	HEL-S-305
+51741	None	HERC2	h	WW domain containing oxidoreductase	1	prey	WWOX	D16S432E|EIEE28|FOR|FRA16D|HHCMA56|PRO0128|SCAR12|SDR41C1|WOX1
+56993	None	HERC2	h	translocase of outer mitochondrial membrane 22	1	prey	TOMM22	1C9-2|MST065|MSTP065|TOM22
+2965	1	NEURL4	b	general transcription factor IIH subunit 1	1	prey	GTF2H1	BTF2|P62|TFB1|TFIIH
+3136	None	HERC2	h	major histocompatibility complex, class I, H (pseudogene)	1	prey	HLA-H	HLAHP
+3133	None	HERC2	h	major histocompatibility complex, class I, E	1	prey	HLA-E	HLA-6.2|QA1
+6602	None	ECH1|ECI2	h	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	2	prey	SMARCD1	BAF60A|CRACD1|Rsc6p
+6603	None	NEURL4|ECH1|ECI2	b	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2	3	prey	SMARCD2	BAF60B|CRACD2|PRO2451|Rsc6p
+1891	1	NEURL4|MAPK6|ECH1|ECI2	b	enoyl-CoA hydratase 1	4	bait	ECH1	HPXEL
+54468	None	HERC2	b	meiosis regulator for oocyte development	1	prey	MIOS	MIO|Sea4
+10600	1	HERC2|NEURL4	h	ubiquitin specific peptidase 16	2	prey	USP16	UBP-M|UBPM
+6595	None	NEURL4|ECH1|ECI2	b	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	3	prey	SMARCA2	BAF190|BRM|NCBRS|SNF2|SNF2L2|SNF2LA|SWI2|Sth1p|hBRM|hSNF2a
+8239	None	HERC2|NEURL4|MAPK6|ECH1|ECI2	h	ubiquitin specific peptidase 9, X-linked	5	prey	USP9X	DFFRX|FAF|FAM|MRX99|MRXS99F
+642	None	HERC2	h	bleomycin hydrolase	1	prey	BLMH	BH|BMH
+3895	1	HERC2|NEURL4	b	kinectin 1	2	prey	KTN1	CG1|KNT|MU-RMS-40.19
+64397	1	NEURL4	b	zinc finger protein 106	1	prey	ZNF106	SH3BP3|ZFP106|ZNF474
+708	None	NEURL4	s	complement C1q binding protein	1	prey	C1QBP	GC1QBP|HABP1|SF2p32|gC1Q-R|gC1qR|p32
+29843	None	HERC2	h	SUMO1/sentrin specific peptidase 1	1	prey	SENP1	SuPr-2
+23089	1	NEURL4	h	paternally expressed 10	1	prey	PEG10	EDR|HB-1|MEF3L|Mar2|Mart2|RGAG3
+57148	None	NEURL4	h	Ral GTPase activating protein non-catalytic beta subunit	1	prey	RALGAPB	KIAA1219|RalGAPbeta
+200316	None	ECH1	h	apolipoprotein B mRNA editing enzyme catalytic subunit 3F	1	prey	APOBEC3F	A3F|ARP8|BK150C2.4.MRNA|KA6
+5256	None	HERC2	h	phosphorylase kinase regulatory subunit alpha 2	1	prey	PHKA2	GSD9A|PHK|PYK|PYKL|XLG|XLG2
+5257	None	HERC2	b	phosphorylase kinase regulatory subunit beta	1	prey	PHKB	-
+2316	None	HERC2	h	filamin A	1	prey	FLNA	ABP-280|ABPX|CSBS|CVD1|FLN|FLN-A|FLN1|FMD|MNS|NHBP|OPD|OPD1|OPD2|XLVD|XMVD
+2314	None	HERC2	h	FLII, actin remodeling protein	1	prey	FLII	FLI|FLIL|Fli1
+10382	None	NEURL4	s	tubulin beta 4A class IVa	1	prey	TUBB4A	DYT4|TUBB4|beta-5
+10381	None	HERC2	h	tubulin beta 3 class III	1	prey	TUBB3	CDCBM|CDCBM1|CFEOM3|CFEOM3A|FEOM3|TUBB4|beta-4
+7266	None	NEURL4	s	DnaJ heat shock protein family (Hsp40) member C7	1	prey	DNAJC7	DJ11|DJC7|TPR2|TTC2
+9748	None	NEURL4	h	STE20 like kinase	1	prey	SLK	LOSK|STK2|bA16H23.1|se20-9
+28988	None	NEURL4	b	drebrin like	1	prey	DBNL	ABP1|HIP-55|HIP55|SH3P7
+2968	None	NEURL4	h	general transcription factor IIH subunit 4	1	prey	GTF2H4	P52|TFB2|TFIIH
+9972	None	HERC2	h	nucleoporin 153	1	prey	NUP153	HNUP153|N153
+22820	None	HERC2	h	coatomer protein complex subunit gamma 1	1	prey	COPG1	COPG
+9517	None	HERC2	h	serine palmitoyltransferase long chain base subunit 2	1	prey	SPTLC2	HSN1C|LCB2|LCB2A|NSAN1C|SPT2|hLCB2a
+201164	None	HERC2	h	phospholipase D family member 6	1	prey	PLD6	ZUC
+1191	None	HERC2	h	clusterin	1	prey	CLU	AAG4|APO-J|APOJ|CLI|CLU1|CLU2|KUB1|NA1/NA2|SGP-2|SGP2|SP-40|TRPM-2|TRPM2
+10342	None	ECH1|ECI2	s	TRK-fused gene	2	prey	TFG	HMSNP|SPG57|TF6|TRKT3
+9700	None	HERC2	h	extra spindle pole bodies like 1, separase	1	prey	ESPL1	ESP1|SEPA
+823	None	NEURL4	h	calpain 1	1	prey	CAPN1	CANP|CANP1|CANPL1|SPG76|muCANP|muCL
+5255	None	HERC2	b	phosphorylase kinase regulatory subunit alpha 1	1	prey	PHKA1	PHKA
+79751	None	HERC2	h	solute carrier family 25 member 22	1	prey	SLC25A22	EIEE3|GC-1|GC1|NET44
+8725	None	HERC2	h	URI1, prefoldin like chaperone	1	prey	URI1	C19orf2|NNX3|PPP1R19|RMP|URI
+6406	None	HERC2	h	semenogelin I	1	prey	SEMG1	CT103|SEMG|SGI|dJ172H20.2
+6407	None	HERC2	h	semenogelin II	1	prey	SEMG2	SGII
+27037	None	HERC2|MAPK6	h	tRNA methyltransferase 2 homolog A	2	prey	TRMT2A	HTF9C
+3835	None	HERC2	h	kinesin family member 22	1	prey	KIF22	A-328A3.2|KID|KNSL4|OBP|OBP-1|OBP-2|SEMDJL2
+2778	None	HERC2	h	GNAS complex locus	1	prey	GNAS	AHO|C20orf45|GNAS1|GPSA|GSA|GSP|NESP|POH|SCG6|SgVI
+84726	None	HERC2	h	proline rich coiled-coil 2B	1	prey	PRRC2B	BAT2L|BAT2L1|KIAA0515|LQFBS-1
+284403	None	HERC2	h	WD repeat domain 62	1	prey	WDR62	C19orf14|MCPH2
+1062	None	NEURL4	h	centromere protein E	1	prey	CENPE	CENP-E|KIF10|MCPH13|PPP1R61
+51199	None	HERC2	h	ninein	1	prey	NIN	SCKL7
+2289	None	HERC2	h	FK506 binding protein 5	1	prey	FKBP5	AIG6|FKBP51|FKBP54|P54|PPIase|Ptg-10
+1315	None	HERC2	h	coatomer protein complex subunit beta 1	1	prey	COPB1	COPB
+1314	None	HERC2	b	coatomer protein complex subunit alpha	1	prey	COPA	AILJK|HEP-COP
+55088	None	HERC2	h	coiled-coil domain containing 186	1	prey	CCDC186	C10orf118
+6709	None	ECH1	s	spectrin alpha, non-erythrocytic 1	1	prey	SPTAN1	EIEE5|NEAS|SPTA2
+9919	None	ECI2	h	SEC16 homolog A, endoplasmic reticulum export factor	1	prey	SEC16A	KIAA0310|SEC16L|p250
+84220	None	NEURL4	b	RANBP2-like and GRIP domain containing 5	1	prey	RGPD5	BS-63|BS63|HEL161|RGP5
+57448	None	HERC2|NEURL4	b	baculoviral IAP repeat containing 6	2	prey	BIRC6	APOLLON|BRUCE
+10920	None	NEURL4	h	COP9 signalosome subunit 8	1	prey	COPS8	COP9|CSN8|SGN8
+11180	None	HERC2	h	WD repeat domain 6	1	prey	WDR6	-
+83733	None	HERC2	h	solute carrier family 25 member 18	1	prey	SLC25A18	GC2
+10112	None	HERC2	h	kinesin family member 20A	1	prey	KIF20A	MKLP2|RAB6KIFL
+54927	None	HERC2	h	coiled-coil-helix-coiled-coil-helix domain containing 3	1	prey	CHCHD3	MINOS3|Mic19|PPP1R22
+11234	None	HERC2	h	HPS5, biogenesis of lysosomal organelles complex 2 subunit 2	1	prey	HPS5	AIBP63|BLOC2S2
+10945	None	HERC2	h	KDEL endoplasmic reticulum protein retention receptor 1	1	prey	KDELR1	ERD2|ERD2.1|HDEL|PM23
+60626	None	HERC2	h	RIC8 guanine nucleotide exchange factor A	1	prey	RIC8A	RIC8
+1981	None	HERC2	h	eukaryotic translation initiation factor 4 gamma 1	1	prey	EIF4G1	EIF-4G1|EIF4F|EIF4G|EIF4GI|P220|PARK18
+84260	None	NEURL4	h	trichoplein keratin filament binding	1	prey	TCHP	TpMs
+253959	None	NEURL4	b	Ral GTPase activating protein catalytic alpha subunit 1	1	prey	RALGAPA1	GARNL1|GRIPE|RalGAPalpha1|TULIP1|p240
+54881	None	HERC2	h	testis expressed 10	1	prey	TEX10	Ipi1|bA208F1.2
+23557	None	HERC2	h	SNAP associated protein	1	prey	SNAPIN	BLOC1S7|BLOS7|BORCS3|SNAPAP
+5500	None	ECH1	s	protein phosphatase 1 catalytic subunit beta	1	prey	PPP1CB	HEL-S-80p|PP-1B|PP1B|PP1beta|PPP1CD
+25953	None	HERC2|NEURL4	h	paroxysmal nonkinesigenic dyskinesia	2	prey	PNKD	BRP17|DYT8|FKSG19|FPD1|KIPP1184|MR-1|MR1|PDC|PKND1|TAHCCP2
+369	None	HERC2	h	A-Raf proto-oncogene, serine/threonine kinase	1	prey	ARAF	A-RAF|ARAF1|PKS2|RAFA1
+10989	None	HERC2	h	inner membrane mitochondrial protein	1	prey	IMMT	HMP|MINOS2|Mic60|P87|P87/89|P89|PIG4|PIG52
+10985	None	HERC2|ECH1	h	GCN1, eIF2 alpha kinase activator homolog	2	prey	GCN1	GCN1L|GCN1L1|PRIC295
+5295	None	HERC2	h	phosphoinositide-3-kinase regulatory subunit 1	1	prey	PIK3R1	AGM7|GRB1|IMD36|p85|p85-ALPHA
+7337	1	HERC2	b	ubiquitin protein ligase E3A	1	prey	UBE3A	ANCR|AS|E6-AP|EPVE6AP|HPVE6A
+1399	None	HERC2	h	CRK like proto-oncogene, adaptor protein	1	prey	CRKL	-
+427	None	HERC2	h	N-acylsphingosine amidohydrolase 1	1	prey	ASAH1	AC|ACDase|ASAH|PHP|PHP32|SMAPME
+8289	None	ECH1|ECI2	h	AT-rich interaction domain 1A	2	prey	ARID1A	B120|BAF250|BAF250a|BM029|C1orf4|CSS2|ELD|MRD14|OSA1|P270|SMARCF1|hELD|hOSA1
+3800	None	NEURL4	s	kinesin family member 5C	1	prey	KIF5C	CDCBM2|KINN|NKHC|NKHC-2|NKHC2
+84823	None	HERC2	h	lamin B2	1	prey	LMNB2	EPM9|LAMB2|LMN2
+9276	None	HERC2	h	coatomer protein complex subunit beta 2	1	prey	COPB2	beta'-COP
+1472	None	HERC2	h	cystatin S	1	prey	CST4	-
+8409	None	HERC2	h	ubiquitously expressed prefoldin like chaperone	1	prey	UXT	ART-27|STAP1
+55218	None	HERC2	h	exonuclease 3'-5' domain containing 2	1	prey	EXD2	C14orf114|EXDL2
+55210	None	NEURL4	b	ATPase family, AAA domain containing 3A	1	prey	ATAD3A	-
+5905	None	NEURL4	h	Ran GTPase activating protein 1	1	prey	RANGAP1	Fug1|RANGAP|SD
+51377	1	HERC2	h	ubiquitin C-terminal hydrolase L5	1	prey	UCHL5	CGI-70|INO80R|UCH-L5|UCH37
+84343	None	HERC2	h	HPS3, biogenesis of lysosomal organelles complex 2 subunit 1	1	prey	HPS3	BLOC2S1|SUTAL
+84617	None	HERC2|NEURL4	s	tubulin beta 6 class V	2	prey	TUBB6	HsT1601|TUBB-5
+11079	None	HERC2	h	retention in endoplasmic reticulum sorting receptor 1	1	prey	RER1	-
+3107	None	HERC2|ECH1	h	major histocompatibility complex, class I, C	2	prey	HLA-C	D6S204|HLA-JY3|HLAC|HLC-C|MHC|PSORS1
+11316	None	HERC2	h	coatomer protein complex subunit epsilon	1	prey	COPE	epsilon-COP
+23368	None	NEURL4	h	protein phosphatase 1 regulatory subunit 13B	1	prey	PPP1R13B	ASPP1|p53BP2-like|p85
+10802	None	ECH1	h	SEC24 homolog A, COPII coat complex component	1	prey	SEC24A	-
+80184	None	NEURL4	h	centrosomal protein 290	1	prey	CEP290	3H11Ag|BBS14|CT87|JBTS5|LCA10|MKS4|NPHP6|POC3|SLSN6|rd16
+345651	1	ECI2	h	actin, beta like 2	1	prey	ACTBL2	ACT
+1499	None	HERC2	h	catenin beta 1	1	prey	CTNNB1	CTNNB|MRD19|armadillo
+4134	None	NEURL4	s	microtubule associated protein 4	1	prey	MAP4	-
+2976	None	HERC2	h	general transcription factor IIIC subunit 2	1	prey	GTF3C2	TFIIIC-BETA|TFIIIC110
+523	None	HERC2	h	ATPase H+ transporting V1 subunit A	1	prey	ATP6V1A	ATP6A1|ATP6V1A1|HO68|VA68|VPP2|Vma1
+25813	None	HERC2	h	SAMM50 sorting and assembly machinery component	1	prey	SAMM50	CGI-51|OMP85|SAM50|TOB55|TRG-3|YNL026W
+25814	1	HERC2	h	ataxin 10	1	prey	ATXN10	E46L|HUMEEP|SCA10
+3728	None	ECH1	s	junction plakoglobin	1	prey	JUP	ARVD12|CTNNG|DP3|DPIII|PDGB|PKGB
+10471	None	HERC2	h	prefoldin subunit 6	1	prey	PFDN6	H2-KE2|HKE2|KE-2|PFD6
+10480	None	HERC2	b	eukaryotic translation initiation factor 3 subunit M	1	prey	EIF3M	B5|GA17|PCID1|TANGO7|hfl-B5
+84790	None	HERC2|NEURL4|MAPK6|ECH1	h	tubulin alpha 1c	4	prey	TUBA1C	TUBA6|bcm948
+9859	1	HERC2|NEURL4|MAPK6	b	centrosomal protein 170	3	prey	CEP170	FAM68A|KAB|KIAA0470
+27335	None	HERC2	b	eukaryotic translation initiation factor 3 subunit K	1	prey	EIF3K	ARG134|EIF3-p28|EIF3S12|HSPC029|M9|MSTP001|PLAC-24|PLAC24|PRO1474|PTD001
+317762	None	NEURL4	h	coiled-coil domain containing 85C	1	prey	CCDC85C	-
+91754	None	NEURL4|ECH1	b	NIMA related kinase 9	2	prey	NEK9	APUG|LCCS10|NC|NERCC|NERCC1
+5770	None	HERC2	h	protein tyrosine phosphatase, non-receptor type 1	1	prey	PTPN1	PTP1B
+7411	None	HERC2	h	VHL binding protein 1	1	prey	VBP1	HIBBJ46|PFD3|PFDN3|VBP-1
+7417	None	HERC2|ECH1	h	voltage dependent anion channel 2	2	prey	VDAC2	POR
+7415	None	NEURL4|ECH1	s	valosin containing protein	2	prey	VCP	ALS14|CMT2Y|HEL-220|HEL-S-70|IBMPFD|IBMPFD1|TERA|p97
+22862	None	HERC2	h	fibronectin type III domain containing 3A	1	prey	FNDC3A	FNDC3|HUGO|bA203I16.1|bA203I16.5
+3884	None	NEURL4	s	keratin 33B	1	prey	KRT33B	HA3II|Ha-3II|K33B|KRTHA3A|KRTHA3B|hHa3-II
+3880	None	ECH1	h	keratin 19	1	prey	KRT19	CK19|K19|K1CS
+51520	1	NEURL4	h	leucyl-tRNA synthetase	1	prey	LARS	HSPC192|ILFS1|LARS1|LEURS|LEUS|LFIS|LRS|PIG44|RNTLS|hr025Cl
+2495	1	HERC2	b	ferritin heavy chain 1	1	prey	FTH1	FHC|FTH|FTHL6|HFE5|PIG15|PLIF
+4644	None	NEURL4	h	myosin VA	1	prey	MYO5A	GS1|MYH12|MYO5|MYR12
+8550	1	NEURL4|MAPK6	b	mitogen-activated protein kinase-activated protein kinase 5	2	prey	MAPKAPK5	MAPKAP-K5|MK-5|MK5|PRAK
+54438	None	NEURL4	h	glucose-fructose oxidoreductase domain containing 1	1	prey	GFOD1	ADG-90|C6orf114
+8826	None	HERC2|ECH1	h	IQ motif containing GTPase activating protein 1	2	prey	IQGAP1	HUMORFA01|SAR1|p195
+84461	1	HERC2|NEURL4|MAPK6|ECI2	b	neuralized E3 ubiquitin protein ligase 4	4	bait	NEURL4	-
+55165	None	NEURL4	h	centrosomal protein 55	1	prey	CEP55	C10orf3|CT111|URCC6

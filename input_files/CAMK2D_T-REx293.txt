@@ -1,0 +1,1 @@
+GeneID	Symbol	Description	Ave.APSM	DN_Score	WDN_Score	Ratio	Found_In

@@ -1,0 +1,85 @@
+geneID	symbol	descr	num_hek	num_sy5y	frac_occ	cell_lines	hcip_cutoff_sy5y
+6144	RPL21	ribosomal protein L21	12	0	1.0	h	NA
+140807	KRT72	keratin 72	6	0	0.5	h	NA
+9738	CCP110	centriolar coiled-coil protein 110	9	0	0.75	h	NA
+6231	RPS26	ribosomal protein S26	5	0	0.416666666667	h	NA
+79884	MAP9	microtubule associated protein 9	6	0	0.5	h	NA
+6159	RPL29	ribosomal protein L29	9	0	0.75	h	NA
+3106	HLA-B	major histocompatibility complex, class I, B	3	0	0.25	h	NA
+1063	CENPF	centromere protein F	3	0	0.25	h	NA
+6192	RPS4Y1	ribosomal protein S4, Y-linked 1	4	0	0.333333333333	h	NA
+23089	PEG10	paternally expressed 10	7	0	0.583333333333	h	NA
+5710	PSMD4	proteasome 26S subunit, non-ATPase 4	12	6	1.0	b	95
+5901	RAN	RAN, member RAS oncogene family	3	0	0.25	h	NA
+7763	ZFAND5	zinc finger AN1-type containing 5	5	1	1.0	b	95
+55139	ANKZF1	ankyrin repeat and zinc finger domain containing 1	2	0	0.166666666667	h	NA
+8287	USP9Y	ubiquitin specific peptidase 9, Y-linked	5	0	0.416666666667	h	NA
+5245	PHB	prohibitin	3	0	0.25	h	NA
+9859	CEP170	centrosomal protein 170	4	2	1.0	b	90
+9352	TXNL1	thioredoxin like 1	9	1	1.0	b	90
+5771	PTPN2	protein tyrosine phosphatase, non-receptor type 2	9	0	0.75	h	NA
+8335	HIST1H2AB	histone cluster 1 H2A family member b	6	0	0.5	h	NA
+375748	ERCC6L2	ERCC excision repair 6 like 2	3	0	0.25	h	NA
+219293	ATAD3C	ATPase family, AAA domain containing 3C	11	0	0.916666666667	h	NA
+28834	IGLC7	immunoglobulin lambda constant 7	0	2	0.333333333333	s	95
+57509	MTUS1	microtubule associated tumor suppressor 1	7	0	0.583333333333	h	NA
+8359	HIST1H4A	histone cluster 1 H4 family member a	2	0	0.166666666667	h	NA
+7337	UBE3A	ubiquitin protein ligase E3A	12	6	1.0	bait	95
+51377	UCHL5	ubiquitin C-terminal hydrolase L5	12	3	1.0	b	95
+5304	PIP	prolactin induced protein	0	2	0.333333333333	s	90
+2746	GLUD1	glutamate dehydrogenase 1	5	0	0.416666666667	h	NA
+10432	RBM14	RNA binding motif protein 14	2	0	0.166666666667	h	NA
+54469	ZFAND6	zinc finger AN1-type containing 6	2	1	1.0	b	95
+25814	ATXN10	ataxin 10	3	0	0.25	h	NA
+10455	ECI2	enoyl-CoA delta isomerase 2	12	2	1.0	b	95
+266971	PIPSL	PIP5K1A and PSMD4-like, pseudogene	12	0	1.0	h	NA
+8924	HERC2	HECT and RLD domain containing E3 ubiquitin protein ligase 2	12	6	1.0	b	95
+79598	CEP97	centrosomal protein 97	8	0	0.666666666667	h	NA
+85236	HIST1H2BK	histone cluster 1 H2B family member k	7	0	0.583333333333	h	NA
+79613	TANGO6	transport and golgi organization 6 homolog	4	2	1.0	b	95
+5887	RAD23B	RAD23 homolog B, nucleotide excision repair protein	7	1	1.0	b	95
+9997	SCO2	SCO2, cytochrome c oxidase assembly protein	9	0	0.75	h	NA
+3854	KRT6B	keratin 6B	0	2	0.333333333333	s	90
+801	CALM1	calmodulin 1	9	0	0.75	h	NA
+10534	SSSCA1	Sjogren syndrome/scleroderma autoantigen 1	3	0	0.25	h	NA
+345651	ACTBL2	actin, beta like 2	0	3	0.5	s	90
+3895	KTN1	kinectin 1	7	1	1.0	b	95
+728378	POTEF	POTE ankyrin domain family member F	5	1	1.0	b	95
+51520	LARS	leucyl-tRNA synthetase	5	0	0.416666666667	h	NA
+23363	OBSL1	obscurin like 1	7	0	0.583333333333	h	NA
+10295	BCKDK	branched chain ketoacid dehydrogenase kinase	3	0	0.25	h	NA
+10575	CCT4	chaperonin containing TCP1 subunit 4	12	0	1.0	h	NA
+3921	RPSA	ribosomal protein SA	5	0	0.416666666667	h	NA
+3933	LCN1	lipocalin 1	0	2	0.333333333333	s	95
+1891	ECH1	enoyl-CoA hydratase 1	12	2	1.0	b	95
+8550	MAPKAPK5	mitogen-activated protein kinase-activated protein kinase 5	3	0	0.25	h	NA
+10600	USP16	ubiquitin specific peptidase 16	11	0	0.916666666667	h	NA
+55662	HIF1AN	hypoxia inducible factor 1 alpha subunit inhibitor	12	3	1.0	b	95
+3646	EIF3E	eukaryotic translation initiation factor 3 subunit E	6	0	0.5	h	NA
+1973	EIF4A1	eukaryotic translation initiation factor 4A1	7	0	0.583333333333	h	NA
+51071	DERA	deoxyribose-phosphate aldolase	4	0	0.333333333333	h	NA
+9097	USP14	ubiquitin specific peptidase 14	4	3	1.0	b	95
+64397	ZNF106	zinc finger protein 106	11	0	0.916666666667	h	NA
+55700	MAP7D1	MAP7 domain containing 1	8	0	0.666666666667	h	NA
+2965	GTF2H1	general transcription factor IIH subunit 1	2	0	0.166666666667	h	NA
+4507	MTAP	methylthioadenosine phosphorylase	12	2	1.0	b	90
+8604	SLC25A12	solute carrier family 25 member 12	3	0	0.25	h	NA
+7408	VASP	vasodilator-stimulated phosphoprotein	0	2	0.333333333333	s	95
+7077	TIMP2	TIMP metallopeptidase inhibitor 2	2	0	0.166666666667	h	NA
+58526	MID1IP1	MID1 interacting protein 1	2	0	0.166666666667	h	NA
+6576	SLC25A1	solute carrier family 25 member 1	4	0	0.333333333333	h	NA
+10910	SUGT1	SGT1 homolog, MIS12 kinetochore complex assembly cochaperone	8	2	1.0	b	90
+2495	FTH1	ferritin heavy chain 1	6	0	0.5	h	NA
+3008	HIST1H1E	histone cluster 1 H1 family member e	12	0	1.0	h	NA
+552900	BOLA2	bolA family member 2	3	0	0.25	h	NA
+4175	MCM6	minichromosome maintenance complex component 6	0	1	0.166666666667	s	95
+4173	MCM4	minichromosome maintenance complex component 4	0	1	0.166666666667	s	90
+22992	KDM2A	lysine demethylase 2A	1	1	1.0	b	90
+8663	EIF3C	eukaryotic translation initiation factor 3 subunit C	12	3	1.0	b	90
+8664	EIF3D	eukaryotic translation initiation factor 3 subunit D	7	0	0.583333333333	h	NA
+9690	UBE3C	ubiquitin protein ligase E3C	11	1	1.0	b	90
+5597	MAPK6	mitogen-activated protein kinase 6	12	0	1.0	h	NA
+84461	NEURL4	neuralized E3 ubiquitin protein ligase 4	12	5	1.0	b	95
+8689	KRT36	keratin 36	2	0	0.166666666667	h	NA
+6139	RPL17	ribosomal protein L17	8	0	0.666666666667	h	NA
+347733	TUBB2B	tubulin beta 2B class IIb	0	2	0.333333333333	s	90

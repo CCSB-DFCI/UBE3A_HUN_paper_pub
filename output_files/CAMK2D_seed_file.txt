@@ -1,0 +1,63 @@
+geneID	symbol	descr	num_hek	num_sy5y	num_cell_lines	cell_lines	hcip_cutoff_sy5y	bait
+9820	CUL7	cullin 7	0	1	1	s	90	CAMK2D
+9985	REC8	REC8 meiotic recombination protein	0	1	1	s	95	CAMK2D
+9219	MTA2	metastasis associated 1 family member 2	0	1	1	s	95	CAMK2D
+23558	WBP2	WW domain binding protein 2	0	1	1	s	95	CAMK2D
+22920	KIFAP3	kinesin associated protein 3	0	1	1	s	95	CAMK2D
+9737	GPRASP1	G protein-coupled receptor associated sorting protein 1	0	1	1	s	90	CAMK2D
+64778	FNDC3B	fibronectin type III domain containing 3B	0	1	1	s	95	CAMK2D
+23191	CYFIP1	cytoplasmic FMR1 interacting protein 1	0	1	1	s	95	CAMK2D
+124044	SPATA2L	spermatogenesis associated 2 like	0	1	1	s	95	CAMK2D
+2317	FLNB	filamin B	0	1	1	s	90	CAMK2D
+8243	SMC1A	structural maintenance of chromosomes 1A	0	1	1	s	95	CAMK2D
+8975	USP13	ubiquitin specific peptidase 13 (isopeptidase T-3)	0	1	1	s	90	CAMK2D
+10513	APPBP2	amyloid beta precursor protein binding protein 2	0	1	1	s	95	CAMK2D
+139285	FAM123B	APC membrane recruitment protein 1	0	1	1	s	95	CAMK2D
+10006	ABI1	abl interactor 1	0	1	1	s	95	CAMK2D
+80279	CDK5RAP3	CDK5 regulatory subunit associated protein 3	0	1	1	s	95	CAMK2D
+85440	DOCK7	dedicator of cytokinesis 7	0	1	1	s	90	CAMK2D
+7407	VARS	valyl-tRNA synthetase	0	1	1	s	90	CAMK2D
+9500	MAGED1	MAGE family member D1	0	1	1	s	90	CAMK2D
+4638	MYLK	myosin light chain kinase	0	1	1	s	95	CAMK2D
+94241	TP53INP1	tumor protein p53 inducible nuclear protein 1	0	1	1	s	95	CAMK2D
+10787	NCKAP1	NCK associated protein 1	0	1	1	s	95	CAMK2D
+9126	SMC3	structural maintenance of chromosomes 3	0	1	1	s	95	CAMK2D
+817	CAMK2D	calcium/calmodulin dependent protein kinase II delta	0	1	1	bait	95	CAMK2D
+10152	ABI2	abl interactor 2	0	1	1	s	95	CAMK2D
+1500	CTNND1	catenin delta 1	0	1	1	s	95	CAMK2D
+815	CAMK2A	calcium/calmodulin dependent protein kinase II alpha	0	1	1	s	95	CAMK2D
+816	CAMK2B	calcium/calmodulin dependent protein kinase II beta	0	1	1	s	95	CAMK2D
+689	BTF3	basic transcription factor 3	0	1	1	s	95	CAMK2D
+818	CAMK2G	calcium/calmodulin dependent protein kinase II gamma	0	1	1	s	95	CAMK2D
+10163	WASF2	WAS protein family member 2	0	1	1	s	95	CAMK2D
+3636	INPPL1	inositol polyphosphate phosphatase like 1	0	1	1	s	95	CAMK2D
+80821	DDHD1	DDHD domain containing 1	0	1	1	s	95	CAMK2D
+29110	TBK1	TANK binding kinase 1	0	1	1	s	95	CAMK2D
+28988	DBNL	drebrin like	0	1	1	s	95	CAMK2D
+1856	DVL2	dishevelled segment polarity protein 2	0	1	1	s	95	CAMK2D
+321	APBA2	amyloid beta precursor protein binding family A member 2	0	1	1	s	90	CAMK2D
+9867	PJA2	praja ring finger ubiquitin ligase 2	0	1	1	s	90	CAMK2D
+22853	LMTK2	lemur tyrosine kinase 2	0	1	1	s	95	CAMK2D
+5830	PEX5	peroxisomal biogenesis factor 5	0	1	1	s	95	CAMK2D
+161	AP2A2	adaptor related protein complex 2 alpha 2 subunit	0	1	1	s	90	CAMK2D
+85451	UNK	unkempt family zinc finger	0	1	1	s	95	CAMK2D
+6607	SMN2	survival of motor neuron 2, centromeric	0	1	1	s	95	CAMK2D
+5970	RELA	RELA proto-oncogene, NF-kB subunit	0	1	1	s	95	CAMK2D
+3797	KIF3C	kinesin family member 3C	0	1	1	s	95	CAMK2D
+25948	KBTBD2	kelch repeat and BTB domain containing 2	0	1	1	s	95	CAMK2D
+54751	FBLIM1	filamin binding LIM protein 1	0	1	1	s	95	CAMK2D
+157922	CAMSAP1	calmodulin regulated spectrin associated protein 1	0	1	1	s	95	CAMK2D
+23268	DNMBP	dynamin binding protein	0	1	1	s	95	CAMK2D
+51366	UBR5	ubiquitin protein ligase E3 component n-recognin 5	0	1	1	s	95	CAMK2D
+57448	BIRC6	baculoviral IAP repeat containing 6	0	1	1	s	95	CAMK2D
+55275	VPS53	VPS53, GARP complex subunit	0	1	1	s	95	CAMK2D
+23148	NACAD	NAC alpha domain containing	0	1	1	s	95	CAMK2D
+7791	ZYX	zyxin	0	1	1	s	90	CAMK2D
+7024	TFCP2	transcription factor CP2	0	1	1	s	90	CAMK2D
+2289	FKBP5	FK506 binding protein 5	0	1	1	s	95	CAMK2D
+55728	N4BP2	NEDD4 binding protein 2	0	1	1	s	95	CAMK2D
+8496	PPFIBP1	PPFIA binding protein 1	0	1	1	s	95	CAMK2D
+6773	STAT2	signal transducer and activator of transcription 2	0	1	1	s	95	CAMK2D
+26999	CYFIP2	cytoplasmic FMR1 interacting protein 2	0	1	1	s	95	CAMK2D
+3708	ITPR1	inositol 1,4,5-trisphosphate receptor type 1	0	1	1	s	95	CAMK2D
+3709	ITPR2	inositol 1,4,5-trisphosphate receptor type 2	0	1	1	s	95	CAMK2D

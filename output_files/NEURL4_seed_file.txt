@@ -1,0 +1,140 @@
+geneID	symbol	descr	num_hek	num_sy5y	num_cell_lines	cell_lines	hcip_cutoff_sy5y	bait
+8192	CLPP	caseinolytic mitochondrial matrix peptidase proteolytic subunit	1	0	1	h	NA	NEURL4
+253959	RALGAPA1	Ral GTPase activating protein catalytic alpha subunit 1	1	1	2	b	95	NEURL4
+9738	CP110	centriolar coiled-coil protein 110	1	1	2	b	95	NEURL4
+79884	MAP9	microtubule associated protein 9	1	1	2	b	95	NEURL4
+84498	FAM120B	family with sequence similarity 120B	0	1	1	s	90	NEURL4
+9748	SLK	STE20 like kinase	1	0	1	h	NA	NEURL4
+2071	ERCC3	ERCC excision repair 3, TFIIH core complex helicase subunit	1	1	2	b	95	NEURL4
+54819	ZCCHC10	zinc finger CCHC-type containing 10	1	0	1	h	NA	NEURL4
+4644	MYO5A	myosin VA	1	0	1	h	NA	NEURL4
+4645	MYO5B	myosin VB	1	0	1	h	NA	NEURL4
+1062	CENPE	centromere protein E	1	0	1	h	NA	NEURL4
+1063	CENPF	centromere protein F	1	0	1	h	NA	NEURL4
+4650	MYO9B	myosin IXB	1	1	2	b	95	NEURL4
+23598	PATZ1	POZ/BTB and AT hook containing zinc finger 1	1	1	2	b	95	NEURL4
+8239	USP9X	ubiquitin specific peptidase 9, X-linked	1	0	1	h	NA	NEURL4
+23089	PEG10	paternally expressed 10	1	0	1	h	NA	NEURL4
+1374	CPT1A	carnitine palmitoyltransferase 1A	1	1	2	b	95	NEURL4
+9652	TTC37	tetratricopeptide repeat domain 37	1	1	2	b	95	NEURL4
+8260	NAA10	N(alpha)-acetyltransferase 10, NatA catalytic subunit	1	0	1	h	NA	NEURL4
+81488	GRINL1A	RNA polymerase II subunit M	1	0	1	h	NA	NEURL4
+6499	SKIV2L	Ski2 like RNA helicase	0	1	1	s	90	NEURL4
+54882	ANKHD1	ankyrin repeat and KH domain containing 1	1	0	1	h	NA	NEURL4
+7266	DNAJC7	DnaJ heat shock protein family (Hsp40) member C7	0	1	1	s	95	NEURL4
+57448	BIRC6	baculoviral IAP repeat containing 6	1	1	2	b	95	NEURL4
+91754	NEK9	NIMA related kinase 9	1	1	2	b	90	NEURL4
+10869	USP19	ubiquitin specific peptidase 19	1	1	2	b	95	NEURL4
+114294	LACTB	lactamase beta	0	1	1	s	90	NEURL4
+10260	DENND4A	DENN domain containing 4A	1	1	2	b	95	NEURL4
+51329	ARL6IP4	ADP ribosylation factor like GTPase 6 interacting protein 4	1	0	1	h	NA	NEURL4
+9859	CEP170	centrosomal protein 170	1	1	2	b	95	NEURL4
+6789	STK4	serine/threonine kinase 4	0	1	1	s	95	NEURL4
+84617	TUBB6	tubulin beta 6 class V	0	1	1	s	90	NEURL4
+23	ABCF1	ATP binding cassette subfamily F member 1	1	0	1	h	NA	NEURL4
+10382	TUBB4	tubulin beta 4A class IVa	0	1	1	s	90	NEURL4
+57492	ARID1B	AT-rich interaction domain 1B	0	1	1	s	90	NEURL4
+5783	PTPN13	protein tyrosine phosphatase, non-receptor type 13	1	0	1	h	NA	NEURL4
+5436	POLR2G	RNA polymerase II subunit G	1	0	1	h	NA	NEURL4
+26273	FBXO3	F-box protein 3	1	0	1	h	NA	NEURL4
+675	BRCA2	BRCA2, DNA repair associated	1	0	1	h	NA	NEURL4
+57509	MTUS1	microtubule associated tumor suppressor 1	1	1	2	b	95	NEURL4
+54438	GFOD1	glucose-fructose oxidoreductase domain containing 1	1	0	1	h	NA	NEURL4
+10920	COPS8	COP9 signalosome subunit 8	1	0	1	h	NA	NEURL4
+57514	ARHGAP31	Rho GTPase activating protein 31	0	1	1	s	95	NEURL4
+7965	AIMP2	aminoacyl tRNA synthetase complex interacting multifunctional protein 2	1	0	1	h	NA	NEURL4
+5297	PI4KA	phosphatidylinositol 4-kinase alpha	1	0	1	h	NA	NEURL4
+6322	SCML1	sex comb on midleg-like 1 (Drosophila)	1	0	1	h	NA	NEURL4
+6328	SCN3A	sodium voltage-gated channel alpha subunit 3	0	1	1	s	95	NEURL4
+6329	SCN4A	sodium voltage-gated channel alpha subunit 4	0	1	1	s	95	NEURL4
+2746	GLUD1	glutamate dehydrogenase 1	1	0	1	h	NA	NEURL4
+6335	SCN9A	sodium voltage-gated channel alpha subunit 9	0	1	1	s	95	NEURL4
+6603	SMARCD2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2	0	1	1	s	90	NEURL4
+708	C1QBP	complement C1q binding protein	0	1	1	s	90	NEURL4
+4131	MAP1B	microtubule associated protein 1B	0	1	1	s	90	NEURL4
+10455	ECI2	enoyl-CoA delta isomerase 2	1	1	2	b	95	NEURL4
+79576	NKAP	NFKB activating protein	1	0	1	h	NA	NEURL4
+8924	HERC2	HECT and RLD domain containing E3 ubiquitin protein ligase 2	1	1	2	b	95	NEURL4
+9439	MED23	mediator complex subunit 23	1	0	1	h	NA	NEURL4
+29922	NME7	NME/NM23 family member 7	1	1	2	b	95	NEURL4
+54822	TRPM7	transient receptor potential cation channel subfamily M member 7	1	1	2	b	95	NEURL4
+9958	USP15	ubiquitin specific peptidase 15	0	1	1	s	90	NEURL4
+5352	PLOD2	procollagen-lysine,2-oxoglutarate 5-dioxygenase 2	1	0	1	h	NA	NEURL4
+9255	AIMP1	aminoacyl tRNA synthetase complex interacting multifunctional protein 1	1	0	1	h	NA	NEURL4
+10988	METAP2	methionyl aminopeptidase 2	1	0	1	h	NA	NEURL4
+79598	CEP97	centrosomal protein 97	1	1	2	b	95	NEURL4
+7464	CORO2A	coronin 2A	0	1	1	s	90	NEURL4
+3831	KLC1	kinesin light chain 1	0	1	1	s	95	NEURL4
+3321	IGSF3	immunoglobulin superfamily member 3	0	1	1	s	95	NEURL4
+4134	MAP4	microtubule associated protein 4	0	1	1	s	95	NEURL4
+84220	RGPD5	RANBP2-like and GRIP domain containing 5	1	1	2	b	95	NEURL4
+3800	KIF5C	kinesin family member 5C	0	1	1	s	90	NEURL4
+9857	CEP350	centrosomal protein 350	1	0	1	h	NA	NEURL4
+3799	KIF5B	kinesin family member 5B	0	1	1	s	90	NEURL4
+3854	KRT6B	keratin 6B	0	1	1	s	90	NEURL4
+5905	RANGAP1	Ran GTPase activating protein 1	1	0	1	h	NA	NEURL4
+23317	DNAJC13	DnaJ heat shock protein family (Hsp40) member C13	0	1	1	s	90	NEURL4
+64283	RGNEF	Rho guanine nucleotide exchange factor 28	0	1	1	s	90	NEURL4
+7453	WARS	tryptophanyl-tRNA synthetase	1	1	2	b	95	NEURL4
+2181	ACSL3	acyl-CoA synthetase long-chain family member 3	0	1	1	s	90	NEURL4
+5431	POLR2B	RNA polymerase II subunit B	0	1	1	s	90	NEURL4
+291	SLC25A4	solute carrier family 25 member 4	0	1	1	s	90	NEURL4
+84260	TCHP	trichoplein keratin filament binding	1	0	1	h	NA	NEURL4
+10534	SSSCA1	Sjogren syndrome/scleroderma autoantigen 1	0	1	1	s	95	NEURL4
+808	CALM3	calmodulin 3	1	1	2	b	90	NEURL4
+3884	KRT33B	keratin 33B	0	1	1	s	95	NEURL4
+5933	RBL1	RB transcriptional corepressor like 1	1	0	1	h	NA	NEURL4
+817	CAMK2D	calcium/calmodulin dependent protein kinase II delta	0	1	1	s	90	NEURL4
+3890	KRT84	keratin 84	0	1	1	s	95	NEURL4
+84790	TUBA1C	tubulin alpha 1c	1	0	1	h	NA	NEURL4
+3895	KTN1	kinectin 1	1	1	2	b	95	NEURL4
+80184	CEP290	centrosomal protein 290	1	0	1	h	NA	NEURL4
+5433	POLR2D	RNA polymerase II subunit D	1	0	1	h	NA	NEURL4
+57148	RALGAPB	Ral GTPase activating protein non-catalytic beta subunit	1	0	1	h	NA	NEURL4
+5437	POLR2H	RNA polymerase II subunit H	0	1	1	s	95	NEURL4
+5438	POLR2I	RNA polymerase II subunit I	1	0	1	h	NA	NEURL4
+5439	POLR2J	RNA polymerase II subunit J	1	0	1	h	NA	NEURL4
+5440	POLR2K	RNA polymerase II subunit K	1	0	1	h	NA	NEURL4
+317762	CCDC85C	coiled-coil domain containing 85C	1	0	1	h	NA	NEURL4
+5430	POLR2A	RNA polymerase II subunit A	1	1	2	b	90	NEURL4
+23368	PPP1R13B	protein phosphatase 1 regulatory subunit 13B	1	0	1	h	NA	NEURL4
+823	CAPN1	calpain 1	1	0	1	h	NA	NEURL4
+8527	DGKD	diacylglycerol kinase delta	1	0	1	h	NA	NEURL4
+5432	POLR2C	RNA polymerase II subunit C	1	1	2	b	90	NEURL4
+8533	COPS3	COP9 signalosome subunit 3	1	0	1	h	NA	NEURL4
+8030	CCDC6	coiled-coil domain containing 6	1	1	2	b	95	NEURL4
+10592	SMC2	structural maintenance of chromosomes 2	0	1	1	s	90	NEURL4
+25953	PNKD	paroxysmal nonkinesigenic dyskinesia	1	0	1	h	NA	NEURL4
+1891	ECH1	enoyl-CoA hydratase 1	1	1	2	b	95	NEURL4
+8550	MAPKAPK5	mitogen-activated protein kinase-activated protein kinase 5	1	0	1	h	NA	NEURL4
+10600	USP16	ubiquitin specific peptidase 16	1	0	1	h	NA	NEURL4
+28988	DBNL	drebrin like	1	1	2	b	95	NEURL4
+22890	ZBTB1	zinc finger and BTB domain containing 1	1	0	1	h	NA	NEURL4
+55165	CEP55	centrosomal protein 55	1	0	1	h	NA	NEURL4
+63893	UBE2O	ubiquitin conjugating enzyme E2 O	1	0	1	h	NA	NEURL4
+200576	PIKFYVE	phosphoinositide kinase, FYVE-type zinc finger containing	1	1	2	b	95	NEURL4
+51520	LARS	leucyl-tRNA synthetase	1	0	1	h	NA	NEURL4
+64397	ZFP106	zinc finger protein 106	1	1	2	b	95	NEURL4
+55697	VAC14	Vac14, PIKFYVE complex component	1	1	2	b	95	NEURL4
+55699	IARS2	isoleucyl-tRNA synthetase 2, mitochondrial	1	0	1	h	NA	NEURL4
+55700	MAP7D1	MAP7 domain containing 1	1	1	2	b	90	NEURL4
+2965	GTF2H1	general transcription factor IIH subunit 1	1	1	2	b	95	NEURL4
+2968	GTF2H4	general transcription factor IIH subunit 4	1	0	1	h	NA	NEURL4
+4507	MTAP	methylthioadenosine phosphorylase	1	1	2	b	95	NEURL4
+8604	SLC25A12	solute carrier family 25 member 12	0	1	1	s	90	NEURL4
+55210	ATAD3A	ATPase family, AAA domain containing 3A	1	1	2	b	90	NEURL4
+26036	ZNF451	zinc finger protein 451	1	0	1	h	NA	NEURL4
+80311	KLHL15	kelch like family member 15	1	0	1	h	NA	NEURL4
+55226	NAT10	N-acetyltransferase 10	0	1	1	s	90	NEURL4
+25912	C1orf43	chromosome 1 open reading frame 43	0	1	1	s	95	NEURL4
+6595	SMARCA2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	0	1	1	s	90	NEURL4
+51654	CDK5RAP1	CDK5 regulatory subunit associated protein 1	1	0	1	h	NA	NEURL4
+7415	VCP	valosin containing protein	0	1	1	s	90	NEURL4
+322	APBB1	amyloid beta precursor protein binding family B member 1	1	1	2	b	95	NEURL4
+8663	EIF3C	eukaryotic translation initiation factor 3 subunit C	1	0	1	h	NA	NEURL4
+57679	ALS2	ALS2, alsin Rho guanine nucleotide exchange factor	1	1	2	b	95	NEURL4
+5597	MAPK6	mitogen-activated protein kinase 6	1	1	2	b	95	NEURL4
+84461	NEURL4	neuralized E3 ubiquitin protein ligase 4	1	1	2	bait	95	NEURL4
+8689	KRT36	keratin 36	0	1	1	s	95	NEURL4
+27127	SMC1B	structural maintenance of chromosomes 1B	1	0	1	h	NA	NEURL4
+79871	RPAP2	RNA polymerase II associated protein 2	1	1	2	b	95	NEURL4
