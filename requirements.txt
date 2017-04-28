@@ -1,0 +1,4 @@
+igraph=0.7.1
+numpy=1.9.0
+matplotlib=1.4.0
+python-jsonrpc=0.10.0
