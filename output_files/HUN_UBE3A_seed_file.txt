@@ -1,4 +1,4 @@
-geneID	symbol	descr	origin	baits	num_baits	cell_lines
+geneID	symbol	descr	origin	baits	num_baits	cell_lines	Y2H_int
 3921	RPSA	ribosomal protein SA	prey	UBE3A	1	h
 10295	BCKDK	branched chain ketoacid dehydrogenase kinase	prey	UBE3A	1	h
 23363	OBSL1	obscurin like 1	prey	HERC2|UBE3A	2	h
@@ -94,7 +94,7 @@ geneID	symbol	descr	origin	baits	num_baits	cell_lines
 84823	LMNB2	lamin B2	prey	HERC2	1	h
 55787	TXLNG	taxilin gamma	prey	HERC2	1	h
 9748	SLK	STE20 like kinase	prey	NEURL4	1	h
-4175	MCM6	minichromosome maintenance complex component 6	prey	UBE3A	1	s
+4175	MCM6	minichromosome maintenance complex component 6	prey	UBE3A	1	s_yeast
 1993	ELAVL2	ELAV like RNA binding protein 2	prey	ECH1	1	h
 10844	TUBGCP2	tubulin gamma complex associated protein 2	prey	HERC2	1	h
 4173	MCM4	minichromosome maintenance complex component 4	prey	UBE3A	1	s
@@ -132,6 +132,7 @@ geneID	symbol	descr	origin	baits	num_baits	cell_lines
 57448	BIRC6	baculoviral IAP repeat containing 6	prey	HERC2|NEURL4	2	b
 22931	RAB18	RAB18, member RAS oncogene family	prey	HERC2	1	h
 27043	PELP1	proline, glutamate and leucine rich protein 1	prey	HERC2	1	h
+5079	PAX5	paired box 5	prey	UBE3A	1	yeast
 6159	RPL29	ribosomal protein L29	prey	UBE3A	1	h
 23598	PATZ1	POZ/BTB and AT hook containing zinc finger 1	prey	NEURL4	1	b
 495	ATP4A	ATPase H+/K+ transporting alpha subunit	prey	HERC2	1	h
@@ -221,7 +222,7 @@ geneID	symbol	descr	origin	baits	num_baits	cell_lines
 6406	SEMG1	semenogelin I	prey	HERC2	1	h
 6407	SEMG2	semenogelin II	prey	HERC2	1	h
 27037	TRMT2A	tRNA methyltransferase 2 homolog A	prey	HERC2|MAPK6	2	h
-5710	PSMD4	proteasome 26S subunit, non-ATPase 4	prey	UBE3A	1	b
+5710	PSMD4	proteasome 26S subunit, non-ATPase 4	prey	UBE3A	1	b_yeast
 63875	MRPL17	mitochondrial ribosomal protein L17	prey	MAPK6	1	h
 28952	CCDC22	coiled-coil domain containing 22	prey	HERC2	1	h
 25912	C1orf43	chromosome 1 open reading frame 43	prey	NEURL4	1	s
@@ -245,6 +246,7 @@ geneID	symbol	descr	origin	baits	num_baits	cell_lines
 9958	USP15	ubiquitin specific peptidase 15	prey	NEURL4	1	s
 51329	ARL6IP4	ADP ribosylation factor like GTPase 6 interacting protein 4	prey	NEURL4	1	h
 22890	ZBTB1	zinc finger and BTB domain containing 1	prey	NEURL4	1	h
+55663	ZNF446	zinc finger protein 446	prey	UBE3A	1	yeast
 55662	HIF1AN	hypoxia inducible factor 1 alpha subunit inhibitor	prey	UBE3A	1	b
 563	AZGP1	alpha-2-glycoprotein 1, zinc-binding	prey	ECH1|ECI2	2	h
 2876	GPX1	glutathione peroxidase 1	prey	HERC2	1	h
@@ -267,6 +269,8 @@ geneID	symbol	descr	origin	baits	num_baits	cell_lines
 83737	ITCH	itchy E3 ubiquitin protein ligase	prey	ECH1|ECI2	2	h
 83733	SLC25A18	solute carrier family 25 member 18	prey	HERC2	1	h
 29110	TBK1	TANK binding kinase 1	prey	HERC2	1	h
+29978	UBQLN2	ubiquilin 2	prey	UBE3A	1	yeast
+29979	UBQLN1	ubiquilin 1	prey	UBE3A	1	yeast
 995	CDC25C	cell division cycle 25C	prey	HERC2	1	h
 1315	COPB1	coatomer protein complex subunit beta 1	prey	HERC2	1	h
 1314	COPA	coatomer protein complex subunit alpha	prey	HERC2	1	b
@@ -289,6 +293,7 @@ geneID	symbol	descr	origin	baits	num_baits	cell_lines
 55086	CXorf57	chromosome X open reading frame 57	prey	HERC2	1	h
 55088	C10orf118	coiled-coil domain containing 186	prey	HERC2	1	h
 9652	TTC37	tetratricopeptide repeat domain 37	prey	NEURL4	1	b
+8545	CGGBP1	CGG triplet repeat binding protein 1	prey	UBE3A	1	yeast
 10128	LRPPRC	leucine rich pentatricopeptide repeat containing	prey	HERC2	1	b
 10342	TFG	TRK-fused gene	prey	ECH1|ECI2	2	s
 10432	RBM14	RNA binding motif protein 14	prey	UBE3A	1	h
@@ -300,8 +305,10 @@ geneID	symbol	descr	origin	baits	num_baits	cell_lines
 54939	COMMD4	COMM domain containing 4	prey	HERC2	1	h
 369	ARAF	A-Raf proto-oncogene, serine/threonine kinase	prey	HERC2	1	h
 84733	CBX2	chromobox 2	prey	HERC2	1	h
+55037	PTCD3	pentatricopeptide repeat domain 3	prey	UBE3A	1	yeast
 51592	TRIM33	tripartite motif containing 33	prey	MAPK6	1	s
 2760	GM2A	GM2 ganglioside activator	prey	ECH1	1	h
+153657	TTC23L	tetratricopeptide repeat domain 23 like	prey	UBE3A	1	yeast
 84188	FAR1	fatty acyl-CoA reductase 1	prey	ECH1	1	h
 23412	COMMD3	COMM domain containing 3	prey	HERC2	1	h
 6576	SLC25A1	solute carrier family 25 member 1	prey	UBE3A	1	h
@@ -326,6 +333,7 @@ geneID	symbol	descr	origin	baits	num_baits	cell_lines
 5431	POLR2B	RNA polymerase II subunit B	prey	NEURL4	1	s
 5436	POLR2G	RNA polymerase II subunit G	prey	NEURL4	1	h
 5437	POLR2H	RNA polymerase II subunit H	prey	NEURL4	1	s
+7159	TP53BP2	tumor protein p53 binding protein 2	prey	UBE3A	1	yeast
 5438	POLR2I	RNA polymerase II subunit I	prey	NEURL4	1	h
 5439	POLR2J	RNA polymerase II subunit J	prey	NEURL4	1	h
 10910	SUGT1	SGT1 homolog, MIS12 kinetochore complex assembly cochaperone	prey	HERC2|UBE3A	2	b
@@ -341,6 +349,7 @@ geneID	symbol	descr	origin	baits	num_baits	cell_lines
 51520	LARS	leucyl-tRNA synthetase	prey	NEURL4|UBE3A	2	h
 8260	NAA10	N(alpha)-acetyltransferase 10, NatA catalytic subunit	prey	NEURL4	1	h
 8667	EIF3H	eukaryotic translation initiation factor 3 subunit H	prey	HERC2	1	b
+58500	ZNF250	zinc finger protein 250	prey	UBE3A	1	yeast
 374454	KRT77	keratin 77	prey	HERC2	1	s
 8661	EIF3A	eukaryotic translation initiation factor 3 subunit A	prey	HERC2	1	b
 8662	EIF3B	eukaryotic translation initiation factor 3 subunit B	prey	HERC2	1	b
@@ -357,7 +366,8 @@ geneID	symbol	descr	origin	baits	num_baits	cell_lines
 5297	PI4KA	phosphatidylinositol 4-kinase alpha	prey	NEURL4	1	h
 5295	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1	prey	HERC2	1	h
 8409	UXT	ubiquitously expressed prefoldin like chaperone	prey	HERC2	1	h
-5887	RAD23B	RAD23 homolog B, nucleotide excision repair protein	prey	UBE3A	1	b
+5887	RAD23B	RAD23 homolog B, nucleotide excision repair protein	prey	UBE3A	1	b_yeast
+5886	RAD23A	RAD23 homolog A, nucleotide excision repair protein	prey	UBE3A	1	yeast
 22818	COPZ1	coatomer protein complex subunit zeta 1	prey	HERC2	1	h
 23224	SYNE2	spectrin repeat containing nuclear envelope protein 2	prey	HERC2	1	h
 6418	SET	SET nuclear proto-oncogene	prey	HERC2	1	s
@@ -439,6 +449,7 @@ geneID	symbol	descr	origin	baits	num_baits	cell_lines
 91833	WDR20	WD repeat domain 20	prey	HERC2	1	s
 8359	HIST1H4A	histone cluster 1 H4 family member a	prey	UBE3A	1	h
 9648	GCC2	GRIP and coiled-coil domain containing 2	prey	HERC2	1	h
+4111	MAGEA12	MAGE family member A12	prey	UBE3A	1	yeast
 10423	CDIPT	CDP-diacylglycerol--inositol 3-phosphatidyltransferase	prey	HERC2|ECH1	2	h
 23310	NCAPD3	non-SMC condensin II complex subunit D3	prey	HERC2	1	h
 23317	DNAJC13	DnaJ heat shock protein family (Hsp40) member C13	prey	NEURL4	1	s
@@ -446,6 +457,7 @@ geneID	symbol	descr	origin	baits	num_baits	cell_lines
 51429	SNX9	sorting nexin 9	prey	ECH1|ECI2	2	h
 8897	MTMR3	myotubularin related protein 3	prey	HERC2	1	h
 22862	FNDC3A	fibronectin type III domain containing 3A	prey	HERC2	1	h
+5080	PAX6	paired box 6	prey	UBE3A	1	yeast
 114294	LACTB	lactamase beta	prey	HERC2|NEURL4	2	b
 253143	PRR14L	proline rich 14 like	prey	HERC2	1	h
 23384	SPECC1L	sperm antigen with calponin homology and coiled-coil domains 1 like	prey	HERC2	1	h
@@ -507,6 +519,7 @@ geneID	symbol	descr	origin	baits	num_baits	cell_lines
 22820	COPG	coatomer protein complex subunit gamma 1	prey	HERC2	1	h
 55165	CEP55	centrosomal protein 55	prey	NEURL4	1	h
 1805	DPT	dermatopontin	prey	HERC2	1	s
+9802	DAZAP2	DAZ associated protein 2	prey	UBE3A	1	yeast
 79858	NEK11	NIMA related kinase 11	prey	HERC2	1	h
 6335	SCN9A	sodium voltage-gated channel alpha subunit 9	prey	NEURL4	1	s
 9517	SPTLC2	serine palmitoyltransferase long chain base subunit 2	prey	HERC2	1	h

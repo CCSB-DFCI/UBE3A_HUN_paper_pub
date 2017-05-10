@@ -1,4 +1,4 @@
 test	real_obs	p_value	mean	std	z_score	num_rand
 num_preys_connected_core_complex	5	0.006	1.228	1.08444271402	3.47828423873	1000
-num_preys_connected_complex_preys	40	0.759	41.392	2.80362907675	-0.496499344918	1000
-num_complex_interactors	109	0.046	94.141	7.88968434096	1.88334530988	1000
+num_preys_connected_complex_preys	42	0.618	42.339	2.78569183507	-0.121693288443	1000
+num_complex_interactors	115	0.032	99.373	8.06100930405	1.93859098911	1000

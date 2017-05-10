@@ -12,8 +12,8 @@ python UBE3A_network_analysis_pub.py
 python HUN_network_analysis_pub.py
 python CAMK2D_network_analysis_pub.py
 # assess functional significance of networks and sets of preys
-significance_test_GO_network_pub.py 1000 QBCHL UBE3A
-significance_test_GO_network_pub.py 1000 QBCHL CAMK2D
+python significance_test_GO_network_pub.py 1000 QBCHL UBE3A
+python significance_test_GO_network_pub.py 1000 QBCHL CAMK2D
 python run_Funcassociate_pub.py HUN_network_QBCHL.node_attributes.txt 0
 python run_Funcassociate_pub.py UBE3A_seed_file.txt 0
 python run_Funcassociate_pub.py UBE3A_seed_file_with_proteasome.txt 0

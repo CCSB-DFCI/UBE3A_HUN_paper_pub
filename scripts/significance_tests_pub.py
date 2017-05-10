@@ -226,7 +226,7 @@ if __name__ == '__main__':
 		outfile_stats = config.output_path + 'summary_signif_LCC_seed_files.txt'
 		seed_files = ['CAMK2D_seed_file.txt','ECH1_seed_file.txt','ECI2_seed_file.txt','HERC2_seed_file.txt',\
 					  'HIF1AN_seed_file.txt','MAPK6_seed_file.txt','NEURL4_seed_file.txt','UBE3A_seed_file.txt',\
-					  'UBE3A_seed_file_with_proteasome.txt']
+					  'UBE3A_seed_file_with_proteasome.txt','UBE3A_seed_file_no_Y2H.txt']
 		test_signif_LCC_of_seed_genes(num_rand,seed_files,real_network,outfile_stats)
 
 	elif analysis == 'hun_lcc':

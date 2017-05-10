@@ -35,6 +35,21 @@ def get_symbol_geneID_dict(infile):
 	return symbol_gene_dict
 
 
+def get_geneID_symbol_dict(infile):
+
+	gene_symbol_dict = {}
+	file1 = open(infile,'r')
+	entries = file1.readlines()
+	file1.close()
+	for row in entries[1:]:
+		tab_list = str.split(row[:-1],'\t')
+		symbol = tab_list[2]
+		geneID = int(tab_list[1])
+		gene_symbol_dict[geneID] = symbol
+
+	return gene_symbol_dict
+
+
 def get_geneID_descr_dict(infile):
 
 	gene_descr_dict = {}
@@ -53,6 +68,7 @@ if __name__ == '__main__':
 
 	entrez_file = config.input_path + 'entrez_gene.gene_info_human_20161113.tsv'
 	symbol_gene_dict = get_symbol_geneID_dict(entrez_file)
+	gene_symbol_dict = get_geneID_symbol_dict(entrez_file)
 	gene_descr_dict = get_geneID_descr_dict(entrez_file)
 
 	ube3a_preys = {}
@@ -171,11 +187,40 @@ if __name__ == '__main__':
 	for geneID in geneIDs_to_remove:
 		del ube3a_preys[geneID]
 
-	# write the seed file without the proteasome subunits
-	target = open(config.output_path + "UBE3A_seed_file.txt","w")
+	# write the seed file without the proteasome subunits and without the Y2H interactors
+	target = open(config.output_path + "UBE3A_seed_file_no_Y2H.txt","w")
 	target.write("geneID\tsymbol\tdescr\tnum_hek\tnum_sy5y\tfrac_occ\tcell_lines\thcip_cutoff_sy5y\n")
 	for geneID,prey_obj in ube3a_preys.iteritems():
 		target.write(str(geneID) + "\t" + prey_obj.symbol + "\t" + prey_obj.descr + "\t" + str(prey_obj.num_hek) + \
 					 "\t" + str(prey_obj.num_sy5y) + "\t" + str(prey_obj.frac_occ) + "\t" + \
 					 prey_obj.cell_lines + "\t" + str(prey_obj.hcip_sy5y) + "\n")
+	target.close()
+
+	# write the seed file without the proteasome subunits but with the Y2H interactors
+	Y2H_file = config.output_path + 'Y2H_UBE3A.txt'
+	file1 = open(Y2H_file,'r')
+	entries = file1.readlines()
+	file1.close()
+	Y2H_interactors = set()
+	for line in entries[1:]:
+		tab_list = str.split(line[:-1],'\t')
+		gene_a = tab_list[0]
+		gene_b = tab_list[1]
+		if gene_a != '7337':
+			Y2H_interactors.add(int(gene_a))
+		else:
+			Y2H_interactors.add(int(gene_b))
+	target = open(config.output_path + "UBE3A_seed_file.txt","w")
+	target.write("geneID\tsymbol\tdescr\tnum_hek\tnum_sy5y\tfrac_occ\tcell_lines\thcip_cutoff_sy5y\tY2H_int\n")
+	for geneID,prey_obj in ube3a_preys.iteritems():
+		target.write(str(geneID) + "\t" + prey_obj.symbol + "\t" + prey_obj.descr + "\t" + str(prey_obj.num_hek) + \
+					 "\t" + str(prey_obj.num_sy5y) + "\t" + str(prey_obj.frac_occ) + "\t")
+		if geneID in Y2H_interactors:
+			target.write(prey_obj.cell_lines + "_yeast\t" + str(prey_obj.hcip_sy5y) + '\ty\n')
+			Y2H_interactors.remove(geneID)
+		else:
+			target.write(prey_obj.cell_lines + "\t" + str(prey_obj.hcip_sy5y) + '\tn\n')
+	for geneID in Y2H_interactors:
+		target.write(str(geneID) + '\t' + gene_symbol_dict[geneID] + '\t' + gene_descr_dict[geneID] + \
+					 '\t0\t0\t0\tyeast\tNA\ty\n')
 	target.close()

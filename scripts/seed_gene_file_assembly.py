@@ -49,7 +49,6 @@ def get_seed_gene_file(gene_descr_dict,bait,geneID_bait):
 	# remove proteasome-related proteins
 	geneIDs_to_remove = set()
 	for geneID, prey_obj in preys.iteritems():
-		print geneID, prey_obj.symbol
 		if "proteas" in prey_obj.descr:
 			geneIDs_to_remove.add(geneID)
 	for geneID in geneIDs_to_remove:
@@ -80,7 +79,7 @@ def get_seed_gene_file(gene_descr_dict,bait,geneID_bait):
 def build_HUN_seed_gene_file(baits,outfile):
 
 	target = open(outfile,"w")
-	target.write("geneID\tsymbol\tdescr\torigin\tbaits\tnum_baits\tcell_lines\n")
+	target.write("geneID\tsymbol\tdescr\torigin\tbaits\tnum_baits\tcell_lines\tY2H_int\n")
 
 	preys = {}
 
@@ -95,18 +94,59 @@ def build_HUN_seed_gene_file(baits,outfile):
 			if geneID not in preys:
 				preys[geneID] = UBE3A_seed_gene_file_assembly.Prey(geneID)
 				preys[geneID].symbol = tab_list[1]
+				preys[geneID].cell_lines = []
 				if preys[geneID].symbol in baits:
 					preys[geneID].origin = "bait"
 				else:
 					preys[geneID].origin = "prey"
 				preys[geneID].descr = tab_list[2]
 				preys[geneID].baits = []
-				preys[geneID].cell_lines = cell_lines
+			preys[geneID].cell_lines.append(cell_lines)
 			preys[geneID].baits.append(bait)
-			if cell_lines != preys[geneID].cell_lines:
-				preys[geneID].cell_lines = 'b'
+			# get information on Y2H UBE3A interactors
+			if bait == 'UBE3A':
+				Y2H_int = tab_list[8]
+				preys[geneID].Y2H_int = Y2H_int
 
 	for geneID, prey_obj in preys.iteritems():
+		# decide on the final cell line annotation
+		yeast = None
+		bait = 1
+		b = None
+		s = None
+		h = None
+		cl_list = prey_obj.cell_lines
+		for cl in prey_obj.cell_lines:
+			if cl == 'bait':
+				bait = 1
+			else:
+				if cl.find('yeast') > -1:
+					yeast = 1
+				if cl[0] == 's':
+					s = 1
+				elif cl[0] == 'b':
+					b = 1
+				elif cl[0] == 'h':
+					h = 1
+		if (yeast and b) or (yeast and s and h):
+	  		prey_obj.cell_lines = 'b_yeast'
+		elif yeast and h:
+	  		prey_obj.cell_lines = 'h_yeast'
+		elif yeast and s:
+	  		prey_obj.cell_lines = 's_yeast'
+		elif yeast:
+			prey_obj.cell_lines = 'yeast'
+		elif (h and s) or b:
+			prey_obj.cell_lines = 'b'
+		elif h:
+			prey_obj.cell_lines = 'h'
+		elif b:
+			prey_obj.cell_lines = 'b'
+		elif s:
+			prey_obj.cell_lines = 's'
+		else:
+			prey_obj.cell_lines = 'bait'
+
 		target.write(geneID + '\t' + prey_obj.symbol + '\t' + prey_obj.descr + '\t' + prey_obj.origin + '\t' + \
 					 '|'.join(prey_obj.baits) + '\t' + str(len(prey_obj.baits)) + '\t' + prey_obj.cell_lines + '\n')
 
@@ -120,7 +160,6 @@ if __name__ == '__main__':
 
 	baits = [("CAMK2D",817),("MAPK6",5597),("ECH1",1891),("ECI2",10455),("HIF1AN",55662),("NEURL4",84461)]
 	for bait_tup in baits:
-		print bait_tup
 		bait = bait_tup[0]
 		geneID_bait = bait_tup[1]
 		get_seed_gene_file(gene_descr_dict,bait,geneID_bait)

@@ -1,146 +1,153 @@
-geneID	baits	cell_lines	descr	hcip_cutoff_sy5y	symbol	synonyms
-6790	MAPK6	h	aurora kinase A	None	AURKA	AIK|ARK1|AURA|BTAK|PPP1R47|STK15|STK6|STK7
-65080	ECH1	h	mitochondrial ribosomal protein L44	None	MRPL44	COXPD16|L44MT|MRP-L44
-6773	CAMK2D	s	signal transducer and activator of transcription 2	95	STAT2	IMD44|ISGF-3|P113|STAT113
-9500	CAMK2D	s	MAGE family member D1	90	MAGED1	DLXIN-1|NRAGE
-81567	ECH1	b	thioredoxin domain containing 5	None	TXNDC5	ENDOPDI|ERP46|HCC-2|HCC2|PDIA15|STRF8|UNQ364
-8689	NEURL4|UBE3A	s	keratin 36	None	KRT36	HA6|KRTHA6|hHa6
-9747	MAPK6	h	TRPM8 channel associated factor 1	None	TCAF1	FAM115A
-10513	CAMK2D	s	amyloid beta precursor protein binding protein 2	95	APPBP2	APP-BP2|HS.84084|PAT1
-818	CAMK2D	s	calcium/calmodulin dependent protein kinase II gamma	95	CAMK2G	CAMK|CAMK-II|CAMKG
-815	CAMK2D	s	calcium/calmodulin dependent protein kinase II alpha	95	CAMK2A	CAMKA
-816	CAMK2D	s	calcium/calmodulin dependent protein kinase II beta	95	CAMK2B	CAM2|CAMK2|CAMKB
-817	NEURL4|CAMK2D	s	calcium/calmodulin dependent protein kinase II delta	95	CAMK2D	CAMKD
-8732	HERC2	h	RNA guanylyltransferase and 5'-phosphatase	None	RNGTT	CAP1A|HCE|HCE1|hCAP
-55787	HERC2	h	taxilin gamma	None	TXLNG	CXorf15|ELRG|FIAT|LSR5|TXLNGX
-26999	CAMK2D	s	cytoplasmic FMR1 interacting protein 2	95	CYFIP2	PIR121
-51386	HERC2	b	eukaryotic translation initiation factor 3 subunit L	None	EIF3L	EIF3EIP|EIF3S11|EIF3S6IP|HSPC021|HSPC025|MSTP005
-55662	UBE3A	b	hypoxia inducible factor 1 alpha subunit inhibitor	None	HIF1AN	FIH1
-8496	CAMK2D	s	PPFIA binding protein 1	95	PPFIBP1	L2|SGT2|hSGT2|hSgt2p
-322	NEURL4	b	amyloid beta precursor protein binding family B member 1	None	APBB1	FE65|MGC:9072|RIR
-6418	HERC2	s	SET nuclear proto-oncogene	None	SET	2PP2A|I2PP2A|IGAAD|IPP2A2|PHAPII|TAF-I|TAF-IBETA
-321	CAMK2D	s	amyloid beta precursor protein binding family A member 2	90	APBA2	D15S1518E|HsT16821|LIN-10|MGC:14091|MINT2|X11-BETA|X11L
-55858	HERC2	h	transmembrane protein 165	None	TMEM165	CDG2K|FT27|GDT1|TMPT27|TPARL
-81488	NEURL4	h	RNA polymerase II subunit M	None	POLR2M	GCOM1|GRINL1A|Gdown|Gdown1
-64778	CAMK2D	s	fibronectin type III domain containing 3B	95	FNDC3B	FAD104|PRO4979|YVTM2421
-6272	HERC2	h	sortilin 1	None	SORT1	Gp95|LDLCQ6|NT3|NTR3
-29062	HERC2	h	WD repeat domain 91	None	WDR91	HSPC049|SORF-1|SORF1
-6711	ECH1	s	spectrin beta, non-erythrocytic 1	None	SPTBN1	ELF|HEL102|SPTB2|betaSpII
-8924	HERC2|NEURL4|MAPK6|ECI2|UBE3A	b	HECT and RLD domain containing E3 ubiquitin protein ligase 2	None	HERC2	D15F37S1|MRT38|SHEP1|jdf2|p528
-51366	CAMK2D	s	ubiquitin protein ligase E3 component n-recognin 5	95	UBR5	DD5|EDD|EDD1|HYD
-5204	HERC2	h	prefoldin subunit 5	None	PFDN5	MM-1|MM1|PFD5
-80198	HERC2	h	MUS81 structure-specific endonuclease subunit	None	MUS81	SLX3
-94241	CAMK2D	s	tumor protein p53 inducible nuclear protein 1	95	TP53INP1	SIP|TP53DINP1|TP53INP1A|TP53INP1B|Teap|p53DINP1
-10455	HERC2|NEURL4|MAPK6|ECI2|UBE3A	b	enoyl-CoA delta isomerase 2	None	ECI2	ACBD2|DRS-1|DRS1|HCA88|PECI|dJ1013A10.3
-9119	HERC2	h	keratin 75	None	KRT75	K6HF|KB18|PFB
-8533	NEURL4	h	COP9 signalosome subunit 3	None	COPS3	CSN3|SGN3
-10592	NEURL4	s	structural maintenance of chromosomes 2	None	SMC2	CAP-E|CAPE|SMC-2|SMC2L1
-28952	HERC2	h	coiled-coil domain containing 22	None	CCDC22	CXorf37|JM1|RTSC2
-79858	HERC2	h	NIMA related kinase 11	None	NEK11	-
-84219	HERC2	b	WD repeat domain 24	None	WDR24	C16orf21|JFP7
-5887	UBE3A	b	RAD23 homolog B, nucleotide excision repair protein	None	RAD23B	HHR23B|HR23B|P58
-4638	CAMK2D	s	myosin light chain kinase	95	MYLK	AAT7|KRP|MLCK|MLCK1|MLCK108|MLCK210|MSTP083|MYLK1|smMLCK
-2071	NEURL4	b	ERCC excision repair 3, TFIIH core complex helicase subunit	None	ERCC3	BTF2|GTF2H|RAD25|TFIIH|TTD2|XPB
-10142	HERC2	h	A-kinase anchoring protein 9	None	AKAP9	AKAP-9|AKAP350|AKAP450|CG-NAP|HYPERION|LQT11|MU-RMS-40.16A|PPP1R45|PRKA9|YOTIAO
-5189	HERC2	h	peroxisomal biogenesis factor 1	None	PEX1	HMLR1|PBD1A|PBD1B|ZWS|ZWS1
-56243	ECH1|ECI2	h	KIAA1217	None	KIAA1217	SKT
-259266	HERC2|MAPK6	h	abnormal spindle microtubule assembly	None	ASPM	ASP|Calmbp1|MCPH5
-10163	CAMK2D	s	WAS protein family member 2	95	WASF2	IMD2|SCAR2|WASF4|WAVE2|dJ393P12.2
-11001	HERC2	h	solute carrier family 27 member 2	None	SLC27A2	ACSVL1|FACVL1|FATP2|HsT17226|VLACS|VLCS|hFACVL1
-3797	CAMK2D	s	kinesin family member 3C	95	KIF3C	-
-192669	ECH1|ECI2	h	argonaute 3, RISC catalytic component	None	AGO3	EIF2C3
-5499	ECH1	s	protein phosphatase 1 catalytic subunit alpha	None	PPP1CA	PP-1A|PP1A|PP1alpha|PPP1A
-10432	UBE3A	h	RNA binding motif protein 14	None	RBM14	COAA|PSP2|SIP|SYTIP1|TMEM137
-7024	CAMK2D	s	transcription factor CP2	90	TFCP2	LBP1C|LSF|LSF1D|SEF|TFCP2C
-7791	CAMK2D	s	zyxin	90	ZYX	ESP-2|HED-2
-8667	HERC2	b	eukaryotic translation initiation factor 3 subunit H	None	EIF3H	EIF3S3|eIF3-gamma|eIF3-p40
-8668	HERC2	b	eukaryotic translation initiation factor 3 subunit I	None	EIF3I	EIF3S2|PRO2242|TRIP-1|TRIP1|eIF3-beta|eIF3-p36
-55697	NEURL4	b	Vac14, PIKFYVE complex component	None	VAC14	ArPIKfyve|SNDC|TAX1BP2|TRX
-55699	NEURL4	h	isoleucyl-tRNA synthetase 2, mitochondrial	None	IARS2	CAGSSS|ILERS
-57599	HERC2	s	WD repeat domain 48	None	WDR48	P80|SPG60|UAF1
-54819	NEURL4	h	zinc finger CCHC-type containing 10	None	ZCCHC10	-
-23598	NEURL4	b	POZ/BTB and AT hook containing zinc finger 1	None	PATZ1	MAZR|PATZ|RIAZ|ZBTB19|ZNF278|ZSG|dJ400N23
-5970	CAMK2D	s	RELA proto-oncogene, NF-kB subunit	95	RELA	NFKB3|p65
-51741	HERC2	h	WW domain containing oxidoreductase	None	WWOX	D16S432E|EIEE28|FOR|FRA16D|HHCMA56|PRO0128|SCAR12|SDR41C1|WOX1
-64860	HERC2	h	armadillo repeat containing, X-linked 5	None	ARMCX5	GASP5
-10006	CAMK2D	s	abl interactor 1	95	ABI1	ABI-1|ABLBP4|E3B1|NAP1BP|SSH3BP|SSH3BP1
-6602	ECH1|ECI2	h	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	None	SMARCD1	BAF60A|CRACD1|Rsc6p
-6607	CAMK2D	s	survival of motor neuron 2, centromeric	95	SMN2	BCD541|C-BCD541|GEMIN1|SMNC|TDRD16B
-139285	CAMK2D	s	APC membrane recruitment protein 1	95	AMER1	FAM123B|OSCS|WTX
-1891	NEURL4|MAPK6|ECH1|ECI2|UBE3A	b	enoyl-CoA hydratase 1	None	ECH1	HPXEL
-6595	NEURL4|ECH1|ECI2	b	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	None	SMARCA2	BAF190|BRM|NCBRS|SNF2|SNF2L2|SNF2LA|SWI2|Sth1p|hBRM|hSNF2a
-3895	HERC2|NEURL4|UBE3A	b	kinectin 1	None	KTN1	CG1|KNT|MU-RMS-40.19
-708	NEURL4	s	complement C1q binding protein	None	C1QBP	GC1QBP|HABP1|SF2p32|gC1Q-R|gC1qR|p32
-83642	HERC2	b	selenoprotein O	None	SELENOO	SELO
-7408	UBE3A	s	vasodilator-stimulated phosphoprotein	None	VASP	-
-7407	CAMK2D	s	valyl-tRNA synthetase	90	VARS	G7A|VARS1|VARS2
-50628	HERC2	h	gem nuclear organelle associated protein 4	None	GEMIN4	HC56|HCAP1|HHRF-1|p97
-57509	NEURL4|UBE3A	b	microtubule associated tumor suppressor 1	None	MTUS1	ATBP|ATIP|ICIS|MP44|MTSG1
-286887	HERC2	s	keratin 6C	None	KRT6C	K6E|KRT6E|PPKNEFD
-23191	CAMK2D	s	cytoplasmic FMR1 interacting protein 1	95	CYFIP1	P140SRA-1|SHYC|SRA-1|SRA1
-5257	HERC2	b	phosphorylase kinase regulatory subunit beta	None	PHKB	-
-7464	NEURL4	s	coronin 2A	None	CORO2A	CLIPINB|IR10|WDR2
-2316	HERC2	h	filamin A	None	FLNA	ABP-280|ABPX|CSBS|CVD1|FLN|FLN-A|FLN1|FMD|MNS|NHBP|OPD|OPD1|OPD2|XLVD|XMVD
-2317	CAMK2D	s	filamin B	90	FLNB	ABP-278|ABP-280|AOI|FH1|FLN-B|FLN1L|LRS1|SCT|TABP|TAP
-28988	NEURL4|CAMK2D	b	drebrin like	95	DBNL	ABP1|HIP-55|HIP55|SH3P7
-29110	HERC2|CAMK2D	b	TANK binding kinase 1	95	TBK1	FTDALS4|NAK|T2K
-4288	HERC2	h	marker of proliferation Ki-67	None	MKI67	KIA|MIB-|MIB-1|PPP1R105
-161	CAMK2D	s	adaptor related protein complex 2 alpha 2 subunit	90	AP2A2	ADTAB|CLAPA2|HIP-9|HIP9|HYPJ
-808	NEURL4	b	calmodulin 3	None	CALM3	CaM|CaMIII|HEL-S-72|PHKD|PHKD3
-801	UBE3A	h	calmodulin 1	None	CALM1	CALML2|CAMI|CPVT4|DD132|LQT14|PHKD|caM
-54552	HERC2	h	G protein nucleolar 3 like	None	GNL3L	GNL3B
-51329	NEURL4	h	ADP ribosylation factor like GTPase 6 interacting protein 4	None	ARL6IP4	SFRS20|SR-25|SRp25|SRrp37
-22820	HERC2	h	coatomer protein complex subunit gamma 1	None	COPG1	COPG
-1856	CAMK2D	s	dishevelled segment polarity protein 2	95	DVL2	-
-10342	ECH1|ECI2	s	TRK-fused gene	None	TFG	HMSNP|SPG57|TF6|TRKT3
-27037	HERC2|MAPK6	h	tRNA methyltransferase 2 homolog A	None	TRMT2A	HTF9C
-689	CAMK2D	s	basic transcription factor 3	95	BTF3	BETA-NAC|BTF3a|BTF3b|NACB
-3835	HERC2	h	kinesin family member 22	None	KIF22	A-328A3.2|KID|KNSL4|OBP|OBP-1|OBP-2|SEMDJL2
-2778	HERC2	h	GNAS complex locus	None	GNAS	AHO|C20orf45|GNAS1|GPSA|GSA|GSP|NESP|POH|SCG6|SgVI
-1062	NEURL4	h	centromere protein E	None	CENPE	CENP-E|KIF10|MCPH13|PPP1R61
-2289	HERC2|CAMK2D	b	FK506 binding protein 5	95	FKBP5	AIG6|FKBP51|FKBP54|P54|PPIase|Ptg-10
-5830	CAMK2D	s	peroxisomal biogenesis factor 5	95	PEX5	PBD2A|PBD2B|PTS1-BP|PTS1R|PXR1|RCDP5
-6709	ECH1	s	spectrin alpha, non-erythrocytic 1	None	SPTAN1	EIEE5|NEAS|SPTA2
-5771	UBE3A	h	protein tyrosine phosphatase, non-receptor type 2	None	PTPN2	PTN2|PTPT|TC-PTP|TCELLPTP|TCPTP
-84220	NEURL4	b	RANBP2-like and GRIP domain containing 5	None	RGPD5	BS-63|BS63|HEL161|RGP5
-51429	ECH1|ECI2	h	sorting nexin 9	None	SNX9	SDP1|SH3PX1|SH3PXD3A|WISP
-57448	HERC2|NEURL4|CAMK2D	b	baculoviral IAP repeat containing 6	95	BIRC6	APOLLON|BRUCE
-10920	NEURL4	h	COP9 signalosome subunit 8	None	COPS8	COP9|CSN8|SGN8
-3636	CAMK2D	s	inositol polyphosphate phosphatase like 1	95	INPPL1	OPSMD|SHIP2
-5894	HERC2	h	Raf-1 proto-oncogene, serine/threonine kinase	None	RAF1	CMD1NN|CRAF|NS5|Raf-1|c-Raf
-22920	CAMK2D	s	kinesin associated protein 3	95	KIFAP3	FLA3|KAP-1|KAP-3|KAP3|SMAP|Smg-GDS|dJ190I16.1
-8975	CAMK2D	s	ubiquitin specific peptidase 13 (isopeptidase T-3)	90	USP13	ISOT3|IsoT-3
-9648	HERC2	h	GRIP and coiled-coil domain containing 2	None	GCC2	GCC185|RANBP2L4|REN53
-23557	HERC2	h	SNAP associated protein	None	SNAPIN	BLOC1S7|BLOS7|BORCS3|SNAPAP
-2746	HERC2|NEURL4|UBE3A	h	glutamate dehydrogenase 1	None	GLUD1	GDH|GDH1|GLUD
-10152	CAMK2D	s	abl interactor 2	95	ABI2	ABI-2|ABI2B|AIP-1|AblBP3|SSH3BP2|argBP1|argBPIA|argBPIB
-5500	ECH1	s	protein phosphatase 1 catalytic subunit beta	None	PPP1CB	HEL-S-80p|PP-1B|PP1B|PP1beta|PPP1CD
-25953	HERC2|NEURL4	h	paroxysmal nonkinesigenic dyskinesia	None	PNKD	BRP17|DYT8|FKSG19|FPD1|KIPP1184|MR-1|MR1|PDC|PKND1|TAHCCP2
-5297	NEURL4	h	phosphatidylinositol 4-kinase alpha	None	PI4KA	PI4K-ALPHA|PIK4CA|PMGYCHA|pi4K230
-5295	HERC2	h	phosphoinositide-3-kinase regulatory subunit 1	None	PIK3R1	AGM7|GRB1|IMD36|p85|p85-ALPHA
-54751	CAMK2D	s	filamin binding LIM protein 1	95	FBLIM1	CAL|FBLP-1|FBLP1
-27127	NEURL4	h	structural maintenance of chromosomes 1B	None	SMC1B	SMC1BETA|SMC1L2
-55275	CAMK2D	s	VPS53, GARP complex subunit	95	VPS53	HCCS1|PCH2E|hVps53L|pp13624
-4173	UBE3A	s	minichromosome maintenance complex component 4	None	MCM4	CDC21|CDC54|NKCD|NKGCD|P1-CDC21|hCdc21
-8260	NEURL4	h	N(alpha)-acetyltransferase 10, NatA catalytic subunit	None	NAA10	ARD1|ARD1A|ARD1P|DXS707|MCOPS1|NATD|OGDNS|TE2
-8409	HERC2	h	ubiquitously expressed prefoldin like chaperone	None	UXT	ART-27|STAP1
-5905	NEURL4	h	Ran GTPase activating protein 1	None	RANGAP1	Fug1|RANGAP|SD
-10787	CAMK2D	s	NCK associated protein 1	95	NCKAP1	HEM2|NAP1|NAP125|p125Nap1
-5347	MAPK6	h	polo like kinase 1	None	PLK1	PLK|STPK13
-23363	HERC2|UBE3A	h	obscurin like 1	None	OBSL1	-
-8243	CAMK2D	s	structural maintenance of chromosomes 1A	95	SMC1A	CDLS2|DXS423E|SB1.8|SMC1|SMC1L1|SMC1alpha|SMCB
-1499	HERC2	h	catenin beta 1	None	CTNNB1	CTNNB|MRD19|armadillo
-9126	CAMK2D	s	structural maintenance of chromosomes 3	95	SMC3	BAM|BMH|CDLS3|CSPG6|HCAP|SMC3L1
-4134	NEURL4	s	microtubule associated protein 4	None	MAP4	-
-10868	HERC2	b	ubiquitin specific peptidase 20	None	USP20	LSFR3A|VDU2|hVDU2
-3728	ECH1	s	junction plakoglobin	None	JUP	ARVD12|CTNNG|DP3|DPIII|PDGB|PKGB
-9857	NEURL4	h	centrosomal protein 350	None	CEP350	CAP350|GM133
-9859	HERC2|NEURL4|MAPK6|UBE3A	b	centrosomal protein 170	None	CEP170	FAM68A|KAB|KIAA0470
-7411	HERC2	h	VHL binding protein 1	None	VBP1	HIBBJ46|PFD3|PFDN3|VBP-1
-22862	HERC2	h	fibronectin type III domain containing 3A	None	FNDC3A	FNDC3|HUGO|bA203I16.1|bA203I16.5
-3884	NEURL4	s	keratin 33B	None	KRT33B	HA3II|Ha-3II|K33B|KRTHA3A|KRTHA3B|hHa3-II
-3880	ECH1	h	keratin 19	None	KRT19	CK19|K19|K1CS
-22853	CAMK2D	s	lemur tyrosine kinase 2	95	LMTK2	AATYK2|BREK|KPI-2|KPI2|LMR2|PPP1R100|cprk|hBREK
-4644	NEURL4	h	myosin VA	None	MYO5A	GS1|MYH12|MYO5|MYR12
-8826	HERC2|ECH1	h	IQ motif containing GTPase activating protein 1	None	IQGAP1	HUMORFA01|SAR1|p195
-84461	HERC2|NEURL4|MAPK6|ECI2|UBE3A	b	neuralized E3 ubiquitin protein ligase 4	None	NEURL4	-
+geneID	UBE3A_int	baits	cell_lines	descr	hcip_cutoff_sy5y	symbol	synonyms
+6790	None	MAPK6	h	aurora kinase A	None	AURKA	AIK|ARK1|AURA|BTAK|PPP1R47|STK15|STK6|STK7
+65080	None	ECH1	h	mitochondrial ribosomal protein L44	None	MRPL44	COXPD16|L44MT|MRP-L44
+6773	None	CAMK2D	s	signal transducer and activator of transcription 2	95	STAT2	IMD44|ISGF-3|P113|STAT113
+9500	None	CAMK2D	s	MAGE family member D1	90	MAGED1	DLXIN-1|NRAGE
+81567	None	ECH1	b	thioredoxin domain containing 5	None	TXNDC5	ENDOPDI|ERP46|HCC-2|HCC2|PDIA15|STRF8|UNQ364
+8689	APMS_seed	NEURL4|UBE3A	b	keratin 36	None	KRT36	HA6|KRTHA6|hHa6
+9747	None	MAPK6	h	TRPM8 channel associated factor 1	None	TCAF1	FAM115A
+10513	None	CAMK2D	s	amyloid beta precursor protein binding protein 2	95	APPBP2	APP-BP2|HS.84084|PAT1
+818	None	CAMK2D	s	calcium/calmodulin dependent protein kinase II gamma	95	CAMK2G	CAMK|CAMK-II|CAMKG
+815	None	CAMK2D	s	calcium/calmodulin dependent protein kinase II alpha	95	CAMK2A	CAMKA
+816	None	CAMK2D	s	calcium/calmodulin dependent protein kinase II beta	95	CAMK2B	CAM2|CAMK2|CAMKB
+817	None	NEURL4|CAMK2D	s	calcium/calmodulin dependent protein kinase II delta	95	CAMK2D	CAMKD
+8732	None	HERC2	h	RNA guanylyltransferase and 5'-phosphatase	None	RNGTT	CAP1A|HCE|HCE1|hCAP
+55787	None	HERC2	h	taxilin gamma	None	TXLNG	CXorf15|ELRG|FIAT|LSR5|TXLNGX
+5079	Y2H_seed	UBE3A	yeast	paired box 5	None	PAX5	ALL3|BSAP
+26999	None	CAMK2D	s	cytoplasmic FMR1 interacting protein 2	95	CYFIP2	PIR121
+51386	None	HERC2	b	eukaryotic translation initiation factor 3 subunit L	None	EIF3L	EIF3EIP|EIF3S11|EIF3S6IP|HSPC021|HSPC025|MSTP005
+55662	APMS_seed	UBE3A	b	hypoxia inducible factor 1 alpha subunit inhibitor	None	HIF1AN	FIH1
+8496	None	CAMK2D	s	PPFIA binding protein 1	95	PPFIBP1	L2|SGT2|hSGT2|hSgt2p
+322	None	NEURL4	b	amyloid beta precursor protein binding family B member 1	None	APBB1	FE65|MGC:9072|RIR
+6418	None	HERC2	s	SET nuclear proto-oncogene	None	SET	2PP2A|I2PP2A|IGAAD|IPP2A2|PHAPII|TAF-I|TAF-IBETA
+321	None	CAMK2D	s	amyloid beta precursor protein binding family A member 2	90	APBA2	D15S1518E|HsT16821|LIN-10|MGC:14091|MINT2|X11-BETA|X11L
+55858	None	HERC2	h	transmembrane protein 165	None	TMEM165	CDG2K|FT27|GDT1|TMPT27|TPARL
+81488	None	NEURL4	h	RNA polymerase II subunit M	None	POLR2M	GCOM1|GRINL1A|Gdown|Gdown1
+58500	Y2H_seed	UBE3A	yeast	zinc finger protein 250	None	ZNF250	ZFP647|ZNF647
+64778	None	CAMK2D	s	fibronectin type III domain containing 3B	95	FNDC3B	FAD104|PRO4979|YVTM2421
+6272	None	HERC2	h	sortilin 1	None	SORT1	Gp95|LDLCQ6|NT3|NTR3
+29062	None	HERC2	h	WD repeat domain 91	None	WDR91	HSPC049|SORF-1|SORF1
+6711	None	ECH1	s	spectrin beta, non-erythrocytic 1	None	SPTBN1	ELF|HEL102|SPTB2|betaSpII
+8924	APMS_seed	HERC2|NEURL4|MAPK6|ECI2|UBE3A	b	HECT and RLD domain containing E3 ubiquitin protein ligase 2	None	HERC2	D15F37S1|MRT38|SHEP1|jdf2|p528
+51366	None	CAMK2D	s	ubiquitin protein ligase E3 component n-recognin 5	95	UBR5	DD5|EDD|EDD1|HYD
+5204	None	HERC2	h	prefoldin subunit 5	None	PFDN5	MM-1|MM1|PFD5
+80198	None	HERC2	h	MUS81 structure-specific endonuclease subunit	None	MUS81	SLX3
+94241	None	CAMK2D	s	tumor protein p53 inducible nuclear protein 1	95	TP53INP1	SIP|TP53DINP1|TP53INP1A|TP53INP1B|Teap|p53DINP1
+10455	APMS_seed	HERC2|NEURL4|MAPK6|ECI2|UBE3A	b	enoyl-CoA delta isomerase 2	None	ECI2	ACBD2|DRS-1|DRS1|HCA88|PECI|dJ1013A10.3
+9119	None	HERC2	h	keratin 75	None	KRT75	K6HF|KB18|PFB
+8533	None	NEURL4	h	COP9 signalosome subunit 3	None	COPS3	CSN3|SGN3
+10592	None	NEURL4	s	structural maintenance of chromosomes 2	None	SMC2	CAP-E|CAPE|SMC-2|SMC2L1
+28952	None	HERC2	h	coiled-coil domain containing 22	None	CCDC22	CXorf37|JM1|RTSC2
+79858	None	HERC2	h	NIMA related kinase 11	None	NEK11	-
+84219	None	HERC2	b	WD repeat domain 24	None	WDR24	C16orf21|JFP7
+5887	Y2H_APMS_seed	UBE3A	b_yeast	RAD23 homolog B, nucleotide excision repair protein	None	RAD23B	HHR23B|HR23B|P58
+4638	None	CAMK2D	s	myosin light chain kinase	95	MYLK	AAT7|KRP|MLCK|MLCK1|MLCK108|MLCK210|MSTP083|MYLK1|smMLCK
+2071	None	NEURL4	b	ERCC excision repair 3, TFIIH core complex helicase subunit	None	ERCC3	BTF2|GTF2H|RAD25|TFIIH|TTD2|XPB
+10142	None	HERC2	h	A-kinase anchoring protein 9	None	AKAP9	AKAP-9|AKAP350|AKAP450|CG-NAP|HYPERION|LQT11|MU-RMS-40.16A|PPP1R45|PRKA9|YOTIAO
+5189	None	HERC2	h	peroxisomal biogenesis factor 1	None	PEX1	HMLR1|PBD1A|PBD1B|ZWS|ZWS1
+56243	None	ECH1|ECI2	h	KIAA1217	None	KIAA1217	SKT
+55037	Y2H_seed	UBE3A	yeast	pentatricopeptide repeat domain 3	None	PTCD3	MRP-S39
+259266	None	HERC2|MAPK6	h	abnormal spindle microtubule assembly	None	ASPM	ASP|Calmbp1|MCPH5
+10163	None	CAMK2D	s	WAS protein family member 2	95	WASF2	IMD2|SCAR2|WASF4|WAVE2|dJ393P12.2
+11001	None	HERC2	h	solute carrier family 27 member 2	None	SLC27A2	ACSVL1|FACVL1|FATP2|HsT17226|VLACS|VLCS|hFACVL1
+3797	None	CAMK2D	s	kinesin family member 3C	95	KIF3C	-
+192669	None	ECH1|ECI2	h	argonaute 3, RISC catalytic component	None	AGO3	EIF2C3
+5499	None	ECH1	s	protein phosphatase 1 catalytic subunit alpha	None	PPP1CA	PP-1A|PP1A|PP1alpha|PPP1A
+10432	APMS_seed	UBE3A	h	RNA binding motif protein 14	None	RBM14	COAA|PSP2|SIP|SYTIP1|TMEM137
+7024	None	CAMK2D	s	transcription factor CP2	90	TFCP2	LBP1C|LSF|LSF1D|SEF|TFCP2C
+7791	None	CAMK2D	s	zyxin	90	ZYX	ESP-2|HED-2
+8667	None	HERC2	b	eukaryotic translation initiation factor 3 subunit H	None	EIF3H	EIF3S3|eIF3-gamma|eIF3-p40
+8668	None	HERC2	b	eukaryotic translation initiation factor 3 subunit I	None	EIF3I	EIF3S2|PRO2242|TRIP-1|TRIP1|eIF3-beta|eIF3-p36
+55697	None	NEURL4	b	Vac14, PIKFYVE complex component	None	VAC14	ArPIKfyve|SNDC|TAX1BP2|TRX
+55699	None	NEURL4	h	isoleucyl-tRNA synthetase 2, mitochondrial	None	IARS2	CAGSSS|ILERS
+9802	Y2H_seed	UBE3A	yeast	DAZ associated protein 2	None	DAZAP2	PRTB
+57599	None	HERC2	s	WD repeat domain 48	None	WDR48	P80|SPG60|UAF1
+54819	None	NEURL4	h	zinc finger CCHC-type containing 10	None	ZCCHC10	-
+23598	None	NEURL4	b	POZ/BTB and AT hook containing zinc finger 1	None	PATZ1	MAZR|PATZ|RIAZ|ZBTB19|ZNF278|ZSG|dJ400N23
+5970	None	CAMK2D	s	RELA proto-oncogene, NF-kB subunit	95	RELA	NFKB3|p65
+51741	None	HERC2	h	WW domain containing oxidoreductase	None	WWOX	D16S432E|EIEE28|FOR|FRA16D|HHCMA56|PRO0128|SCAR12|SDR41C1|WOX1
+64860	None	HERC2	h	armadillo repeat containing, X-linked 5	None	ARMCX5	GASP5
+10006	None	CAMK2D	s	abl interactor 1	95	ABI1	ABI-1|ABLBP4|E3B1|NAP1BP|SSH3BP|SSH3BP1
+6602	None	ECH1|ECI2	h	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	None	SMARCD1	BAF60A|CRACD1|Rsc6p
+6607	None	CAMK2D	s	survival of motor neuron 2, centromeric	95	SMN2	BCD541|C-BCD541|GEMIN1|SMNC|TDRD16B
+139285	None	CAMK2D	s	APC membrane recruitment protein 1	95	AMER1	FAM123B|OSCS|WTX
+1891	APMS_seed	NEURL4|MAPK6|ECH1|ECI2|UBE3A	b	enoyl-CoA hydratase 1	None	ECH1	HPXEL
+6595	None	NEURL4|ECH1|ECI2	b	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	None	SMARCA2	BAF190|BRM|NCBRS|SNF2|SNF2L2|SNF2LA|SWI2|Sth1p|hBRM|hSNF2a
+3895	APMS_seed	HERC2|NEURL4|UBE3A	b	kinectin 1	None	KTN1	CG1|KNT|MU-RMS-40.19
+708	None	NEURL4	s	complement C1q binding protein	None	C1QBP	GC1QBP|HABP1|SF2p32|gC1Q-R|gC1qR|p32
+83642	None	HERC2	b	selenoprotein O	None	SELENOO	SELO
+7408	APMS_seed	UBE3A	s	vasodilator-stimulated phosphoprotein	None	VASP	-
+7407	None	CAMK2D	s	valyl-tRNA synthetase	90	VARS	G7A|VARS1|VARS2
+50628	None	HERC2	h	gem nuclear organelle associated protein 4	None	GEMIN4	HC56|HCAP1|HHRF-1|p97
+57509	APMS_seed	NEURL4|UBE3A	b	microtubule associated tumor suppressor 1	None	MTUS1	ATBP|ATIP|ICIS|MP44|MTSG1
+286887	None	HERC2	s	keratin 6C	None	KRT6C	K6E|KRT6E|PPKNEFD
+23191	None	CAMK2D	s	cytoplasmic FMR1 interacting protein 1	95	CYFIP1	P140SRA-1|SHYC|SRA-1|SRA1
+5257	None	HERC2	b	phosphorylase kinase regulatory subunit beta	None	PHKB	-
+7464	None	NEURL4	s	coronin 2A	None	CORO2A	CLIPINB|IR10|WDR2
+2316	None	HERC2	h	filamin A	None	FLNA	ABP-280|ABPX|CSBS|CVD1|FLN|FLN-A|FLN1|FMD|MNS|NHBP|OPD|OPD1|OPD2|XLVD|XMVD
+2317	None	CAMK2D	s	filamin B	90	FLNB	ABP-278|ABP-280|AOI|FH1|FLN-B|FLN1L|LRS1|SCT|TABP|TAP
+28988	None	NEURL4|CAMK2D	b	drebrin like	95	DBNL	ABP1|HIP-55|HIP55|SH3P7
+29110	None	HERC2|CAMK2D	b	TANK binding kinase 1	95	TBK1	FTDALS4|NAK|T2K
+4288	None	HERC2	h	marker of proliferation Ki-67	None	MKI67	KIA|MIB-|MIB-1|PPP1R105
+161	None	CAMK2D	s	adaptor related protein complex 2 alpha 2 subunit	90	AP2A2	ADTAB|CLAPA2|HIP-9|HIP9|HYPJ
+808	None	NEURL4	b	calmodulin 3	None	CALM3	CaM|CaMIII|HEL-S-72|PHKD|PHKD3
+801	APMS_seed	UBE3A	h	calmodulin 1	None	CALM1	CALML2|CAMI|CPVT4|DD132|LQT14|PHKD|caM
+54552	None	HERC2	h	G protein nucleolar 3 like	None	GNL3L	GNL3B
+51329	None	NEURL4	h	ADP ribosylation factor like GTPase 6 interacting protein 4	None	ARL6IP4	SFRS20|SR-25|SRp25|SRrp37
+22820	None	HERC2	h	coatomer protein complex subunit gamma 1	None	COPG1	COPG
+1856	None	CAMK2D	s	dishevelled segment polarity protein 2	95	DVL2	-
+10342	None	ECH1|ECI2	s	TRK-fused gene	None	TFG	HMSNP|SPG57|TF6|TRKT3
+27037	None	HERC2|MAPK6	h	tRNA methyltransferase 2 homolog A	None	TRMT2A	HTF9C
+689	None	CAMK2D	s	basic transcription factor 3	95	BTF3	BETA-NAC|BTF3a|BTF3b|NACB
+7159	Y2H_seed	UBE3A	yeast	tumor protein p53 binding protein 2	None	TP53BP2	53BP2|ASPP2|BBP|P53BP2|PPP1R13A
+3835	None	HERC2	h	kinesin family member 22	None	KIF22	A-328A3.2|KID|KNSL4|OBP|OBP-1|OBP-2|SEMDJL2
+2778	None	HERC2	h	GNAS complex locus	None	GNAS	AHO|C20orf45|GNAS1|GPSA|GSA|GSP|NESP|POH|SCG6|SgVI
+1062	None	NEURL4	h	centromere protein E	None	CENPE	CENP-E|KIF10|MCPH13|PPP1R61
+2289	None	HERC2|CAMK2D	b	FK506 binding protein 5	95	FKBP5	AIG6|FKBP51|FKBP54|P54|PPIase|Ptg-10
+5830	None	CAMK2D	s	peroxisomal biogenesis factor 5	95	PEX5	PBD2A|PBD2B|PTS1-BP|PTS1R|PXR1|RCDP5
+6709	None	ECH1	s	spectrin alpha, non-erythrocytic 1	None	SPTAN1	EIEE5|NEAS|SPTA2
+5771	APMS_seed	UBE3A	h	protein tyrosine phosphatase, non-receptor type 2	None	PTPN2	PTN2|PTPT|TC-PTP|TCELLPTP|TCPTP
+84220	None	NEURL4	b	RANBP2-like and GRIP domain containing 5	None	RGPD5	BS-63|BS63|HEL161|RGP5
+51429	None	ECH1|ECI2	h	sorting nexin 9	None	SNX9	SDP1|SH3PX1|SH3PXD3A|WISP
+57448	None	HERC2|NEURL4|CAMK2D	b	baculoviral IAP repeat containing 6	95	BIRC6	APOLLON|BRUCE
+10920	None	NEURL4	h	COP9 signalosome subunit 8	None	COPS8	COP9|CSN8|SGN8
+3636	None	CAMK2D	s	inositol polyphosphate phosphatase like 1	95	INPPL1	OPSMD|SHIP2
+5894	None	HERC2	h	Raf-1 proto-oncogene, serine/threonine kinase	None	RAF1	CMD1NN|CRAF|NS5|Raf-1|c-Raf
+22920	None	CAMK2D	s	kinesin associated protein 3	95	KIFAP3	FLA3|KAP-1|KAP-3|KAP3|SMAP|Smg-GDS|dJ190I16.1
+8975	None	CAMK2D	s	ubiquitin specific peptidase 13 (isopeptidase T-3)	90	USP13	ISOT3|IsoT-3
+9648	None	HERC2	h	GRIP and coiled-coil domain containing 2	None	GCC2	GCC185|RANBP2L4|REN53
+23557	None	HERC2	h	SNAP associated protein	None	SNAPIN	BLOC1S7|BLOS7|BORCS3|SNAPAP
+2746	APMS_seed	HERC2|NEURL4|UBE3A	h	glutamate dehydrogenase 1	None	GLUD1	GDH|GDH1|GLUD
+10152	None	CAMK2D	s	abl interactor 2	95	ABI2	ABI-2|ABI2B|AIP-1|AblBP3|SSH3BP2|argBP1|argBPIA|argBPIB
+5500	None	ECH1	s	protein phosphatase 1 catalytic subunit beta	None	PPP1CB	HEL-S-80p|PP-1B|PP1B|PP1beta|PPP1CD
+29978	Y2H_seed	UBE3A	yeast	ubiquilin 2	None	UBQLN2	ALS15|CHAP1|DSK2|HRIHFB2157|N4BP4|PLIC2
+25953	None	HERC2|NEURL4	h	paroxysmal nonkinesigenic dyskinesia	None	PNKD	BRP17|DYT8|FKSG19|FPD1|KIPP1184|MR-1|MR1|PDC|PKND1|TAHCCP2
+5297	None	NEURL4	h	phosphatidylinositol 4-kinase alpha	None	PI4KA	PI4K-ALPHA|PIK4CA|PMGYCHA|pi4K230
+5295	None	HERC2	h	phosphoinositide-3-kinase regulatory subunit 1	None	PIK3R1	AGM7|GRB1|IMD36|p85|p85-ALPHA
+54751	None	CAMK2D	s	filamin binding LIM protein 1	95	FBLIM1	CAL|FBLP-1|FBLP1
+27127	None	NEURL4	h	structural maintenance of chromosomes 1B	None	SMC1B	SMC1BETA|SMC1L2
+55275	None	CAMK2D	s	VPS53, GARP complex subunit	95	VPS53	HCCS1|PCH2E|hVps53L|pp13624
+4173	APMS_seed	UBE3A	s	minichromosome maintenance complex component 4	None	MCM4	CDC21|CDC54|NKCD|NKGCD|P1-CDC21|hCdc21
+8260	None	NEURL4	h	N(alpha)-acetyltransferase 10, NatA catalytic subunit	None	NAA10	ARD1|ARD1A|ARD1P|DXS707|MCOPS1|NATD|OGDNS|TE2
+8409	None	HERC2	h	ubiquitously expressed prefoldin like chaperone	None	UXT	ART-27|STAP1
+5905	None	NEURL4	h	Ran GTPase activating protein 1	None	RANGAP1	Fug1|RANGAP|SD
+10787	None	CAMK2D	s	NCK associated protein 1	95	NCKAP1	HEM2|NAP1|NAP125|p125Nap1
+5347	None	MAPK6	h	polo like kinase 1	None	PLK1	PLK|STPK13
+23363	APMS_seed	HERC2|UBE3A	h	obscurin like 1	None	OBSL1	-
+8243	None	CAMK2D	s	structural maintenance of chromosomes 1A	95	SMC1A	CDLS2|DXS423E|SB1.8|SMC1|SMC1L1|SMC1alpha|SMCB
+1499	None	HERC2	h	catenin beta 1	None	CTNNB1	CTNNB|MRD19|armadillo
+9126	None	CAMK2D	s	structural maintenance of chromosomes 3	95	SMC3	BAM|BMH|CDLS3|CSPG6|HCAP|SMC3L1
+4134	None	NEURL4	s	microtubule associated protein 4	None	MAP4	-
+10868	None	HERC2	b	ubiquitin specific peptidase 20	None	USP20	LSFR3A|VDU2|hVDU2
+3728	None	ECH1	s	junction plakoglobin	None	JUP	ARVD12|CTNNG|DP3|DPIII|PDGB|PKGB
+9857	None	NEURL4	h	centrosomal protein 350	None	CEP350	CAP350|GM133
+9859	APMS_seed	HERC2|NEURL4|MAPK6|UBE3A	b	centrosomal protein 170	None	CEP170	FAM68A|KAB|KIAA0470
+9219	None	CAMK2D	s	metastasis associated 1 family member 2	95	MTA2	MTA1L1|PID
+7411	None	HERC2	h	VHL binding protein 1	None	VBP1	HIBBJ46|PFD3|PFDN3|VBP-1
+22862	None	HERC2	h	fibronectin type III domain containing 3A	None	FNDC3A	FNDC3|HUGO|bA203I16.1|bA203I16.5
+3884	None	NEURL4	s	keratin 33B	None	KRT33B	HA3II|Ha-3II|K33B|KRTHA3A|KRTHA3B|hHa3-II
+3880	None	ECH1	h	keratin 19	None	KRT19	CK19|K19|K1CS
+22853	None	CAMK2D	s	lemur tyrosine kinase 2	95	LMTK2	AATYK2|BREK|KPI-2|KPI2|LMR2|PPP1R100|cprk|hBREK
+4644	None	NEURL4	h	myosin VA	None	MYO5A	GS1|MYH12|MYO5|MYR12
+8826	None	HERC2|ECH1	h	IQ motif containing GTPase activating protein 1	None	IQGAP1	HUMORFA01|SAR1|p195
+84461	APMS_seed	HERC2|NEURL4|MAPK6|ECI2|UBE3A	b	neuralized E3 ubiquitin protein ligase 4	None	NEURL4	-

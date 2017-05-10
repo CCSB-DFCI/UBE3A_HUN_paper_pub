@@ -30,19 +30,6 @@ if __name__ == '__main__':
 	HUN_preys = set(network_classes_igraph_pub.read_seed_genes(HUN_seed_file,0))
 	print 'number of HUN complex preys:', len(HUN_preys)
 
-	# get a dict with prey and cell line info for UBE3A preys (because they are not
-	# part of the HUN seed gene file)
-	UBE3A_dict = {}
-	UBE3A_file = config.output_path + 'UBE3A_seed_file.txt'
-	file1 = open(UBE3A_file,'r')
-	entries = file1.readlines()
-	file1.close()
-	for line in entries[1:]:
-		tab_list = str.split(line[:-1],'\t')
-		geneID = tab_list[0]
-		cell_lines = tab_list[6]
-		UBE3A_dict[geneID] = cell_lines
-
 	### build a network that connects the CAMK2D preys to the preys from the HUN complex
 	### using once only QBCHL and once QBCHL and the additional sources for edges
 	for i in range(2):
@@ -79,10 +66,9 @@ if __name__ == '__main__':
 		orphan_nodes_indices = [v.index for v in orphan_nodes]
 		gsub.delete_vertices(orphan_nodes_indices)
 		# add HCIP cutoff for CAMK2D preys and baits and cell lines info from the HUN
-		# seel file to the nodes
+		# seed file to the nodes
 		network_classes_igraph_pub.add_node_attributes(gsub,seed_gene_file,[7])
-		HUN_file = config.output_path + 'HUN_complex_seed_file.txt'
-		network_classes_igraph_pub.add_node_attributes(gsub,HUN_file,[4,6])
+		network_classes_igraph_pub.add_node_attributes(gsub,HUN_seed_file,[4,6])
 		# merge the node attribute info on the cell lines and baits
 		for node in gsub.vs:
 			geneID = node['name']
@@ -91,19 +77,25 @@ if __name__ == '__main__':
 					node['baits'] = 'CAMK2D'
 				else:
 					node['baits'] = node['baits'] + '|CAMK2D'
-				if node['cell_lines'] is None:
+				if node['cell_lines'] is None or node['cell_lines'] == 'bait':
 					node['cell_lines'] = 's'
 				elif node['cell_lines'] == 'h':
 					node['cell_lines'] = 'b'
-			if geneID in UBE3A_dict:
-				if node['baits'] is None:
-					node['baits'] = 'UBE3A'
+				elif node['cell_lines'] == 'h_yeast':
+					node['cell_lines'] = 'b_yeast'
+
+		# add a new attribute that denotes whether a node was a UBE3A prey or Y2H interactor or none or both
+		gsub.vs['UBE3A_int'] = [None for i in range(len(gsub.vs))]
+		for node in gsub.vs:
+			if 'UBE3A' in node['baits']:
+				if node['cell_lines'].find('yeast') > -1:
+					if node['cell_lines'] == 'yeast':
+						node['UBE3A_int'] = 'Y2H_seed'
+					else:
+						node['UBE3A_int'] = 'Y2H_APMS_seed'
 				else:
-					node['baits'] = node['baits'] + '|UBE3A'
-				if node['cell_lines'] is None:
-					node['cell_lines'] = UBE3A_dict[geneID]
-				elif node['cell_lines'] == 'h' and UBE3A_dict[geneID] != 'h':
-					node['cell_lines'] = 'b'
+					node['UBE3A_int'] = 'APMS_seed'
+
 		print 'number of nodes:', len(gsub.vs)
 		print 'number of edges:', len(gsub.es)
 		# write out
