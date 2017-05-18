@@ -181,7 +181,10 @@ def test_signif_CAMK2D_HUNcomplex_link(bait_file,complex_file,core_complex_membe
 	num_larger = len(filter(lambda s: s >= count_preys_connected_to_core_complex,counts_preys_connected_to_core_complex))
 	mean = numpy.mean(counts_preys_connected_to_core_complex)
 	std = numpy.std(counts_preys_connected_to_core_complex)
-	z_score = (count_preys_connected_to_core_complex - mean)/std
+	if std > 0:
+		z_score = (count_preys_connected_to_core_complex - mean)/std
+	else:
+		z_score = 0
 	p_value = num_larger/float(num_rand)
 	target.write('num_preys_connected_core_complex\t' + str(count_preys_connected_to_core_complex) + '\t' + \
 				  str(p_value) + '\t' + str(mean) + '\t' + str(std) + '\t' + str(z_score) + '\t' + str(num_rand) + '\n')
@@ -189,7 +192,10 @@ def test_signif_CAMK2D_HUNcomplex_link(bait_file,complex_file,core_complex_membe
 	num_larger = len(filter(lambda s: s >= count_preys_connected_to_complex_preys,counts_preys_connected_to_complex_preys))
 	mean = numpy.mean(counts_preys_connected_to_complex_preys)
 	std = numpy.std(counts_preys_connected_to_complex_preys)
-	z_score = (count_preys_connected_to_complex_preys - mean)/std
+	if std > 0:
+		z_score = (count_preys_connected_to_complex_preys - mean)/std
+	else:
+		z_score = 0
 	p_value = num_larger/float(num_rand)
 	target.write('num_preys_connected_complex_preys\t' + str(count_preys_connected_to_complex_preys) + '\t' + \
 				  str(p_value) + '\t' + str(mean) + '\t' + str(std) + '\t' + str(z_score) + '\t' + str(num_rand) + '\n')
@@ -197,7 +203,10 @@ def test_signif_CAMK2D_HUNcomplex_link(bait_file,complex_file,core_complex_membe
 	num_larger = len(filter(lambda s: s >= len(HUN_neighbors),counts_complex_interactors))
 	mean = numpy.mean(counts_complex_interactors)
 	std = numpy.std(counts_complex_interactors)
-	z_score = (len(HUN_neighbors) - mean)/std
+	if std > 0:
+		z_score = (len(HUN_neighbors) - mean)/std
+	else:
+		z_score = 0
 	p_value = num_larger/float(num_rand)
 	target.write('num_complex_interactors\t' + str(len(HUN_neighbors)) + '\t' + str(p_value) + '\t' + str(mean) + \
 				 '\t' + str(std) + '\t' + str(z_score) + '\t' + str(num_rand) + '\n')
@@ -226,7 +235,7 @@ if __name__ == '__main__':
 		outfile_stats = config.output_path + 'summary_signif_LCC_seed_files.txt'
 		seed_files = ['CAMK2D_seed_file.txt','ECH1_seed_file.txt','ECI2_seed_file.txt','HERC2_seed_file.txt',\
 					  'HIF1AN_seed_file.txt','MAPK6_seed_file.txt','NEURL4_seed_file.txt','UBE3A_seed_file.txt',\
-					  'UBE3A_seed_file_with_proteasome.txt','UBE3A_seed_file_no_Y2H.txt']
+					  'UBE3A_seed_file_with_proteasome.txt','UBE3A_seed_file_no_Y2H.txt','HUN_complex_seed_file.txt']
 		test_signif_LCC_of_seed_genes(num_rand,seed_files,real_network,outfile_stats)
 
 	elif analysis == 'hun_lcc':
@@ -241,6 +250,22 @@ if __name__ == '__main__':
 		complex_file = config.output_path + 'HUN_UBE3A_seed_file.txt'
 		core_complex_members = set(['5597','1891','10455','84461','8924','7337'])
 		out_prefix = 'CAMK2D_HUN_'
+		test_signif_CAMK2D_HUNcomplex_link(bait_file,complex_file,core_complex_members,real_network,num_rand,out_prefix)
+
+	elif analysis == 'camk2d_hn':
+
+		bait_file = config.output_path + 'CAMK2D_seed_file.txt'
+		complex_file = config.output_path + 'HUN_complex_seed_file.txt'
+		core_complex_members = set(['5597','1891','10455','84461','8924'])
+		out_prefix = 'CAMK2D_HN_'
+		test_signif_CAMK2D_HUNcomplex_link(bait_file,complex_file,core_complex_members,real_network,num_rand,out_prefix)
+
+	elif analysis == 'camk2d_ube3a':
+
+		bait_file = config.output_path + 'CAMK2D_seed_file.txt'
+		complex_file = config.output_path + 'UBE3A_seed_file.txt'
+		core_complex_members = set(['7337'])
+		out_prefix = 'CAMK2D_UBE3A_'
 		test_signif_CAMK2D_HUNcomplex_link(bait_file,complex_file,core_complex_members,real_network,num_rand,out_prefix)
 
 	else:
