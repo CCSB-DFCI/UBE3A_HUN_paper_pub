@@ -1,6 +1,6 @@
 # UBE3A_HUN_paper_pub
 This repository contains all code and files that accompany the following publication:
-<citation>
+Martínez-Noël et al. 2017 (submitted)
 <DOI>
 
 This code was built and executed on a MacBook Pro under MacOS Sierra with Python 2.7.8 and Jupyter 4.3.1. All additional python packages that need to be installed in order to run all code can be found in requirements.txt.
